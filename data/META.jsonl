@@ -1,4 +1,4 @@
-{"package":"3chat-customer-growth","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"3chat-customer-growth","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"@0xsline/dsh-spotlight","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":585,"first_published_at":"2026-08-14T09:37:00.387Z","latest_version":"0.0.2","latest_published_at":"2026-08-14T10:40:32.291Z"}
 {"package":"@1e0zj/dsh-plugin-mall","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1502,"first_published_at":"2026-08-15T13:25:03.166Z","latest_version":"0.4.17","latest_published_at":"2026-08-27T13:32:08.276Z"}
 {"package":"@240xu/dsh-message-ops","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":5171,"first_published_at":"2026-09-27T22:00:46.983Z","latest_version":"0.11.1","latest_published_at":"2026-10-21T13:58:20.487Z"}
@@ -6,9 +6,9 @@
 {"package":"@240xu/dsh-session-search","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1811,"first_published_at":"2026-09-27T22:00:55.420Z","latest_version":"0.1.11","latest_published_at":"2026-10-21T14:05:03.261Z"}
 {"package":"@240xu/dsh-websearch","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":4854,"first_published_at":"2026-08-22T15:18:47.784Z","latest_version":"2.8.8","latest_published_at":"2026-10-21T14:10:40.457Z"}
 {"package":"@2jumpsina/dsh-context-guard","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1727,"first_published_at":"2026-09-30T05:33:49.449Z","latest_version":"0.7.6","latest_published_at":"2026-10-22T08:06:52.721Z"}
-{"package":"@7dgroup/dsh-skill-7d-code-reviewer","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@7dgroup/dsh-skill-7d-git-commit","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@873360545/dsh-auto-shutdown","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@7dgroup/dsh-skill-7d-code-reviewer","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@7dgroup/dsh-skill-7d-git-commit","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@873360545/dsh-auto-shutdown","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"@99galaxy/dsh-plugin-market","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1399,"first_published_at":"2026-09-18T18:34:20.856Z","latest_version":"1.1.1","latest_published_at":"2026-09-23T14:18:47.425Z"}
 {"package":"@a42null/dsh-opencode-zen-plugin","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":456,"first_published_at":"2026-10-04T06:50:49.958Z","latest_version":"0.3.6","latest_published_at":"2026-10-04T07:04:18.435Z"}
 {"package":"@a9i5k4/dsh-anchored-monitor","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":992,"first_published_at":"2026-08-17T17:47:08.100Z","latest_version":"0.3.1","latest_published_at":"2026-09-05T09:09:22.544Z"}
@@ -19,11 +19,11 @@
 {"package":"@adenxie/dsh-vercel","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":53,"first_published_at":"2026-10-19T05:07:49.032Z","latest_version":"0.4.0","latest_published_at":"2026-10-19T13:09:08.221Z"}
 {"package":"@adwmc/helm-d","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":399,"first_published_at":"2026-09-14T17:29:28.998Z","latest_version":"0.5.1","latest_published_at":"2026-10-21T14:10:30.245Z"}
 {"package":"@aeroscis/dsh-temptask","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1414,"first_published_at":"2026-09-27T10:21:38.001Z","latest_version":"0.5.0","latest_published_at":"2026-10-20T14:18:09.733Z"}
-{"package":"@ahiosuz/dsh-workspace-tools","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@ahiosuz/dsh-workspace-tools","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"@ai-galaxy/dsh-sound","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":949,"first_published_at":"2026-09-13T04:12:06.937Z","latest_version":"0.4.1","latest_published_at":"2026-09-14T02:43:55.411Z"}
 {"package":"@alexpeng/dsh-custom-plugin","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":2285,"first_published_at":"2026-08-22T14:45:34.391Z","latest_version":"0.8.0","latest_published_at":"2026-10-17T13:21:44.077Z"}
 {"package":"@all3cn/dsh-better-sidebar-n23","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1184,"first_published_at":"2026-08-31T17:21:40.936Z","latest_version":"0.1.0","latest_published_at":"2026-08-31T17:21:41.404Z"}
-{"package":"@amoji/dsh","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@amoji/dsh","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"@angelyeye/dsh-cost-tracker","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1719,"first_published_at":"2026-09-12T19:47:35.564Z","latest_version":"1.9.6","latest_published_at":"2026-10-17T13:25:07.237Z"}
 {"package":"@anionex/dsh-computer-use","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":3445,"first_published_at":"2026-08-14T12:52:39.072Z","latest_version":"0.3.4","latest_published_at":"2026-10-18T02:28:10.513Z"}
 {"package":"@anionex/dsh-turn-rewind","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":4751,"first_published_at":"2026-08-14T14:58:43.785Z","latest_version":"0.3.10","latest_published_at":"2026-10-18T02:28:54.974Z"}
@@ -38,33 +38,33 @@
 {"package":"@awiki/dsh-plugin","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1697,"first_published_at":"2026-08-17T12:44:56.132Z","latest_version":"0.3.19","latest_published_at":"2026-10-22T06:14:15.981Z"}
 {"package":"@banana-peeljj12/dsh-trellis","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1735,"first_published_at":"2026-08-18T03:29:35.618Z","latest_version":"0.4.5","latest_published_at":"2026-10-24T05:38:58.867Z"}
 {"package":"@chenjh12/dsh-capmap-viz","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":678,"first_published_at":"2026-09-07T07:08:55.095Z","latest_version":"0.2.4","latest_published_at":"2026-09-08T09:08:05.418Z"}
-{"package":"@dph/taskboard","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@dsh-external/dsh-session-turn-eta","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@dsh-external/dsh-zero-residence","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@dsh-lsp-packs/dsh-lsp-cpp","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@dsh-lsp-packs/dsh-lsp-csharp","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@dsh-lsp-packs/dsh-lsp-go","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@dsh-lsp-packs/dsh-lsp-java","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@dsh-lsp-packs/dsh-lsp-kotlin","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@dsh-lsp-packs/dsh-lsp-lua","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@dsh-lsp-packs/dsh-lsp-php","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@dsh-lsp-packs/dsh-lsp-pyright","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@dsh-lsp-packs/dsh-lsp-ruby","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@dsh-lsp-packs/dsh-lsp-rust","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@dsh-lsp-packs/dsh-lsp-swift","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@dsh-lsp-packs/dsh-lsp-ts","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@gw/dsh-media-studio","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@gw/dsh-mimotts","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"@gw/dsh-text-inject","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dph/taskboard","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dsh-external/dsh-session-turn-eta","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dsh-external/dsh-zero-residence","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dsh-lsp-packs/dsh-lsp-cpp","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dsh-lsp-packs/dsh-lsp-csharp","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dsh-lsp-packs/dsh-lsp-go","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dsh-lsp-packs/dsh-lsp-java","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dsh-lsp-packs/dsh-lsp-kotlin","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dsh-lsp-packs/dsh-lsp-lua","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dsh-lsp-packs/dsh-lsp-php","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dsh-lsp-packs/dsh-lsp-pyright","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dsh-lsp-packs/dsh-lsp-ruby","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dsh-lsp-packs/dsh-lsp-rust","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dsh-lsp-packs/dsh-lsp-swift","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@dsh-lsp-packs/dsh-lsp-ts","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@gw/dsh-media-studio","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@gw/dsh-mimotts","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@gw/dsh-text-inject","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"@indexyz/dsh-autocompact","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":804,"first_published_at":"2026-10-16T14:19:18.589Z","latest_version":"0.2.0","latest_published_at":"2026-10-18T18:34:26.247Z"}
-{"package":"@linxin666/dsh-client-ui-activity-heatmap","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@linxin666/dsh-client-ui-activity-heatmap","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"@ljwei-stak/dsh-model-router","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":4234,"first_published_at":"2026-10-02T17:11:45.891Z","latest_version":"0.24.0","latest_published_at":"2026-10-23T18:37:45.244Z"}
 {"package":"@luziyang2026/dsh-question-nav","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1242,"first_published_at":"2026-08-21T15:39:25.545Z","latest_version":"0.7.8","latest_published_at":"2026-09-01T15:10:21.599Z"}
 {"package":"@memef1f1y/dsh-plugin-proxy","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":81,"first_published_at":"2026-09-17T14:45:53.084Z","latest_version":"0.1.4","latest_published_at":"2026-10-13T01:15:27.556Z"}
 {"package":"@memef1f1y/dsh-plugin-tavily","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":101,"first_published_at":"2026-10-21T10:05:42.761Z","latest_version":"0.7.0","latest_published_at":"2026-10-21T10:06:38.569Z"}
 {"package":"@memef1f1y/dsh-plugin-tts","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":3225,"first_published_at":"2026-09-25T02:28:38.713Z","latest_version":"0.6.7","latest_published_at":"2026-10-13T02:46:38.569Z"}
 {"package":"@nn12138/dsh-voice","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":547,"first_published_at":"2026-08-14T21:29:18.960Z","latest_version":"0.2.6","latest_published_at":"2026-08-21T10:44:46.269Z"}
-{"package":"@omdsh-dev/dsh-drag-and-drop","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@omdsh-dev/dsh-drag-and-drop","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"@sakura12/oh-my-deepseekharness","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":2410,"first_published_at":"2026-09-21T08:34:33.011Z","latest_version":"0.5.1","latest_published_at":"2026-10-22T08:25:41.391Z"}
 {"package":"@sueleven/dsh-auto-update","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":238,"first_published_at":"2026-10-21T07:44:42.958Z","latest_version":"1.0.1","latest_published_at":"2026-10-22T00:56:54.093Z"}
 {"package":"@txc2768651338/dsh-effort-slider","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1566,"first_published_at":"2026-10-01T08:03:51.076Z","latest_version":"0.5.1","latest_published_at":"2026-10-20T11:42:25.940Z"}
@@ -74,22 +74,22 @@
 {"package":"@y9931666/dsh-plugin-crossfire","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":737,"first_published_at":"2026-10-01T13:31:12.828Z","latest_version":"0.1.3","latest_published_at":"2026-10-18T07:33:34.663Z"}
 {"package":"@y9931666/dsh-plugin-roundtable","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1570,"first_published_at":"2026-10-01T13:52:06.605Z","latest_version":"1.0.0-rc.3","latest_published_at":"2026-10-03T07:55:20.846Z"}
 {"package":"@yolk_vat-y/dsh-project-memory","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":4322,"first_published_at":"2026-08-24T03:59:38.973Z","latest_version":"0.6.5","latest_published_at":"2026-10-24T06:29:11.818Z"}
-{"package":"@zeng/dsh-sidebar-git-graph","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"@zeng/dsh-sidebar-git-graph","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"@zzerx/dsh-plugin-daily-log","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1677,"first_published_at":"2026-09-15T02:00:59.838Z","latest_version":"0.4.3","latest_published_at":"2026-10-16T03:34:51.097Z"}
 {"package":"@zzerx/dsh-plugin-memory","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1909,"first_published_at":"2026-09-15T02:00:42.760Z","latest_version":"0.4.3","latest_published_at":"2026-10-08T05:54:25.571Z"}
 {"package":"@zzerx/dsh-plugin-notes","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1885,"first_published_at":"2026-09-15T02:00:24.622Z","latest_version":"0.5.0","latest_published_at":"2026-10-23T03:42:02.313Z"}
 {"package":"@zzerx/dsh-plugin-usage-billing","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1594,"first_published_at":"2026-09-22T05:39:49.314Z","latest_version":"1.3.0","latest_published_at":"2026-10-08T05:57:09.916Z"}
 {"package":"agent-clinic","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":133,"first_published_at":"2026-10-15T10:24:59.155Z","latest_version":"0.2.0","latest_published_at":"2026-10-15T15:38:43.220Z"}
-{"package":"agent-development-constraints","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"ai-look-up","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"ai-residue-cleaner","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"air-pixel-liquid-glass","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"chicheng-cron","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"chicheng-gate","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"chicheng-peak","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"chicheng-push","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"chicheng-stats","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"chicheng-vault","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"agent-development-constraints","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"ai-look-up","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"ai-residue-cleaner","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"air-pixel-liquid-glass","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"chicheng-cron","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"chicheng-gate","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"chicheng-peak","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"chicheng-push","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"chicheng-stats","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"chicheng-vault","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dock-base","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1573,"first_published_at":"2026-08-25T06:42:32.569Z","latest_version":"0.2.4","latest_published_at":"2026-09-30T03:53:30.567Z"}
 {"package":"dock-editor","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":900,"first_published_at":"2026-08-23T06:01:16.552Z","latest_version":"0.2.2","latest_published_at":"2026-09-11T08:19:29.155Z"}
 {"package":"dock-files","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1384,"first_published_at":"2026-08-23T06:01:11.578Z","latest_version":"0.4.0","latest_published_at":"2026-09-30T18:55:07.611Z"}
@@ -98,71 +98,71 @@
 {"package":"dock-markdown","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":885,"first_published_at":"2026-08-23T06:01:22.424Z","latest_version":"0.1.2","latest_published_at":"2026-09-11T08:18:34.260Z"}
 {"package":"dock-spreadsheet","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":463,"first_published_at":"2026-10-01T14:23:10.721Z","latest_version":"0.1.0","latest_published_at":"2026-10-01T14:26:25.659Z"}
 {"package":"dsh-a11y-scan","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":79,"first_published_at":"2026-08-24T10:55:13.372Z","latest_version":"0.1.0","latest_published_at":"2026-08-24T10:55:13.781Z"}
-{"package":"dsh-accountdisplayname-edit","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-accountdisplayname-edit","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-agent-recycle-guard","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":897,"first_published_at":"2026-10-11T12:27:23.263Z","latest_version":"1.2.1","latest_published_at":"2026-10-13T02:41:01.536Z"}
 {"package":"dsh-agentdebugx","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":821,"first_published_at":"2026-08-25T13:09:31.687Z","latest_version":"0.1.0","latest_published_at":"2026-08-25T13:09:32.020Z"}
 {"package":"dsh-ai-arcade","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":354,"first_published_at":"2026-10-11T05:31:31.226Z","latest_version":"0.1.0","latest_published_at":"2026-10-11T05:32:27.336Z"}
-{"package":"dsh-ai-armor","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-ai-armor","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-alive","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":852,"first_published_at":"2026-08-16T05:58:07.829Z","latest_version":"0.1.2","latest_published_at":"2026-09-09T15:03:47.862Z"}
 {"package":"dsh-almost-full-access","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":862,"first_published_at":"2026-08-16T14:56:05.078Z","latest_version":"1.2.0","latest_published_at":"2026-10-14T04:11:05.459Z"}
-{"package":"dsh-anet","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-anet","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-api-dashboard","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":4055,"first_published_at":"2026-08-28T04:07:58.382Z","latest_version":"1.7.0","latest_published_at":"2026-10-10T05:55:20.672Z"}
-{"package":"dsh-approval-explainer","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-approval-explainer","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-archived-conversations","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":823,"first_published_at":"2026-09-08T02:52:59.039Z","latest_version":"0.3.2","latest_published_at":"2026-09-11T03:51:32.615Z"}
-{"package":"dsh-ark-coding-provider","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-ark-coding-provider","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-armory","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":459,"first_published_at":"2026-10-13T02:37:33.593Z","latest_version":"2.3.0","latest_published_at":"2026-10-24T06:28:48.925Z"}
 {"package":"dsh-asciinema","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":355,"first_published_at":"2026-08-24T10:54:25.038Z","latest_version":"0.1.1","latest_published_at":"2026-08-24T11:11:06.066Z"}
-{"package":"dsh-at-skill","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-at-skill","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-audiobook","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":80,"first_published_at":"2026-10-20T11:23:48.930Z","latest_version":"0.6.0","latest_published_at":"2026-10-21T03:15:50.225Z"}
 {"package":"dsh-audit","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":831,"first_published_at":"2026-08-17T02:21:22.804Z","latest_version":"0.5.2","latest_published_at":"2026-09-11T02:43:50.178Z"}
 {"package":"dsh-backup-sync","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":361,"first_published_at":"2026-10-18T01:40:35.535Z","latest_version":"0.2.0","latest_published_at":"2026-10-18T01:46:46.087Z"}
 {"package":"dsh-blend-preview","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":44,"first_published_at":"2026-10-21T02:38:13.116Z","latest_version":"0.1.0","latest_published_at":"2026-10-21T02:40:51.801Z"}
-{"package":"dsh-ca-ref","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-cache-bricks","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-ca-ref","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-cache-bricks","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-calendar","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":5479,"first_published_at":"2026-08-13T22:51:45.184Z","latest_version":"0.11.2","latest_published_at":"2026-10-19T17:01:56.581Z"}
-{"package":"dsh-callout","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-cap-profile","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-capability-index","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-callout","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-cap-profile","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-capability-index","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-ci-diet","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":208,"first_published_at":"2026-10-20T18:47:13.468Z","latest_version":"0.3.1","latest_published_at":"2026-10-22T21:09:19.832Z"}
-{"package":"dsh-clean-desktop-shell-pro","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-client-ui-font-scale","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-client-ui-gpt-helper","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-clean-desktop-shell-pro","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-client-ui-font-scale","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-client-ui-gpt-helper","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-code-rag-index-panel","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":745,"first_published_at":"2026-08-29T02:51:23.454Z","latest_version":"1.4.1","latest_published_at":"2026-08-29T05:13:35.103Z"}
 {"package":"dsh-codefall","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":490,"first_published_at":"2026-10-08T12:44:17.147Z","latest_version":"0.2.0","latest_published_at":"2026-10-13T14:00:13.761Z"}
-{"package":"dsh-codevault","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-codevault","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-codex-bridge","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":49,"first_published_at":"2026-08-15T14:11:08.253Z","latest_version":"0.1.5","latest_published_at":"2026-08-15T14:56:02.195Z"}
-{"package":"dsh-codex-cua","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-codex-guard","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-commandcode-usage-inline","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-compaction-route","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-codex-cua","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-codex-guard","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-commandcode-usage-inline","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-compaction-route","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-composer-expand","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":985,"first_published_at":"2026-08-15T07:18:24.703Z","latest_version":"0.1.4","latest_published_at":"2026-09-05T07:29:32.690Z"}
 {"package":"dsh-computer-use","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":3612,"first_published_at":"2026-08-15T16:49:23.206Z","latest_version":"0.3.1","latest_published_at":"2026-09-10T03:50:32.263Z"}
 {"package":"dsh-cost-pill","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":378,"first_published_at":"2026-10-18T11:10:59.356Z","latest_version":"1.0.2","latest_published_at":"2026-10-18T11:11:55.904Z"}
-{"package":"dsh-crypto-portfolio","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-curate","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-cutout-pet","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-crypto-portfolio","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-curate","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-cutout-pet","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-dep-vuln-scan","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":99,"first_published_at":"2026-08-24T10:54:01.168Z","latest_version":"0.1.1","latest_published_at":"2026-08-24T13:25:19.914Z"}
 {"package":"dsh-desktop-sidecar","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":205,"first_published_at":"2026-10-21T16:50:52.497Z","latest_version":"0.4.5","latest_published_at":"2026-10-22T03:37:32.468Z"}
 {"package":"dsh-desktop-uia","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":601,"first_published_at":"2026-10-06T12:46:27.057Z","latest_version":"1.1.3","latest_published_at":"2026-10-06T13:13:52.060Z"}
-{"package":"dsh-device-bridge","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-device-bridge","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-dictation-hotkey","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":150,"first_published_at":"2026-10-13T11:45:46.492Z","latest_version":"0.3.0","latest_published_at":"2026-10-13T11:53:30.511Z"}
 {"package":"dsh-diff-approval","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":4934,"first_published_at":"2026-08-16T16:05:19.437Z","latest_version":"0.36.1","latest_published_at":"2026-10-19T16:34:29.420Z"}
 {"package":"dsh-domain-bridge","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":377,"first_published_at":"2026-10-18T14:07:04.100Z","latest_version":"0.6.4","latest_published_at":"2026-10-18T14:09:42.822Z"}
 {"package":"dsh-douyin-publish","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":277,"first_published_at":"2026-10-22T12:57:12.851Z","latest_version":"0.6.4","latest_published_at":"2026-10-22T13:02:25.286Z"}
-{"package":"dsh-douyin-webview","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-douyin-webview","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-draft-attachments","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":52,"first_published_at":"2026-10-13T02:37:14.708Z","latest_version":"1.0.1","latest_published_at":"2026-10-19T10:17:10.780Z"}
-{"package":"dsh-edit-question","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-edit-question","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-embedded-workbench","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":2794,"first_published_at":"2026-08-24T03:39:28.542Z","latest_version":"0.9.5","latest_published_at":"2026-10-23T16:26:03.262Z"}
 {"package":"dsh-eteams","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1221,"first_published_at":"2026-09-16T12:58:09.261Z","latest_version":"0.2.22","latest_published_at":"2026-09-22T13:33:54.196Z"}
 {"package":"dsh-expert-mode","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":307,"first_published_at":"2026-08-27T06:33:13.726Z","latest_version":"0.9.2","latest_published_at":"2026-08-27T06:49:03.433Z"}
-{"package":"dsh-eye-comfort","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-eye-comfort","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-fact-check","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1463,"first_published_at":"2026-09-21T19:06:07.838Z","latest_version":"1.5.0","latest_published_at":"2026-10-23T10:39:06.445Z"}
 {"package":"dsh-fail-logger","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1149,"first_published_at":"2026-08-13T21:01:43.446Z","latest_version":"0.5.2","latest_published_at":"2026-08-18T16:12:38.697Z"}
 {"package":"dsh-feed","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":81,"first_published_at":"2026-08-17T02:45:58.403Z","latest_version":"0.1.0","latest_published_at":"2026-08-17T02:45:58.714Z"}
 {"package":"dsh-feishu","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":73,"first_published_at":"2026-08-14T06:33:46.233Z","latest_version":"0.0.1","latest_published_at":"2026-08-14T06:33:46.598Z"}
 {"package":"dsh-feishu-bot","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":899,"first_published_at":"2026-08-13T21:59:28.326Z","latest_version":"0.19.16","latest_published_at":"2026-08-25T15:59:34.405Z"}
 {"package":"dsh-file-handover","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":285,"first_published_at":"2026-10-22T13:26:42.918Z","latest_version":"0.2.1","latest_published_at":"2026-10-22T13:28:50.548Z"}
-{"package":"dsh-folderwatch","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-folderwatch","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-forget-session","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":370,"first_published_at":"2026-10-13T02:37:09.183Z","latest_version":"2.2.1","latest_published_at":"2026-10-19T10:15:49.004Z"}
 {"package":"dsh-fullscreen-input","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":808,"first_published_at":"2026-10-06T11:58:49.743Z","latest_version":"1.2.4","latest_published_at":"2026-10-07T12:27:52.103Z"}
 {"package":"dsh-github-router","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1651,"first_published_at":"2026-08-19T18:51:14.430Z","latest_version":"0.4.1","latest_published_at":"2026-09-28T16:10:44.109Z"}
@@ -170,18 +170,18 @@
 {"package":"dsh-gov","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":130,"first_published_at":"2026-08-17T04:04:19.567Z","latest_version":"0.1.0","latest_published_at":"2026-08-17T04:04:19.843Z"}
 {"package":"dsh-graphlint","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1319,"first_published_at":"2026-08-14T17:06:44.457Z","latest_version":"0.6.0","latest_published_at":"2026-10-11T08:03:24.738Z"}
 {"package":"dsh-gui-guard","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":331,"first_published_at":"2026-10-22T13:26:35.434Z","latest_version":"0.1.1","latest_published_at":"2026-10-22T13:28:12.887Z"}
-{"package":"dsh-harness-chat-control","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-harness-chat-control","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-harness-switch","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":138,"first_published_at":"2026-10-14T01:58:59.347Z","latest_version":"0.3.3","latest_published_at":"2026-10-14T02:01:07.736Z"}
 {"package":"dsh-hdc-bridge","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1763,"first_published_at":"2026-08-13T15:46:07.317Z","latest_version":"0.10.2","latest_published_at":"2026-10-12T07:05:59.715Z"}
 {"package":"dsh-idle-compact","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":880,"first_published_at":"2026-10-16T08:43:59.961Z","latest_version":"0.3.0","latest_published_at":"2026-10-18T23:12:12.595Z"}
 {"package":"dsh-im-qq","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":295,"first_published_at":"2026-08-16T10:09:02.985Z","latest_version":"0.1.1","latest_published_at":"2026-08-16T10:35:34.337Z"}
 {"package":"dsh-image2-tool","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":672,"first_published_at":"2026-10-16T14:13:43.029Z","latest_version":"0.4.1","latest_published_at":"2026-10-19T09:02:43.195Z"}
-{"package":"dsh-inline-images","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-inline-images","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-inpage-translator","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":673,"first_published_at":"2026-10-22T13:26:54.406Z","latest_version":"0.2.6","latest_published_at":"2026-10-22T13:35:40.497Z"}
 {"package":"dsh-insight","checked_at":"2026-10-24T07:38:03.577Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":841,"first_published_at":"2026-08-17T04:06:43.845Z","latest_version":"0.1.0","latest_published_at":"2026-08-17T04:06:44.229Z"}
 {"package":"dsh-invoice-tools","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":399,"first_published_at":"2026-08-24T10:54:48.874Z","latest_version":"0.1.1","latest_published_at":"2026-08-24T13:25:24.322Z"}
 {"package":"dsh-jev-guard","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1712,"first_published_at":"2026-09-21T18:26:41.279Z","latest_version":"0.5.7","latest_published_at":"2026-10-21T11:45:21.550Z"}
-{"package":"dsh-krouter","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-krouter","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-language-guard","checked_at":"2026-10-24T07:38:03.577Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":126,"first_published_at":"2026-10-20T14:49:43.940Z","latest_version":"0.3.4","latest_published_at":"2026-10-21T07:05:58.806Z"}
 {"package":"dsh-leak-guard","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":397,"first_published_at":"2026-10-22T13:26:31.910Z","latest_version":"0.1.1","latest_published_at":"2026-10-22T13:28:39.510Z"}
 {"package":"dsh-ledger-memory","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":3126,"first_published_at":"2026-10-10T06:20:43.538Z","latest_version":"1.6.1","latest_published_at":"2026-10-23T13:12:01.670Z"}
@@ -190,15 +190,15 @@
 {"package":"dsh-local-memory","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":151,"first_published_at":"2026-09-17T11:43:13.050Z","latest_version":"0.3.1","latest_published_at":"2026-09-18T12:20:21.815Z"}
 {"package":"dsh-logicprobe","checked_at":"2026-10-24T07:38:03.577Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":2796,"first_published_at":"2026-08-24T03:39:31.558Z","latest_version":"1.4.2","latest_published_at":"2026-10-23T16:26:27.713Z"}
 {"package":"dsh-lorebookmd","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":611,"first_published_at":"2026-08-14T18:33:31.417Z","latest_version":"1.0.0","latest_published_at":"2026-08-14T18:33:31.629Z"}
-{"package":"dsh-markdown-live","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-markdown-live","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-math-olympiad","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":99,"first_published_at":"2026-08-24T10:53:13.451Z","latest_version":"0.1.0","latest_published_at":"2026-08-24T10:53:13.727Z"}
-{"package":"dsh-md-annotator","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-md-annotator","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-memory-setup","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":160,"first_published_at":"2026-08-19T15:29:48.317Z","latest_version":"1.2.0","latest_published_at":"2026-08-19T15:29:48.563Z"}
 {"package":"dsh-mermaid","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":4055,"first_published_at":"2026-08-23T08:12:00.251Z","latest_version":"0.4.2","latest_published_at":"2026-10-15T05:43:05.632Z"}
 {"package":"dsh-message-copy-enhance","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1109,"first_published_at":"2026-08-18T07:21:31.109Z","latest_version":"0.2.1","latest_published_at":"2026-08-19T10:51:37.442Z"}
 {"package":"dsh-model","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":2481,"first_published_at":"2026-10-08T14:12:04.163Z","latest_version":"0.23.0","latest_published_at":"2026-10-23T00:50:40.868Z"}
 {"package":"dsh-model-everything","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":670,"first_published_at":"2026-10-18T04:28:37.147Z","latest_version":"0.4.1","latest_published_at":"2026-10-23T16:46:05.391Z"}
-{"package":"dsh-model-info-fill","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-model-info-fill","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-model-manager","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":311,"first_published_at":"2026-08-14T16:33:02.964Z","latest_version":"0.2.1","latest_published_at":"2026-08-19T19:20:44.677Z"}
 {"package":"dsh-moli","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1727,"first_published_at":"2026-10-13T08:56:45.309Z","latest_version":"1.1.19","latest_published_at":"2026-10-19T04:55:34.321Z"}
 {"package":"dsh-monitor","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":846,"first_published_at":"2026-08-13T19:00:50.711Z","latest_version":"0.1.1","latest_published_at":"2026-08-13T19:00:57.261Z"}
@@ -206,75 +206,75 @@
 {"package":"dsh-multi-folder","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":2094,"first_published_at":"2026-08-14T12:07:25.310Z","latest_version":"0.3.4","latest_published_at":"2026-10-23T04:53:56.812Z"}
 {"package":"dsh-my-plugins","checked_at":"2026-10-24T07:38:03.577Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":519,"first_published_at":"2026-10-22T13:02:14.051Z","latest_version":"0.2.0","latest_published_at":"2026-10-22T13:21:25.610Z"}
 {"package":"dsh-mysql","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":36,"first_published_at":"2026-08-19T08:41:37.047Z","latest_version":"0.0.1","latest_published_at":"2026-08-19T08:41:37.447Z"}
-{"package":"dsh-nav-history","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-nav-history","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-need-finder","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":856,"first_published_at":"2026-08-17T02:27:43.573Z","latest_version":"0.3.1","latest_published_at":"2026-09-11T02:35:11.637Z"}
 {"package":"dsh-neo-skin","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":98,"first_published_at":"2026-08-15T04:19:55.094Z","latest_version":"0.6.0","latest_published_at":"2026-08-15T04:19:55.271Z"}
-{"package":"dsh-notification-desktop","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-notify-relay","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-notification-desktop","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-notify-relay","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-obsidian-board","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":243,"first_published_at":"2026-10-13T02:37:20.877Z","latest_version":"0.2.5","latest_published_at":"2026-10-21T14:28:35.340Z"}
-{"package":"dsh-ollama-cloud","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-openai-bridge","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-ollama-cloud","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-openai-bridge","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-openai-oauth","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":714,"first_published_at":"2026-08-14T16:04:29.875Z","latest_version":"0.4.0","latest_published_at":"2026-08-14T16:04:30.245Z"}
 {"package":"dsh-openviking-enhance","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":736,"first_published_at":"2026-10-02T09:19:48.640Z","latest_version":"0.2.1","latest_published_at":"2026-10-17T16:13:01.306Z"}
-{"package":"dsh-orchestrator2","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-orchestrator2","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-pdf-reader","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":754,"first_published_at":"2026-08-25T11:49:47.344Z","latest_version":"0.2.0","latest_published_at":"2026-08-26T08:27:59.403Z"}
 {"package":"dsh-peak-runner","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":32,"first_published_at":"2026-10-13T14:33:10.038Z","latest_version":"0.1.0","latest_published_at":"2026-10-13T14:34:04.916Z"}
 {"package":"dsh-perlica-ding","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":317,"first_published_at":"2026-08-16T09:38:45.734Z","latest_version":"0.2.1","latest_published_at":"2026-10-07T13:38:01.768Z"}
 {"package":"dsh-permissions","checked_at":"2026-10-24T07:38:03.577Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":394,"first_published_at":"2026-08-15T19:28:49.998Z","latest_version":"2.0.2","latest_published_at":"2026-09-22T09:00:14.991Z"}
 {"package":"dsh-pick","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1766,"first_published_at":"2026-10-18T07:25:28.997Z","latest_version":"0.4.4","latest_published_at":"2026-10-22T04:58:10.854Z"}
-{"package":"dsh-plan-lattice","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-plan-lattice","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-plugin-academic-writing","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1712,"first_published_at":"2026-08-17T04:17:59.655Z","latest_version":"0.3.2","latest_published_at":"2026-09-11T02:46:19.835Z"}
 {"package":"dsh-plugin-balance","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1298,"first_published_at":"2026-08-20T04:59:10.412Z","latest_version":"1.4.4","latest_published_at":"2026-08-26T13:03:05.744Z"}
 {"package":"dsh-plugin-console","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1125,"first_published_at":"2026-08-17T08:24:19.828Z","latest_version":"0.3.2","latest_published_at":"2026-08-24T07:58:33.799Z"}
-{"package":"dsh-plugin-crypto-ticker","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-plugin-crypto-ticker","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-plugin-education","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":968,"first_published_at":"2026-08-18T04:30:07.179Z","latest_version":"0.3.2","latest_published_at":"2026-09-11T02:43:17.794Z"}
-{"package":"dsh-plugin-feishu","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-plugin-feishu","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-plugin-focus","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":882,"first_published_at":"2026-08-16T17:06:13.612Z","latest_version":"1.1.1","latest_published_at":"2026-09-11T02:36:01.706Z"}
 {"package":"dsh-plugin-gate","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1508,"first_published_at":"2026-08-19T15:29:41.027Z","latest_version":"1.3.2","latest_published_at":"2026-09-11T02:48:02.781Z"}
-{"package":"dsh-plugin-ide-hub","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-plugin-ide-hub","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-plugin-local-life","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":871,"first_published_at":"2026-08-18T04:30:10.109Z","latest_version":"0.3.2","latest_published_at":"2026-09-11T02:45:01.966Z"}
-{"package":"dsh-plugin-loopback-trust","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-plugin-mac-notify","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-plugin-loopback-trust","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-plugin-mac-notify","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-plugin-mission-control","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":809,"first_published_at":"2026-08-20T22:07:14.879Z","latest_version":"0.2.1","latest_published_at":"2026-08-20T22:07:15.237Z"}
 {"package":"dsh-plugin-namecards","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":934,"first_published_at":"2026-10-18T12:15:18.580Z","latest_version":"0.6.2","latest_published_at":"2026-10-19T15:27:31.156Z"}
 {"package":"dsh-plugin-nlbi","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":916,"first_published_at":"2026-08-23T12:02:06.678Z","latest_version":"0.2.1","latest_published_at":"2026-08-25T06:22:06.628Z"}
 {"package":"dsh-plugin-orchd","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":359,"first_published_at":"2026-10-16T15:37:21.457Z","latest_version":"0.1.0","latest_published_at":"2026-10-16T15:38:18.118Z"}
-{"package":"dsh-plugin-preflight","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-plugin-preflight","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-plugin-quota","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":107,"first_published_at":"2026-08-16T06:01:21.852Z","latest_version":"0.1.1","latest_published_at":"2026-08-16T08:46:16.099Z"}
 {"package":"dsh-plugin-recommend","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":752,"first_published_at":"2026-08-19T15:29:54.177Z","latest_version":"1.1.1","latest_published_at":"2026-09-11T02:35:17.707Z"}
-{"package":"dsh-plugin-session-colors","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-plugin-task-forge","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-plugin-session-colors","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-plugin-task-forge","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-plugin-translation","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1026,"first_published_at":"2026-08-18T04:30:03.939Z","latest_version":"0.3.2","latest_published_at":"2026-09-11T02:45:07.769Z"}
 {"package":"dsh-plugin-verify","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":852,"first_published_at":"2026-08-19T15:30:02.834Z","latest_version":"1.1.1","latest_published_at":"2026-09-11T02:35:39.651Z"}
 {"package":"dsh-plugin-veriscope","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1024,"first_published_at":"2026-10-17T09:02:12.887Z","latest_version":"0.6.0","latest_published_at":"2026-10-17T17:54:34.880Z"}
 {"package":"dsh-pr-description","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":350,"first_published_at":"2026-08-24T10:54:13.020Z","latest_version":"0.1.1","latest_published_at":"2026-08-24T13:25:15.031Z"}
 {"package":"dsh-profile-stylist","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":371,"first_published_at":"2026-10-22T13:26:57.210Z","latest_version":"0.2.2","latest_published_at":"2026-10-22T13:30:07.751Z"}
-{"package":"dsh-progress-viz-plugin","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-progress-viz-plugin","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-prompt-optimizer","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1566,"first_published_at":"2026-08-19T07:12:49.252Z","latest_version":"2.0.3","latest_published_at":"2026-09-03T09:03:57.833Z"}
 {"package":"dsh-prompt-polish","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":326,"first_published_at":"2026-08-26T04:47:29.654Z","latest_version":"0.1.0","latest_published_at":"2026-08-26T04:47:29.926Z"}
 {"package":"dsh-python-env","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1160,"first_published_at":"2026-08-16T14:05:22.416Z","latest_version":"0.1.2","latest_published_at":"2026-09-21T07:08:54.279Z"}
 {"package":"dsh-read-url","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":2701,"first_published_at":"2026-08-19T14:31:25.643Z","latest_version":"1.9.3","latest_published_at":"2026-10-19T08:23:47.394Z"}
-{"package":"dsh-reaper","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-reaper","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-reasoning-tiers","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1031,"first_published_at":"2026-09-12T13:38:40.238Z","latest_version":"0.3.0","latest_published_at":"2026-09-13T03:14:01.894Z"}
 {"package":"dsh-receipts","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":75,"first_published_at":"2026-08-24T10:54:36.782Z","latest_version":"0.1.1","latest_published_at":"2026-08-24T13:25:10.299Z"}
 {"package":"dsh-recipe","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":110,"first_published_at":"2026-08-17T02:43:26.794Z","latest_version":"0.1.0","latest_published_at":"2026-08-17T02:43:27.100Z"}
-{"package":"dsh-redstone-music","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-remote-ssh-run","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-repeat-stop","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-restart-dock","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-redstone-music","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-remote-ssh-run","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-repeat-stop","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-restart-dock","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-restart-planner","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":286,"first_published_at":"2026-10-22T13:27:00.291Z","latest_version":"0.4.6","latest_published_at":"2026-10-22T13:28:18.060Z"}
-{"package":"dsh-right-click-menu","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-right-click-menu","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-roam-planner","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":88,"first_published_at":"2026-10-20T13:27:43.619Z","latest_version":"0.2.3","latest_published_at":"2026-10-20T16:48:10.858Z"}
 {"package":"dsh-rotakit","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":639,"first_published_at":"2026-10-11T15:10:35.173Z","latest_version":"2.3.24","latest_published_at":"2026-10-11T15:14:10.729Z"}
-{"package":"dsh-sakurafrp","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-sciwork","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-sakurafrp","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-sciwork","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-scrape-webpage","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1094,"first_published_at":"2026-08-20T06:18:05.317Z","latest_version":"1.0.0","latest_published_at":"2026-08-20T06:18:05.741Z"}
 {"package":"dsh-scroll-piano","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1582,"first_published_at":"2026-10-08T23:57:30.611Z","latest_version":"0.3.5","latest_published_at":"2026-10-09T05:11:16.166Z"}
-{"package":"dsh-session-diff","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-session-diff","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-session-path","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":724,"first_published_at":"2026-10-09T16:30:12.290Z","latest_version":"0.1.2","latest_published_at":"2026-10-09T16:40:07.827Z"}
 {"package":"dsh-settings-hub","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":963,"first_published_at":"2026-08-29T01:57:04.572Z","latest_version":"0.1.2","latest_published_at":"2026-08-29T06:25:57.670Z"}
-{"package":"dsh-side-session","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-sidebar-panel-fold","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-side-session","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-sidebar-panel-fold","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-simplify","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1240,"first_published_at":"2026-08-24T07:51:28.753Z","latest_version":"0.1.5","latest_published_at":"2026-10-04T03:32:59.323Z"}
 {"package":"dsh-skill-creator","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":721,"first_published_at":"2026-08-18T02:46:00.214Z","latest_version":"0.1.0","latest_published_at":"2026-08-18T02:46:00.421Z"}
 {"package":"dsh-skill-manager","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1055,"first_published_at":"2026-08-13T20:51:13.970Z","latest_version":"0.1.3","latest_published_at":"2026-08-13T22:00:23.443Z"}
@@ -282,38 +282,38 @@
 {"package":"dsh-smart-prompt","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":363,"first_published_at":"2026-10-16T11:41:20.121Z","latest_version":"1.0.1","latest_published_at":"2026-10-23T04:50:33.624Z"}
 {"package":"dsh-snapshot-manager","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":928,"first_published_at":"2026-10-10T09:02:27.759Z","latest_version":"0.3.0","latest_published_at":"2026-10-21T07:58:18.699Z"}
 {"package":"dsh-soul","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":2490,"first_published_at":"2026-08-29T09:07:00.318Z","latest_version":"0.8.0","latest_published_at":"2026-10-19T06:53:21.245Z"}
-{"package":"dsh-source-deck","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-source-deck","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-speak","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1740,"first_published_at":"2026-08-14T19:35:28.838Z","latest_version":"1.8.2","latest_published_at":"2026-09-26T08:58:28.647Z"}
-{"package":"dsh-spring-admin-kit","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-ssh-logs","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-spring-admin-kit","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-ssh-logs","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-starter-zh","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":117,"first_published_at":"2026-08-19T15:30:33.417Z","latest_version":"0.1.0","latest_published_at":"2026-08-19T15:30:33.632Z"}
 {"package":"dsh-status-rotator","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":10320,"first_published_at":"2026-08-18T08:46:04.501Z","latest_version":"0.37.0","latest_published_at":"2026-10-17T05:59:34.425Z"}
 {"package":"dsh-stl-preview","checked_at":"2026-10-24T07:38:03.577Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":45,"first_published_at":"2026-10-21T06:38:03.957Z","latest_version":"0.1.0","latest_published_at":"2026-10-21T06:40:13.232Z"}
-{"package":"dsh-stock-market","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-stock-quotes","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-stock-market","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-stock-quotes","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-study-coach","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":417,"first_published_at":"2026-10-01T18:57:54.050Z","latest_version":"0.1.0","latest_published_at":"2026-10-01T18:57:54.488Z"}
 {"package":"dsh-subagent","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":24,"first_published_at":"2026-08-20T02:03:50.907Z","latest_version":"0.0.1","latest_published_at":"2026-08-20T02:03:51.153Z"}
-{"package":"dsh-subagent-role-router","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-subagent-role-router","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-super-code","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":2714,"first_published_at":"2026-09-20T16:10:57.888Z","latest_version":"0.3.7","latest_published_at":"2026-10-23T17:03:00.073Z"}
 {"package":"dsh-taskswarm","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":0,"first_published_at":"2026-08-14T04:47:10.550Z"}
 {"package":"dsh-telemetry-redactor","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1171,"first_published_at":"2026-08-14T07:09:07.583Z","latest_version":"0.1.0","latest_published_at":"2026-08-14T07:09:07.871Z"}
-{"package":"dsh-think-bounce-pet","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-think-bounce-pet","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-tingdong","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":210,"first_published_at":"2026-10-20T05:31:47.178Z","latest_version":"0.5.1","latest_published_at":"2026-10-22T05:22:26.256Z"}
-{"package":"dsh-token-bi","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-token-billing","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-token-bi","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-token-billing","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-tokenrhythm-bill","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1378,"first_published_at":"2026-08-31T05:41:35.830Z","latest_version":"0.6.1","latest_published_at":"2026-10-09T05:49:02.654Z"}
-{"package":"dsh-tool-budget","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-tool-budget","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-tool-explorer","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":548,"first_published_at":"2026-08-31T02:24:29.246Z","latest_version":"0.4.4","latest_published_at":"2026-10-19T15:27:03.938Z"}
 {"package":"dsh-toolbox-web","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1032,"first_published_at":"2026-08-16T06:40:23.890Z","latest_version":"0.1.29","latest_published_at":"2026-09-15T19:46:39.471Z"}
 {"package":"dsh-trend-radar","checked_at":"2026-10-24T07:38:03.577Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":105,"first_published_at":"2026-08-17T02:41:51.997Z","latest_version":"0.2.1","latest_published_at":"2026-08-17T04:32:33.199Z"}
-{"package":"dsh-tts-flash","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-tts-flash","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-turn-outline","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1559,"first_published_at":"2026-09-03T17:45:45.400Z","latest_version":"0.3.1","latest_published_at":"2026-09-30T14:44:22.764Z"}
-{"package":"dsh-typing-studio","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-typing-studio","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-ui-auth","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1649,"first_published_at":"2026-09-07T14:16:36.163Z","latest_version":"0.7.1","latest_published_at":"2026-10-16T14:46:34.446Z"}
 {"package":"dsh-ui-enhancer","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1212,"first_published_at":"2026-08-19T04:53:24.075Z","latest_version":"0.2.0","latest_published_at":"2026-08-23T07:05:40.688Z"}
 {"package":"dsh-undo-plugin","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1015,"first_published_at":"2026-08-20T09:33:58.814Z","latest_version":"0.1.0-rc.8","latest_published_at":"2026-08-24T13:51:29.451Z"}
 {"package":"dsh-update-checker","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":7034,"first_published_at":"2026-08-15T06:15:31.401Z","latest_version":"1.7.3","latest_published_at":"2026-10-21T05:40:56.432Z"}
-{"package":"dsh-usage-analytics","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-usage-analytics","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-usage-billing","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":708,"first_published_at":"2026-08-15T15:28:33.722Z","latest_version":"0.9.5","latest_published_at":"2026-09-29T08:46:27.364Z"}
 {"package":"dsh-usage-dashboard-plus","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1049,"first_published_at":"2026-08-14T09:38:39.270Z","latest_version":"0.2.4","latest_published_at":"2026-08-18T08:16:56.078Z"}
 {"package":"dsh-verification-receipt","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":878,"first_published_at":"2026-08-14T05:17:58.624Z","latest_version":"0.1.0","latest_published_at":"2026-08-14T05:17:59.003Z"}
@@ -323,90 +323,90 @@
 {"package":"dsh-vision-proxy-route","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1324,"first_published_at":"2026-08-17T08:51:42.977Z","latest_version":"0.1.5","latest_published_at":"2026-10-23T07:26:20.515Z"}
 {"package":"dsh-vision-web","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1412,"first_published_at":"2026-08-16T06:21:55.126Z","latest_version":"0.1.0","latest_published_at":"2026-08-16T06:21:55.325Z"}
 {"package":"dsh-voice-input-web","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":55,"first_published_at":"2026-08-15T05:26:06.925Z","latest_version":"0.1.2","latest_published_at":"2026-08-15T05:26:07.229Z"}
-{"package":"dsh-wallpaper-position","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wallpaper-position","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-web-lan-access","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1487,"first_published_at":"2026-08-14T14:57:40.425Z","latest_version":"1.3.2","latest_published_at":"2026-09-10T07:05:26.948Z"}
 {"package":"dsh-web-mobile-fix","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1820,"first_published_at":"2026-08-14T14:57:27.766Z","latest_version":"1.0.6","latest_published_at":"2026-09-11T08:30:23.557Z"}
-{"package":"dsh-web-restart","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from api.npmjs.org"}}
-{"package":"dsh-web-tools","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-web-url-view","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-weknora-archive","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-whale-girl-live2d","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-whale-tools","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-which","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-web-restart","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from api.npmjs.org"}}
+{"package":"dsh-web-tools","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-web-url-view","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-weknora-archive","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-whale-girl-live2d","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-whale-tools","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-which","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-workflow-templates","checked_at":"2026-10-24T07:37:01.768Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":357,"first_published_at":"2026-08-24T10:55:01.026Z","latest_version":"0.1.1","latest_published_at":"2026-08-24T11:11:15.682Z"}
-{"package":"dsh-worktable","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-worktable","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-wrapup-guard","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":152,"first_published_at":"2026-10-15T08:19:36.730Z","latest_version":"0.1.0","latest_published_at":"2026-10-15T08:20:33.862Z"}
-{"package":"dsh-wsl-browser","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-cal","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-clipboard","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-compose","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-cred","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-db","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-defender","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-distro","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-dns","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-docker","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-download","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-editor","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-encoding","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-env","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-eventlog","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-browser","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-cal","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-clipboard","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-compose","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-cred","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-db","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-defender","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-distro","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-dns","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-docker","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-download","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-editor","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-encoding","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-env","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-eventlog","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-wsl-expose","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":699,"first_published_at":"2026-08-18T05:13:25.044Z","latest_version":"1.7.0","latest_published_at":"2026-08-20T11:17:30.267Z"}
-{"package":"dsh-wsl-fetch","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-git","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-github","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-glab","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-gpu","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-helm","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-hostsvc","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-launch","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-llamacpp","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-mail","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-media","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-net","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-notify","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-obscura","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-obsidian","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-ollama","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-open","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-path","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-perf","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-picker","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-pkg","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-port","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-power","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-rclone","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-search","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-secret","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-service","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-shot","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-ssh-agent","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-struct","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-systemd","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-terraform","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-tmux","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-tray-launcher","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-uia","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-vecmem","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-vllm","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-winctl","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-wininput","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-winshot","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-fetch","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-git","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-github","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-glab","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-gpu","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-helm","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-hostsvc","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-launch","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-llamacpp","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-mail","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-media","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-net","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-notify","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-obscura","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-obsidian","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-ollama","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-open","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-path","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-perf","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-picker","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-pkg","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-port","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-power","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-rclone","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-search","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-secret","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-service","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-shot","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-ssh-agent","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-struct","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-systemd","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-terraform","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-tmux","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-tray-launcher","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-uia","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-vecmem","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-vllm","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-winctl","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-wininput","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-winshot","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-wsl-workspace","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":2916,"first_published_at":"2026-08-14T14:26:11.920Z","latest_version":"0.7.10","latest_published_at":"2026-10-24T06:22:46.868Z"}
-{"package":"dsh-wsl-workspace-check","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"dsh-wsl-wslconfig","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-workspace-check","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-wsl-wslconfig","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-youreyes","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1105,"first_published_at":"2026-08-15T17:48:45.438Z","latest_version":"0.1.0","latest_published_at":"2026-08-15T17:48:45.654Z"}
-{"package":"dsh-zh-ui","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"dsh-zh-ui","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"dsh-zspace","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1294,"first_published_at":"2026-10-05T21:47:18.314Z","latest_version":"0.4.0","latest_published_at":"2026-10-18T15:32:55.528Z"}
-{"package":"feiyu-memory","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"gzhflow","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"feiyu-memory","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"gzhflow","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"harness-github","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":126,"first_published_at":"2026-08-23T11:41:02.706Z","latest_version":"0.1.0","latest_published_at":"2026-08-23T11:41:02.979Z"}
 {"package":"harness-memory","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":201,"first_published_at":"2026-03-29T09:52:49.181Z","latest_version":"0.5.1","latest_published_at":"2026-04-09T11:49:25.466Z"}
 {"package":"hover-glossary","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":104,"first_published_at":"2026-10-14T01:58:35.211Z","latest_version":"1.1.0","latest_published_at":"2026-10-14T01:59:31.824Z"}
 {"package":"mcmodsdevbridge","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":74,"first_published_at":"2026-10-19T19:26:01.714Z","latest_version":"1.0.3","latest_published_at":"2026-10-19T20:13:40.370Z"}
-{"package":"messaging-core","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"messaging-core","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"model-usage-plugin","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":986,"first_published_at":"2026-09-11T08:50:15.721Z","latest_version":"0.17.0","latest_published_at":"2026-09-14T03:24:09.698Z"}
-{"package":"no-ai-style","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
-{"package":"oil-dsh-title","error":{"checked_at":"2026-10-24T07:55:30.734Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"no-ai-style","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
+{"package":"oil-dsh-title","error":{"checked_at":"2026-10-24T07:56:53.485Z","code":"HTTP_404","message":"HTTP 404 from registry.npmjs.org"}}
 {"package":"qiushi-dsh-evidence-audit","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":1159,"first_published_at":"2026-08-13T18:43:08.723Z","latest_version":"0.1.0","latest_published_at":"2026-08-13T18:43:09.045Z"}
 {"package":"zcode-usage-stats","checked_at":"2026-10-24T07:32:45.560Z","window_start":"2026-09-24","window_end":"2026-10-23","downloads_30d":136,"first_published_at":"2026-09-13T14:58:11.403Z","latest_version":"0.1.0","latest_published_at":"2026-09-13T14:58:11.594Z"}
