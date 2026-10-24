@@ -128,6 +128,7 @@
 {"repository_id":1231135337,"repository":"strukto-ai/mirage","stars":3717,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1232030145,"repository":"freestylefly/wesight","stars":957,"archived":false,"checked_at":"2026-10-24T13:37:06.934Z"}
 {"repository_id":1232322871,"repository":"vostride/agent-qa","stars":892,"archived":false,"checked_at":"2026-10-24T13:37:06.934Z"}
+{"repository_id":1232531989,"repository":"datit309/supergraph","stars":23,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1233571420,"repository":"wink-run/tokenbank","stars":109,"archived":false,"checked_at":"2026-10-24T13:37:06.934Z"}
 {"repository_id":1235225511,"repository":"SkillNerds/xskill","stars":128,"archived":false,"checked_at":"2026-10-24T13:37:06.934Z"}
 {"repository_id":1237259189,"repository":"edonadei/caliper","stars":221,"archived":false,"checked_at":"2026-10-24T13:37:06.934Z"}
@@ -269,6 +270,7 @@
 {"repository_id":1321408361,"repository":"zenx0x/allinluna","stars":63,"archived":false,"checked_at":"2026-10-24T13:37:06.934Z"}
 {"repository_id":1321492978,"repository":"IcyCreamDAS/shidi-skill","stars":14,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1321865940,"repository":"lxp731/agents-plugins","stars":2,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1322547596,"repository":"hongxin-y/codex-pet-Astra-Yao","stars":2,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1323129961,"repository":"vlln/plugin-registry","stars":59,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1323134652,"repository":"omdsh-dev/sandbox-mxc","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1323137354,"repository":"omdsh-dev/web-components","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -3230,6 +3232,7 @@
 {"repository_id":1342948215,"repository":"AlexPeng07/dsh-custom-plugin","stars":8,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1342951442,"repository":"duyanta123/dsh-refactor-insight","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1342955607,"repository":"Moon-shiyue/dsh-github-connect","stars":10,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1342958136,"repository":"135642-163/dsh-knowledge-base","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1342961132,"repository":"CREAIT-nl/dsh-plugins","stars":6,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1342966996,"repository":"wackyju2-beep/dsh-better","stars":2,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1342970553,"repository":"qishuilalala/dsh-voice-mode","stars":22,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -3311,6 +3314,7 @@
 {"repository_id":1343624731,"repository":"GM-HZ/agent-dag-workflow","stars":5,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1343627148,"repository":"MengYuil/dsh-ponytail","stars":16,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1343629749,"repository":"Mikuzjc/dsh-office-for-mso","stars":4,"archived":false,"checked_at":"2026-10-24T13:37:06.934Z"}
+{"repository_id":1343651849,"repository":"infileap/Inimerse","stars":1,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1343656184,"repository":"iimaguest/phone-tunnel-pool","stars":7,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1343668495,"repository":"Mengshang-spec/dsh-plugin-trustlens","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1343674616,"repository":"KannaKuron/dsh-gitbash-shell","stars":40,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -4550,6 +4554,7 @@
 {"repository_id":1358698289,"repository":"Kanadego/dsh-heartbeat","stars":16,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1358704549,"repository":"JNNarrator/dsh-deckseek","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1358756810,"repository":"long6177/dsh-markdown-input","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1358764271,"repository":"mill413/dsh-session-resume","stars":1,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1358781196,"repository":"Mekansm1/DSH-WebGIS","stars":5,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1358785392,"repository":"aa2246740/dsh-firecrawl","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1358803741,"repository":"polohot/dsh-adrian-inject-context","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -4660,6 +4665,7 @@
 {"repository_id":1361530454,"repository":"leetom314/dsh-delivery-ledger","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1361530579,"repository":"leetom314/dsh-tiered-memory","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1361537848,"repository":"greyoak111/siyuan-codex-bridge","stars":3,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1361560222,"repository":"huangfuren/dsh-client-ui-balance","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1361594513,"repository":"Tuhuaqing/just-dsh-plugins","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1361643279,"repository":"ljc6413/yihe-packs-dsh","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1361672429,"repository":"master1Sun/dsh-QQbot","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -5474,6 +5480,7 @@
 {"repository_id":1386625534,"repository":"hbgdjb/dsh-mimo-quota","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1386655038,"repository":"refkitjs/dsh-plugin","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1386678507,"repository":"mengqi1436/DSH-Rtk-rewrite","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1386698620,"repository":"datit309/dsh-live-inspector","stars":2,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1386769329,"repository":"ZhangBo-cmd/dsh-pricing-badge","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1386905389,"repository":"whding110/dsh-dev-progress-memory","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1387048230,"repository":"azazo1/dsh-deep-diving-back","stars":0,"archived":true,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -5611,6 +5618,7 @@
 {"repository_id":1391632191,"repository":"JessenReinhart/dsh-tokenslash","stars":7,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1391632888,"repository":"wxlei2004/dsh-plugins","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1391655874,"repository":"aiyacharley/dsh-at-sider","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1391670148,"repository":"JuYueYe/dsh-personal-model-picker","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1391690991,"repository":"Drkoh-wz/team-craft","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1391820162,"repository":"d0ublecl1ck/dsh-session-radar","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1391840154,"repository":"eghrhegpe/dsh-connect-sensenova-token-plan","stars":5,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -5924,6 +5932,7 @@
 {"repository_id":1401715564,"repository":"Yum-wu/dsh-plugin-codemode","stars":1,"archived":false,"checked_at":"2026-10-24T13:37:06.934Z"}
 {"repository_id":1401731686,"repository":"YE-ZINAN/dsh-skin-im2005","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1401743391,"repository":"Ndsanes/dsh-rules","stars":4,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1401755814,"repository":"Something11235/dsh-video-skin","stars":50,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1401765388,"repository":"moeform-re/dsh-review-md-preview","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1401797123,"repository":"PriceDotWin/pricewin-dsh","stars":0,"archived":false,"checked_at":"2026-10-24T13:37:06.934Z"}
 {"repository_id":1401797592,"repository":"bitxeno/dsh-magpie-connect","stars":4,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -5976,6 +5985,7 @@
 {"repository_id":1402938353,"repository":"yaanlaan/deepseek-colorful","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1402940383,"repository":"zhang-tod/dsh-codebuddy","stars":4,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1402940561,"repository":"AK-blank/dsh-plugin-mac-notify","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1402946730,"repository":"datit309/dsh-telegram-bridge","stars":3,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1402962113,"repository":"NoProblUm/dsh-codexlike-projectless","stars":6,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1402972022,"repository":"sayho-pm/dsh-locale-pack","stars":11,"archived":false,"checked_at":"2026-10-24T13:37:06.934Z"}
 {"repository_id":1402972337,"repository":"ShoTakujo/dsh-platform-usage","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -6131,6 +6141,7 @@
 {"repository_id":1407282185,"repository":"MrGnUm/dsh-image-webp-to-png","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1407298396,"repository":"luoyuejun9/dsh-skin-rotation","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1407311417,"repository":"tuibe/dsh-deepseek-theme-studio","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1407314097,"repository":"Player-MINEPIG/dsh-prompt-assembler","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1407379611,"repository":"439436269-ctrl/dsh-pinned-sessions","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1407384806,"repository":"Ragnoryok1/dsh-plugin-doctor","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1407409202,"repository":"SuperWheel/dsh-cliworker-now","stars":26,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -6343,6 +6354,7 @@
 {"repository_id":1411860011,"repository":"graydovee/dsh-browser","stars":3,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1411879531,"repository":"caob23/dsh-origin-bridge","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1411882204,"repository":"zhanshenovo/dsh-bushaoxin","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1411924977,"repository":"Bai-2008/dsh-better-panel","stars":14,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1411949527,"repository":"ruiyukirin/dsh-prompt-optimization-master","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1411961200,"repository":"xfy2412/dsh-time-reminder","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1411978508,"repository":"senyayume/dsh-image-once","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -6638,6 +6650,7 @@
 {"repository_id":1418747058,"repository":"lishuo4096/artifact-center","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1418755588,"repository":"imtwa/dsh-recall-sessions","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1418769012,"repository":"5V1A-afk/dsh-sticker-pack","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1418775337,"repository":"MuyuYanran/dsh-rea-mcp-lite","stars":2,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1418817912,"repository":"yffo/dsh-engramory-recall","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1418823157,"repository":"SereneJi/dsh-host-paths","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1418842530,"repository":"2048lr/dsh-feishu","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -6921,6 +6934,7 @@
 {"repository_id":1423859673,"repository":"kgmkm/dsh-genspark","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1423871319,"repository":"chinwe/dsh-compound-memory","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1423878880,"repository":"jerry9692/dsh-workbuddy2api-panel","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1423888334,"repository":"zshqzcn/dsh-plugin-agent-bridge","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1423896452,"repository":"yezitotempeace/dsh-big-compact","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1423923338,"repository":"yezitotempeace/dsh-tmp-cleaner","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1423923556,"repository":"yezitotempeace/dsh-agent-team-roster","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -6950,6 +6964,7 @@
 {"repository_id":1424039620,"repository":"aadmin61-design/dsh-selection-chat","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1424040377,"repository":"germyGao/dsh-select-assist","stars":2,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1424051823,"repository":"tinyfinddong/dsh-close-all-tabs","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1424062057,"repository":"xtt-xt/dsh-custom-tool-studio","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1424063534,"repository":"1Lany2a/dsh-domain-role","stars":8,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1424067643,"repository":"Lovepeace-art/dsh-android-phone","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1424078727,"repository":"wfz2006/dsh-status-bar","stars":5,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -7011,6 +7026,7 @@
 {"repository_id":1424427444,"repository":"HildebrandYu/dsh-session-chains","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1424428920,"repository":"YSDLNGF/dsh-acrylic-light","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1424433303,"repository":"7gzgn/dsh-restart-dock","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1424439531,"repository":"lj100886/dsh-team-canvas","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1424444258,"repository":"In-clude/dsh-approval-reminder","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1424444709,"repository":"GEB-lab/dsh-codex-mcp","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1424460660,"repository":"zoe1nan/dsh-cockpit","stars":21,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -7154,6 +7170,7 @@
 {"repository_id":1425913498,"repository":"RyeSama/dsh-plugin-guard","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1425913575,"repository":"oldzhang82/dsh-tps-ttft","stars":4,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1425917948,"repository":"vagur1689/dsh-conversation-find","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1425919375,"repository":"ecbob/dsh-window-size-keeper","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1425998483,"repository":"OrderG-X/dsh-mobile","stars":2,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1426025465,"repository":"nico-zhuang/dsh-nav-fold","stars":10,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1426070939,"repository":"7starsseeker/MCModsDevBridge","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -7303,6 +7320,7 @@
 {"repository_id":1427901254,"repository":"Han-1413141/dsh-jev-thinkout","stars":2,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1427909001,"repository":"Qiujiyuantiantian/dsh-vehicle-dynamics","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1427911842,"repository":"Ledas-as/dsh-claude-video-slider","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1427922552,"repository":"AidenOrz/dsh-workbuddy-connect","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1427926667,"repository":"JYT-copy/dsh-minecraft-ui","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1427926866,"repository":"wangdapeng325/dsh-oi-senior","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1427927438,"repository":"Cloud017/dsh-prompt-reforge","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -7361,6 +7379,7 @@
 {"repository_id":1428412243,"repository":"NingTiAn-byte/dsh-linked-workspaces","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1428421065,"repository":"prettyfox/dsh-selection-quote-auto","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1428426712,"repository":"Witherwithwinter/dsh-ccx","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1428428403,"repository":"oxygenforce/dsh-token-usage-badge","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1428430880,"repository":"feigo313/dsh-structured","stars":5,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1428434540,"repository":"huangxicheng1/blog-manage","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1428445231,"repository":"ws1234567891011/dsh-interim-narration","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -7371,6 +7390,7 @@
 {"repository_id":1428479511,"repository":"Yurzi/dsh-tool-web-enhanced","stars":6,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1428487954,"repository":"pianVei/dsh-rice-bowl","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1428491890,"repository":"cshengyi023-collab/dsh-pet-companion","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1428497062,"repository":"ChenWeiqi12345/dsh-deepy-pet","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1428502349,"repository":"tangyixiao/dsh-workbuddy-connect-community","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1428505226,"repository":"menghuanshiguang/dsh-sunder","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1428515480,"repository":"654970/dsh-typing-studio","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -7418,6 +7438,7 @@
 {"repository_id":1429249997,"repository":"meisijiya/dsh-hindsight-memory","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429251919,"repository":"IDKURLOVE/dsh-reset-button","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429253553,"repository":"chai-yinfeng/dsh-macos-restart","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1429254701,"repository":"Eason-22/dsh-autorestart","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1429265103,"repository":"tengyinan1994/dsh-project-runner","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429276179,"repository":"chen731215-dev/dsh-muv-engine","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429276289,"repository":"chen731215-dev/dsh-muv-table","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -7431,8 +7452,10 @@
 {"repository_id":1429361881,"repository":"n431mn/lazy-workspace-manager","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429364662,"repository":"Ayelsh/dsh-glass-theme","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429365781,"repository":"huangziyuan-general/dsh-xuanji","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1429369429,"repository":"Tansukii/dsh-screenshot","stars":1,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1429372613,"repository":"kiefeng/dsh-avatar-top","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429391792,"repository":"RoderickWilliams/dsh-local-3d-studio","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1429403795,"repository":"mailmrcai/dsh-hermes-session","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1429434323,"repository":"RoderickWilliams/dsh-picture-text-reader","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429436159,"repository":"zuwenyin/dsh-plugin-upgrader","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429447451,"repository":"androidly/dsh-restart-control","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
@@ -7460,13 +7483,54 @@
 {"repository_id":1429749573,"repository":"Jxxxxx729/dsh-win-notify","stars":3,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429766953,"repository":"7gzgn/dsh-my-plugins","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429804454,"repository":"python3603/dsh-weather-panel","stars":6,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1429813766,"repository":"haruri03/dsh-todo-ledger","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1429822949,"repository":"yiliang114/dsh-session-deck","stars":3,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1429831825,"repository":"kongbaiming5/dsh-pet-button","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1429838911,"repository":"tianfangliu98-cpu/dsh-image-hub","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1429842177,"repository":"qian-dsh/dsh-outer-brain","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429859431,"repository":"picklerick422/dsh-conv-progress","stars":1,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429877375,"repository":"WalterYOO/dsh-web-search-yuanbao","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1429905672,"repository":"LornBerry/dsh-memory-center","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1429911074,"repository":"sunyifeisb-art/dsh-llm-chatgpt-web","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429921949,"repository":"nuolingmo/dsh-market-notes","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1429971731,"repository":"CatLollipop/dsh-parallel-sessions","stars":1,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1429974738,"repository":"xyzYaeMiko/dsh-session-groups","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1429976527,"repository":"sunshaobei/dsh-balance-panel","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429976595,"repository":"sunshaobei/dsh-codex-auth","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
 {"repository_id":1429976671,"repository":"sunshaobei/dsh-input-history","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1429980819,"repository":"QiYunqv-jxd/dsh-desktop-autostart","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1429984161,"repository":"ChiffonOwO/dsh-diff-review","stars":1,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430102679,"repository":"zhaochengbiao005/dsh-gcua","stars":2,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
 {"repository_id":1430103971,"repository":"hansomgar/dsh-recent-usage-metrics","stars":0,"archived":false,"checked_at":"2026-10-24T08:55:29.833Z"}
+{"repository_id":1430125667,"repository":"wood007924/dsh-approval-enter","stars":1,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430152213,"repository":"pigman18/dsh-openai-gateway","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430306649,"repository":"sun04222/dsh-prompt-enhance","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430389503,"repository":"CatLollipop/dsh-composer-draft-cache","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430458523,"repository":"2310770803/dsh-session-copy","stars":1,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430463824,"repository":"topkie/dsh-lattice","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430489985,"repository":"hualuo520-h/dsh-connect-scnet","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430522822,"repository":"ptrel1/dsh-interrupted-resume","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430523741,"repository":"hanmoxu9/dsh-taskbar-glow","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430524332,"repository":"BW741/dsh-video-eyes","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430545779,"repository":"Sheep1x/dsh-aimy","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430547172,"repository":"AssassinVIX/fairy-zzz-plugin","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430550524,"repository":"alccs/dsh-visual-intelligence-engine","stars":1,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430588339,"repository":"CodeIntegrity/dsh-semble","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430588656,"repository":"dmscode/dsh-cloudflare-media","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430610749,"repository":"logb-1/dsh-course-assistant","stars":1,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430616772,"repository":"IndieXiaoLong/DSH-Enhance","stars":18,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430623185,"repository":"yrsxy/dsh-warm-theme","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430636683,"repository":"wwwyyyc/dsh-ssh-agent-workspace","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430657538,"repository":"ZIye1208/dsh-settings-nav-manager","stars":3,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430658035,"repository":"SOVLOOKUP/dsh-settings-footer","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430668299,"repository":"nineoooo/dsh-qzone-echo","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430672357,"repository":"matata2017/dsh-paste-collapse","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430695364,"repository":"zenVibeCoding/dsh-newapi-provider","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430724373,"repository":"sunaono1/dsh-plugin-dual-brain","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430825379,"repository":"liujianqiao701/dsh-context-radar","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430897073,"repository":"643048695/dsh-mt-download","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430919676,"repository":"bxzfxl/dsh-config-sync","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430930936,"repository":"kingofpowers/dsh-chat-ctxmenu","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430937624,"repository":"MingHuanYue/dsh-tide-memory","stars":1,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1430952989,"repository":"54nanmiao/dsh-peak-reminder","stars":0,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
+{"repository_id":1431132326,"repository":"WU079/dsh-douyin-subagent","stars":1,"archived":false,"checked_at":"2026-10-24T18:22:19.991Z"}
