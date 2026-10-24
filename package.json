@@ -1,0 +1,36 @@
+{
+  "name": "dsh-plugin-meta",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Versioned volatile metadata snapshots for DSH plugins.",
+  "type": "module",
+  "engines": {
+    "node": "24.19.0"
+  },
+  "scripts": {
+    "format": "prettier --write . --ignore-unknown",
+    "format:check": "prettier --check . --ignore-unknown",
+    "refresh:meta": "node scripts/refresh-meta.mjs",
+    "test": "node --test",
+    "check": "npm run format:check && npm test"
+  },
+  "config": {
+    "inputFile": "./data/PACKAGE-MANIFEST.jsonl",
+    "outputFile": "./data/META.jsonl",
+    "scriptsDirectory": "./scripts",
+    "defaultMaxCount": 2000,
+    "staleAfterHours": 24,
+    "concurrency": 8,
+    "downloadRequestIntervalMs": 300,
+    "requestTimeoutMs": 15000,
+    "maxRetries": 4
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thundax-lyp/dsh-plugin-meta.git"
+  },
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "prettier": "3.9.10"
+  }
+}
