@@ -10,7 +10,7 @@ import {
   refresh,
   selectPackages,
   validateManifest,
-} from "../scripts/refresh-meta.mjs";
+} from "../scripts/refresh-npm.mjs";
 
 test("parses defaults and full all arguments", () => {
   assert.deepEqual(parseArguments([], 2000), { full: false, maxCount: 2000 });

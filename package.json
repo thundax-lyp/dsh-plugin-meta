@@ -10,20 +10,34 @@
   "scripts": {
     "format": "prettier --write . --ignore-unknown",
     "format:check": "prettier --check . --ignore-unknown",
-    "refresh:meta": "node scripts/refresh-meta.mjs",
+    "refresh:meta": "node scripts/refresh-npm.mjs",
     "test": "node --test",
-    "check": "npm run format:check && npm test"
+    "check": "npm run format:check && npm test && npm run validate:git",
+    "refresh:npm": "node scripts/refresh-npm.mjs",
+    "import:git": "node scripts/import-git.mjs",
+    "refresh:git": "node scripts/refresh-git.mjs",
+    "validate:git": "node scripts/validate-git.mjs",
+    "import:npm": "node scripts/import-npm.mjs",
+    "check:npm": "node --test test/refresh-npm.test.mjs test/import-npm.test.mjs",
+    "check:git": "node --test test/refresh-git.test.mjs && npm run validate:git"
   },
   "config": {
-    "inputFile": "./data/PACKAGE-MANIFEST.jsonl",
-    "outputFile": "./data/META.jsonl",
+    "inputFile": "./data/NPM-MANIFEST.jsonl",
+    "outputFile": "./data/NPM-META.jsonl",
     "scriptsDirectory": "./scripts",
     "defaultMaxCount": 2000,
     "staleAfterHours": 24,
     "concurrency": 8,
     "downloadRequestIntervalMs": 300,
     "requestTimeoutMs": 15000,
-    "maxRetries": 4
+    "maxRetries": 4,
+    "githubInputFile": "./data/GIT-MANIFEST.jsonl",
+    "githubOutputFile": "./data/GIT-META.jsonl",
+    "githubPendingFile": "./data/GIT-PENDING.jsonl",
+    "githubErrorsFile": "./data/GIT-ERRORS.jsonl",
+    "githubBatchSize": 40,
+    "githubMaxRetries": 2,
+    "catalogSourceUrl": "https://awesome-dsh-plugin.com/plugins.json"
   },
   "repository": {
     "type": "git",
