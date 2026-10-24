@@ -36,6 +36,8 @@ npm run refresh:meta -- --full --max-count all
 
 刷新器使用 npm registry 与 npm downloads API，按最近 30 个完整 UTC 日统计下载量。registry 核验成功后才查询下载量，下载请求按固定间隔启动并对限流做有限退避。默认数量、时间阈值、并发数、下载请求间隔、超时和重试次数保存在 `package.json#config`。
 
+GitHub Actions 每 3 小时执行一次增量刷新，只处理从未成功或超过 24 小时未成功刷新的包，每次最多 2000 条；`META.jsonl` 发生变化时由 `github-actions[bot]` 提交快照。
+
 ## 开发
 
 ```bash
