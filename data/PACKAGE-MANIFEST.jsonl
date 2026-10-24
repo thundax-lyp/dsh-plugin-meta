@@ -181,6 +181,7 @@
 {"package":"dsh-insight"}
 {"package":"dsh-invoice-tools"}
 {"package":"dsh-jev-guard"}
+{"package":"dsh-jev-interceptor"}
 {"package":"dsh-krouter"}
 {"package":"dsh-language-guard"}
 {"package":"dsh-leak-guard"}
@@ -215,6 +216,7 @@
 {"package":"dsh-ollama-cloud"}
 {"package":"dsh-openai-bridge"}
 {"package":"dsh-openai-oauth"}
+{"package":"dsh-opencodego-status"}
 {"package":"dsh-openviking-enhance"}
 {"package":"dsh-orchestrator2"}
 {"package":"dsh-pdf-reader"}
