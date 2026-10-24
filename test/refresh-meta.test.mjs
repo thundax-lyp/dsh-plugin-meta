@@ -43,15 +43,19 @@ test("uses the last 30 complete UTC days", () => {
   });
 });
 
-test("incremental selection uses last successful checked_at", () => {
+test("incremental selection uses the latest success or failure attempt", () => {
   const now = new Date("2026-10-24T12:00:00.000Z");
   const selected = selectPackages(
-    ["a", "b", "c"],
+    ["a", "b", "c", "d"],
     {
       a: { checked_at: "2026-10-24T11:00:00.000Z" },
       b: { checked_at: "2026-10-23T11:59:59.000Z" },
+      d: {
+        checked_at: null,
+        error: { checked_at: "2026-10-24T10:00:00.000Z" },
+      },
     },
-    { full: false, maxCount: 2, staleAfterHours: 24, now },
+    { full: false, maxCount: 4, staleAfterHours: 24, now },
   );
   assert.deepEqual(selected, ["b", "c"]);
 });

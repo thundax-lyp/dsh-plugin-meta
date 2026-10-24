@@ -229,11 +229,12 @@ export function selectPackages(
   return packageNames
     .filter((packageName) => {
       if (full) return true;
-      const checkedAt = existingPackages[packageName]?.checked_at;
+      const record = existingPackages[packageName];
+      const checkedTimes = [record?.checked_at, record?.error?.checked_at]
+        .map((value) => (typeof value === "string" ? Date.parse(value) : NaN))
+        .filter(Number.isFinite);
       return (
-        typeof checkedAt !== "string" ||
-        !Number.isFinite(Date.parse(checkedAt)) ||
-        Date.parse(checkedAt) <= staleBefore
+        checkedTimes.length === 0 || Math.max(...checkedTimes) <= staleBefore
       );
     })
     .slice(0, maxCount);
