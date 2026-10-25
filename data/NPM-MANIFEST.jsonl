@@ -54,6 +54,7 @@
 {"package":"@amaster.ai/dsh-storage"}
 {"package":"@amoji/dsh"}
 {"package":"@andrecgoncalves/dsh-balance"}
+{"package":"@angelky7/dsh-browser-control"}
 {"package":"@angelyeye/dsh-cost-tracker"}
 {"package":"@anionex/dsh-computer-use"}
 {"package":"@anionex/dsh-turn-rewind"}
@@ -73,6 +74,7 @@
 {"package":"@ashtonsun/dsh-experimental-computer-use-linux-nde-mcp"}
 {"package":"@astervolans/dsh-literature-search"}
 {"package":"@astervolans/dsh-opencode-go-usage"}
+{"package":"@astron-team/skillhub-dsh"}
 {"package":"@at-series/dsh-at-terminal"}
 {"package":"@avernet-plugin/deepseek-harness-channel-bcn"}
 {"package":"@awiki/dsh-plugin"}
@@ -89,6 +91,7 @@
 {"package":"@bittersmilezzz/dsh-model-selector"}
 {"package":"@bittersmilezzz/dsh-notify"}
 {"package":"@busabase/dsh-plugin"}
+{"package":"@bushizhanghan/dsh-page-monitor"}
 {"package":"@bushizhanghan/dsh-workmate"}
 {"package":"@canary-builds/dsh-mobile-ui"}
 {"package":"@caob23/dsh-browser-control"}
@@ -175,10 +178,13 @@
 {"package":"@dsh-agentic-roleplay/state"}
 {"package":"@dsh-ai-providers/anthropic"}
 {"package":"@dsh-ai-providers/cohere"}
+{"package":"@dsh-ai-providers/dashscope"}
 {"package":"@dsh-ai-providers/jina"}
 {"package":"@dsh-ai-providers/localai"}
+{"package":"@dsh-ai-providers/ollama"}
 {"package":"@dsh-ai-providers/openai"}
 {"package":"@dsh-ai-providers/runtime"}
+{"package":"@dsh-ai-providers/typesafe"}
 {"package":"@dsh-blue/blue"}
 {"package":"@dsh-electron/dsh-plugin-git"}
 {"package":"@dsh-electron/dsh-plugin-multi-root-workspace"}
@@ -225,6 +231,7 @@
 {"package":"@duke-dsh-plugins/dsh-whaleharbor-pet"}
 {"package":"@duke-dsh-plugins/whaleharbor-promo"}
 {"package":"@edge-sky/dsh-oauth-adapter"}
+{"package":"@eduwork/dsh-annotation"}
 {"package":"@eduwork/dsh-knowledge-studio"}
 {"package":"@eduwork/dsh-literature"}
 {"package":"@eduwork/dsh-mail"}
@@ -235,6 +242,7 @@
 {"package":"@ephemeral-ai/mayfly"}
 {"package":"@eqman00003/dsh-office-com"}
 {"package":"@eqman00003/knowlp-rag"}
+{"package":"@ericwang1358/dsh-daily-flashcard"}
 {"package":"@esroamer/codex-dsh-collab"}
 {"package":"@eternalloveone/dsh-palm"}
 {"package":"@eternalnight/dsh-theme"}
@@ -351,7 +359,9 @@
 {"package":"@ising-tech/isingq-dsh-plugin"}
 {"package":"@islibaodong/dsh-login"}
 {"package":"@istarry/dsh-agent-suite"}
+{"package":"@istarry/dsh-assistant-profile"}
 {"package":"@istarry/dsh-browser"}
+{"package":"@istarry/dsh-edit-regen"}
 {"package":"@istarry/dsh-prompt-enhance"}
 {"package":"@istarry/dsh-scheduled-tasks"}
 {"package":"@istarry/dsh-skill-suite"}
@@ -439,6 +449,7 @@
 {"package":"@lenorin/dsh-tauri-launcher"}
 {"package":"@leon___/dsh-client-liang-intensity-skin"}
 {"package":"@leooday/dsh-bundle"}
+{"package":"@liangfengqi/dsh-config-sync"}
 {"package":"@lidaxi/prompt-enhance"}
 {"package":"@lijinhao315/dsh-question-index"}
 {"package":"@limuyang2/dsh-agent-team"}
@@ -486,6 +497,7 @@
 {"package":"@lyd123qw2008/dsh-tool-control-chrome"}
 {"package":"@lyhue1991/dsh-soup"}
 {"package":"@lyonleeeee/dsh-steer"}
+{"package":"@lyx0717/dsh-washer"}
 {"package":"@lyxx/dsh-session-autotitle"}
 {"package":"@m-rui/dsh-mate-companion"}
 {"package":"@m1khal3v/dsh-llm-key-rotation"}
@@ -508,6 +520,7 @@
 {"package":"@max-null/dsh-skill-mcp-center"}
 {"package":"@maxhsu/dsh-forge"}
 {"package":"@maximehu97/dsh-meeting"}
+{"package":"@mebular/dsh-plugin"}
 {"package":"@memef1f1y/dsh-plugin-proxy"}
 {"package":"@memef1f1y/dsh-plugin-tavily"}
 {"package":"@memef1f1y/dsh-plugin-tts"}
@@ -526,6 +539,7 @@
 {"package":"@michengai/dsh-simplify"}
 {"package":"@michengai/dsh-skills-manager"}
 {"package":"@miku00039-01/dsh-whale-pet"}
+{"package":"@mill413/dsh-session-resume"}
 {"package":"@mimateinn/dsh-i18n"}
 {"package":"@mingozhou/dsh-replay"}
 {"package":"@mixian/dsh-desktop-plugin"}
@@ -742,6 +756,7 @@
 {"package":"@weibaohui/dsh-matrix"}
 {"package":"@weibaohui/dsh-process"}
 {"package":"@weibaohui/dsh-settings-ui"}
+{"package":"@weibaohui/dsh-sidebar-tidy"}
 {"package":"@weibaohui/dsh-smart-title"}
 {"package":"@weibaohui/dsh-sync"}
 {"package":"@weibaohui/dsh-tasks"}
@@ -756,6 +771,9 @@
 {"package":"@wenaixi/dsh-prompt-history"}
 {"package":"@wenaixi/dsh-superpower"}
 {"package":"@wenbin_wb/dsh-bridge"}
+{"package":"@whybebabo/dsh-better-workspace"}
+{"package":"@whybebabo/dsh-code-nav"}
+{"package":"@whybebabo/dsh-file-review-tab"}
 {"package":"@windypro-rourou/dsh-code-studio"}
 {"package":"@windypro-rourou/dsh-logcat"}
 {"package":"@wingsky-1/dsh-lan-proxy"}
@@ -794,6 +812,8 @@
 {"package":"@xiaweiliang060035/dsh-opencode-go-usage"}
 {"package":"@xiazhi88/dshgo"}
 {"package":"@xidong-ai/dsh-rate-limiter"}
+{"package":"@xiguazhiprince/dsh-session-map"}
+{"package":"@xinxing1708/dsh-codex-style"}
 {"package":"@xmanrui/dsh-im"}
 {"package":"@xmoon76/dsh-pi-tui"}
 {"package":"@xmoon76/dsh-profile-settings"}
@@ -825,6 +845,7 @@
 {"package":"@yfwu2020/dsh-selection-explain"}
 {"package":"@yfwu2020/dsh-think-flow"}
 {"package":"@yichenwilian/dsh-deepseek-web"}
+{"package":"@yiliang114/dsh-session-deck"}
 {"package":"@yilinxiao/dsh-mcp-lazy"}
 {"package":"@yiyunet/dsh-dingtalk-connector"}
 {"package":"@yiyunet/dsh-kill-ai-slop"}
@@ -854,6 +875,7 @@
 {"package":"@zdt3476/dsh-metrics"}
 {"package":"@zebbkira/dsh-skills-mcp-manager"}
 {"package":"@zeng/dsh-sidebar-git-graph"}
+{"package":"@zengevent/dsh-effort-dial"}
 {"package":"@zephinel/dsh-intelligent-ui"}
 {"package":"@zerorigin-studio/dsh-deepseek-chat"}
 {"package":"@zerorigin-studio/dsh-desktop-shell"}
@@ -870,9 +892,12 @@
 {"package":"@zhiqiangme/dsh-opencode2api"}
 {"package":"@zhiqiangme/dsh-tavily-search"}
 {"package":"@zhtx2026/dsh-pdf"}
+{"package":"@zhubai0528/dsh-client-ui-aqua-community-fix"}
 {"package":"@zhuchenglong/dsh-side-chat"}
 {"package":"@zhucy123/dsh-update"}
 {"package":"@zhujiuyi/dsh-balance"}
+{"package":"@zhujiuyi/dsh-leftpanel"}
+{"package":"@zhujiuyi/dsh-mcpserver-manager"}
 {"package":"@zhujiuyi/dsh-token-dashboard"}
 {"package":"@zhujunpeng12/dsh-memory-system"}
 {"package":"@zhz8888/dsh-android-emulator-helper"}
@@ -919,6 +944,7 @@
 {"package":"better-model-provider"}
 {"package":"bgjobs"}
 {"package":"billion-context"}
+{"package":"brooks-lint"}
 {"package":"cc-safety-net"}
 {"package":"ccs-balance"}
 {"package":"chicheng-cron"}
@@ -1003,6 +1029,7 @@
 {"package":"dsh-agentdebugx"}
 {"package":"dsh-agentmail"}
 {"package":"dsh-agentnoodle"}
+{"package":"dsh-agents-init"}
 {"package":"dsh-agents-notch"}
 {"package":"dsh-aginxbrowser"}
 {"package":"dsh-agnes-studio"}
@@ -1033,6 +1060,8 @@
 {"package":"dsh-always-status-bar"}
 {"package":"dsh-amphoreus"}
 {"package":"dsh-anet"}
+{"package":"dsh-annotate-browser"}
+{"package":"dsh-annotation"}
 {"package":"dsh-answer-highlighter"}
 {"package":"dsh-answer-me-with-html"}
 {"package":"dsh-answer-reviewer"}
@@ -1088,6 +1117,7 @@
 {"package":"dsh-assembly.resume"}
 {"package":"dsh-astock-research"}
 {"package":"dsh-astrbot-ingress"}
+{"package":"dsh-at-file-everything"}
 {"package":"dsh-at-sider"}
 {"package":"dsh-at-skill"}
 {"package":"dsh-atlassian-plugin"}
@@ -1120,6 +1150,7 @@
 {"package":"dsh-auto-vision"}
 {"package":"dsh-autocompose"}
 {"package":"dsh-automation-center"}
+{"package":"dsh-autorestart"}
 {"package":"dsh-autoresume"}
 {"package":"dsh-autotier"}
 {"package":"dsh-awesome-agent-preset"}
@@ -1186,8 +1217,10 @@
 {"package":"dsh-boot-video"}
 {"package":"dsh-boot-video-manager"}
 {"package":"dsh-bootstrap"}
+{"package":"dsh-bot-board"}
 {"package":"dsh-bottom-cost"}
 {"package":"dsh-bottom-info-bar"}
+{"package":"dsh-brain-viewer"}
 {"package":"dsh-brainagent"}
 {"package":"dsh-branch-cleaner"}
 {"package":"dsh-branchmark"}
@@ -1242,9 +1275,11 @@
 {"package":"dsh-cd"}
 {"package":"dsh-cert-mcp"}
 {"package":"dsh-channel-view"}
+{"package":"dsh-channel-wechat"}
 {"package":"dsh-chat"}
 {"package":"dsh-chat-avatar"}
 {"package":"dsh-chat-cost"}
+{"package":"dsh-chat-ctxmenu"}
 {"package":"dsh-chat-history"}
 {"package":"dsh-chat-image-lightbox"}
 {"package":"dsh-chat-imagine"}
@@ -1308,6 +1343,7 @@
 {"package":"dsh-cliproxyapi-pro"}
 {"package":"dsh-cliworker-now"}
 {"package":"dsh-cloudflare-access"}
+{"package":"dsh-cloudflare-media"}
 {"package":"dsh-cloudq"}
 {"package":"dsh-code-collector"}
 {"package":"dsh-code-coverage"}
@@ -1360,6 +1396,7 @@
 {"package":"dsh-commandcode-usage-inline"}
 {"package":"dsh-commercial-ui-ux"}
 {"package":"dsh-community-hot"}
+{"package":"dsh-compact-relay"}
 {"package":"dsh-compact-saviour"}
 {"package":"dsh-compact-selected-model"}
 {"package":"dsh-compact-suite"}
@@ -1372,6 +1409,7 @@
 {"package":"dsh-completion-guard"}
 {"package":"dsh-complex-project-preset"}
 {"package":"dsh-compose-panel"}
+{"package":"dsh-composer-assist"}
 {"package":"dsh-composer-enter"}
 {"package":"dsh-composer-expand"}
 {"package":"dsh-composer-history"}
@@ -1405,6 +1443,7 @@
 {"package":"dsh-connect-modelscope-token-plan"}
 {"package":"dsh-connect-opencode"}
 {"package":"dsh-connect-opencode-free"}
+{"package":"dsh-connect-scnet"}
 {"package":"dsh-connect-sensenova-token-plan"}
 {"package":"dsh-connect-trae"}
 {"package":"dsh-connect-trae-models"}
@@ -1448,6 +1487,7 @@
 {"package":"dsh-cost-pill"}
 {"package":"dsh-cost-receipt"}
 {"package":"dsh-cot-anchor"}
+{"package":"dsh-course-assistant"}
 {"package":"dsh-coyote"}
 {"package":"dsh-crabtodo"}
 {"package":"dsh-creator-mode-plus"}
@@ -1480,6 +1520,7 @@
 {"package":"dsh-d1"}
 {"package":"dsh-damage-pulse"}
 {"package":"dsh-dania-voice"}
+{"package":"dsh-daoyi-yijing"}
 {"package":"dsh-daruma"}
 {"package":"dsh-darwin-forge"}
 {"package":"dsh-darwin-sentinel"}
@@ -1488,9 +1529,11 @@
 {"package":"dsh-data-quality"}
 {"package":"dsh-database"}
 {"package":"dsh-database-explorer"}
+{"package":"dsh-database-preview"}
 {"package":"dsh-date-wrapper"}
 {"package":"dsh-db-connector"}
 {"package":"dsh-db-tool"}
+{"package":"dsh-dbhub-live"}
 {"package":"dsh-debate-simulator"}
 {"package":"dsh-decision-split"}
 {"package":"dsh-deckseek"}
@@ -1622,6 +1665,7 @@
 {"package":"dsh-everforest"}
 {"package":"dsh-everything-find"}
 {"package":"dsh-evidence-check"}
+{"package":"dsh-evo-subagent"}
 {"package":"dsh-evolution-lab"}
 {"package":"dsh-exa-mcp"}
 {"package":"dsh-excel-chat"}
@@ -1666,11 +1710,13 @@
 {"package":"dsh-file-upload"}
 {"package":"dsh-file-viewer"}
 {"package":"dsh-files-native"}
+{"package":"dsh-find-bar"}
 {"package":"dsh-find-ideas"}
 {"package":"dsh-find-plugin"}
 {"package":"dsh-find-plugins"}
 {"package":"dsh-firecrawl"}
 {"package":"dsh-first-principles"}
+{"package":"dsh-first-prompt-bar"}
 {"package":"dsh-fish-tts"}
 {"package":"dsh-fishpai"}
 {"package":"dsh-flakefinder"}
@@ -1687,6 +1733,7 @@
 {"package":"dsh-folderwatch"}
 {"package":"dsh-font-enhancer"}
 {"package":"dsh-fonttune"}
+{"package":"dsh-force-collab"}
 {"package":"dsh-forget-session"}
 {"package":"dsh-form-fill-agent"}
 {"package":"dsh-frecency"}
@@ -1702,6 +1749,7 @@
 {"package":"dsh-fullscreen-input"}
 {"package":"dsh-fullscreen-settings"}
 {"package":"dsh-funasr-voice"}
+{"package":"dsh-functions"}
 {"package":"dsh-fund-research"}
 {"package":"dsh-funnel"}
 {"package":"dsh-gacha-calendar"}
@@ -1747,6 +1795,7 @@
 {"package":"dsh-github-workbench"}
 {"package":"dsh-gitlab-plugin"}
 {"package":"dsh-gitnexus-plus"}
+{"package":"dsh-glass-ranswork"}
 {"package":"dsh-glass-weather"}
 {"package":"dsh-glm-mode"}
 {"package":"dsh-glm-quota-dock"}
@@ -1756,6 +1805,7 @@
 {"package":"dsh-gme-test-generator"}
 {"package":"dsh-go-balance"}
 {"package":"dsh-gongwen-word-check"}
+{"package":"dsh-goodies"}
 {"package":"dsh-gotify-notify"}
 {"package":"dsh-gov"}
 {"package":"dsh-gpt-niang-quota"}
@@ -1780,6 +1830,7 @@
 {"package":"dsh-hacker-news"}
 {"package":"dsh-handoff-button"}
 {"package":"dsh-handoff-compaction"}
+{"package":"dsh-haoba-mode"}
 {"package":"dsh-harmony"}
 {"package":"dsh-harmonyos-hiboard"}
 {"package":"dsh-harness-chat-control"}
@@ -1793,6 +1844,7 @@
 {"package":"dsh-herald"}
 {"package":"dsh-herdr-site"}
 {"package":"dsh-hermes-memory"}
+{"package":"dsh-hermes-session"}
 {"package":"dsh-herta"}
 {"package":"dsh-herta-balance-card"}
 {"package":"dsh-hide-empty-workspace"}
@@ -1821,6 +1873,7 @@
 {"package":"dsh-icon-theme"}
 {"package":"dsh-ide-git"}
 {"package":"dsh-ide-vscode"}
+{"package":"dsh-ide-workbench"}
 {"package":"dsh-idle-compact"}
 {"package":"dsh-ikun-pet"}
 {"package":"dsh-im-channel"}
@@ -1847,6 +1900,7 @@
 {"package":"dsh-in-hand"}
 {"package":"dsh-incognito"}
 {"package":"dsh-industry-research"}
+{"package":"dsh-inimerse"}
 {"package":"dsh-init"}
 {"package":"dsh-ink-whale-leap"}
 {"package":"dsh-inkvault"}
@@ -1855,6 +1909,7 @@
 {"package":"dsh-inline-images"}
 {"package":"dsh-inpage-translator"}
 {"package":"dsh-input-assist"}
+{"package":"dsh-input-assistant"}
 {"package":"dsh-input-optimizer"}
 {"package":"dsh-input-prediction"}
 {"package":"dsh-input-rewriter"}
@@ -1865,6 +1920,7 @@
 {"package":"dsh-instance-manager"}
 {"package":"dsh-instruction-memory"}
 {"package":"dsh-interim-narration"}
+{"package":"dsh-interrupted-resume"}
 {"package":"dsh-interview"}
 {"package":"dsh-invoice-tools"}
 {"package":"dsh-issue2pr"}
@@ -1934,6 +1990,7 @@
 {"package":"dsh-lark-link"}
 {"package":"dsh-later"}
 {"package":"dsh-latex-guard"}
+{"package":"dsh-lattice"}
 {"package":"dsh-launch-buttons"}
 {"package":"dsh-laya"}
 {"package":"dsh-layered-memory"}
@@ -1942,6 +1999,7 @@
 {"package":"dsh-leak-guard"}
 {"package":"dsh-learn-wiki"}
 {"package":"dsh-learning-mode"}
+{"package":"dsh-ledger-kitty"}
 {"package":"dsh-ledger-memory"}
 {"package":"dsh-liangxiang"}
 {"package":"dsh-library"}
@@ -1951,6 +2009,7 @@
 {"package":"dsh-lifeline"}
 {"package":"dsh-light-tool"}
 {"package":"dsh-lighthouse"}
+{"package":"dsh-limit-break"}
 {"package":"dsh-linghun"}
 {"package":"dsh-linghun-memory"}
 {"package":"dsh-links"}
@@ -2100,6 +2159,7 @@
 {"package":"dsh-mindmap"}
 {"package":"dsh-mindseye"}
 {"package":"dsh-minecraft-ui"}
+{"package":"dsh-mineru"}
 {"package":"dsh-mini-remote"}
 {"package":"dsh-minimal-first-turn"}
 {"package":"dsh-minimal-ptc"}
@@ -2135,6 +2195,7 @@
 {"package":"dsh-model-http-proxy"}
 {"package":"dsh-model-info-fill"}
 {"package":"dsh-model-kit"}
+{"package":"dsh-model-lock"}
 {"package":"dsh-model-manager"}
 {"package":"dsh-model-memory"}
 {"package":"dsh-model-metadata"}
@@ -2161,6 +2222,7 @@
 {"package":"dsh-monitor"}
 {"package":"dsh-more-models-thinking-level"}
 {"package":"dsh-morning-paper"}
+{"package":"dsh-motor-ai"}
 {"package":"dsh-motor-ai-l0"}
 {"package":"dsh-movein"}
 {"package":"dsh-movein-permissions"}
@@ -2174,6 +2236,7 @@
 {"package":"dsh-multi-root-explorer"}
 {"package":"dsh-multiplatform-balance"}
 {"package":"dsh-multitask"}
+{"package":"dsh-muse-code"}
 {"package":"dsh-music-player"}
 {"package":"dsh-muv-engine"}
 {"package":"dsh-muv-table"}
@@ -2189,6 +2252,7 @@
 {"package":"dsh-my-skill-manager"}
 {"package":"dsh-myrules"}
 {"package":"dsh-mysql"}
+{"package":"dsh-n8n-plugin"}
 {"package":"dsh-native-browser"}
 {"package":"dsh-native-memory"}
 {"package":"dsh-nav-history"}
@@ -2203,6 +2267,7 @@
 {"package":"dsh-network-engineer"}
 {"package":"dsh-network-settings"}
 {"package":"dsh-neu-theme"}
+{"package":"dsh-newapi-provider"}
 {"package":"dsh-next-input"}
 {"package":"dsh-next-prompt"}
 {"package":"dsh-nexttavern"}
@@ -2344,6 +2409,7 @@
 {"package":"dsh-peak-block"}
 {"package":"dsh-peak-cost-mode"}
 {"package":"dsh-peak-indicator"}
+{"package":"dsh-peak-reminder"}
 {"package":"dsh-peak-runner"}
 {"package":"dsh-peak-status"}
 {"package":"dsh-peakrate"}
@@ -2429,6 +2495,7 @@
 {"package":"dsh-plugin-execution-graph"}
 {"package":"dsh-plugin-fc-emulator"}
 {"package":"dsh-plugin-feishu"}
+{"package":"dsh-plugin-feishu-im"}
 {"package":"dsh-plugin-finance-data"}
 {"package":"dsh-plugin-focus"}
 {"package":"dsh-plugin-folder-trust"}
@@ -2503,6 +2570,7 @@
 {"package":"dsh-plugin-repopanel"}
 {"package":"dsh-plugin-resolver"}
 {"package":"dsh-plugin-restart-prompt"}
+{"package":"dsh-plugin-rightbar-divider"}
 {"package":"dsh-plugin-rollout-scout"}
 {"package":"dsh-plugin-runcat-inventory"}
 {"package":"dsh-plugin-save-token"}
@@ -2542,6 +2610,7 @@
 {"package":"dsh-plugin-tokenmarket"}
 {"package":"dsh-plugin-tool-management"}
 {"package":"dsh-plugin-translation"}
+{"package":"dsh-plugin-ui-zoom"}
 {"package":"dsh-plugin-uisfx"}
 {"package":"dsh-plugin-update-checker"}
 {"package":"dsh-plugin-upgrade"}
@@ -2597,12 +2666,18 @@
 {"package":"dsh-preset-scaffold"}
 {"package":"dsh-preset-workshop"}
 {"package":"dsh-presets-hidden"}
+{"package":"dsh-pretty-cool"}
 {"package":"dsh-preview"}
+{"package":"dsh-preview-blender"}
+{"package":"dsh-preview-market"}
+{"package":"dsh-preview-media"}
+{"package":"dsh-preview-stl"}
 {"package":"dsh-pricing-badge"}
 {"package":"dsh-prime-memory"}
 {"package":"dsh-proactive"}
 {"package":"dsh-profile-multica"}
 {"package":"dsh-profile-stylist"}
+{"package":"dsh-progress-caption"}
 {"package":"dsh-progress-viz-plugin"}
 {"package":"dsh-project-based-learning"}
 {"package":"dsh-project-kanban"}
@@ -2611,6 +2686,7 @@
 {"package":"dsh-projectless-session"}
 {"package":"dsh-prometheus"}
 {"package":"dsh-prompt"}
+{"package":"dsh-prompt-assembler"}
 {"package":"dsh-prompt-chain"}
 {"package":"dsh-prompt-drift"}
 {"package":"dsh-prompt-easymanager"}
@@ -2721,6 +2797,7 @@
 {"package":"dsh-reference-session-collector"}
 {"package":"dsh-refresh"}
 {"package":"dsh-refresh-plugin"}
+{"package":"dsh-refresh-restart"}
 {"package":"dsh-region"}
 {"package":"dsh-remote"}
 {"package":"dsh-remote-agent"}
@@ -2766,9 +2843,11 @@
 {"package":"dsh-rewind-plugin"}
 {"package":"dsh-rice-on-a-stick"}
 {"package":"dsh-right-click-menu"}
+{"package":"dsh-ris-ide"}
 {"package":"dsh-risk-guard"}
 {"package":"dsh-riskproof"}
 {"package":"dsh-rivermind"}
+{"package":"dsh-roam"}
 {"package":"dsh-roam-planner"}
 {"package":"dsh-roleplay"}
 {"package":"dsh-rollback"}
@@ -2836,8 +2915,10 @@
 {"package":"dsh-select-translate"}
 {"package":"dsh-selection-quote"}
 {"package":"dsh-selection-translator"}
+{"package":"dsh-semble"}
 {"package":"dsh-sensenova-pool"}
 {"package":"dsh-sensenzi-conversation-search"}
+{"package":"dsh-sensitive-replace"}
 {"package":"dsh-sentry"}
 {"package":"dsh-sentry-plugin"}
 {"package":"dsh-serper-search"}
@@ -2852,9 +2933,11 @@
 {"package":"dsh-session-bridge"}
 {"package":"dsh-session-categories"}
 {"package":"dsh-session-clean-delete"}
+{"package":"dsh-session-color"}
 {"package":"dsh-session-colorful-unread-pin-jobs"}
 {"package":"dsh-session-conductor"}
 {"package":"dsh-session-continuity"}
+{"package":"dsh-session-copy"}
 {"package":"dsh-session-deck"}
 {"package":"dsh-session-diff"}
 {"package":"dsh-session-drag-move"}
@@ -2869,6 +2952,7 @@
 {"package":"dsh-session-icons"}
 {"package":"dsh-session-inherit"}
 {"package":"dsh-session-insights"}
+{"package":"dsh-session-keeper"}
 {"package":"dsh-session-keepwarm"}
 {"package":"dsh-session-leftover-purge"}
 {"package":"dsh-session-lens"}
@@ -2877,6 +2961,7 @@
 {"package":"dsh-session-menu"}
 {"package":"dsh-session-mgr"}
 {"package":"dsh-session-migrate"}
+{"package":"dsh-session-navigator"}
 {"package":"dsh-session-path"}
 {"package":"dsh-session-pin"}
 {"package":"dsh-session-plus"}
@@ -2905,10 +2990,13 @@
 {"package":"dsh-sessions-manager"}
 {"package":"dsh-set-model"}
 {"package":"dsh-settings-beautify"}
+{"package":"dsh-settings-drag"}
 {"package":"dsh-settings-hub"}
+{"package":"dsh-settings-nav-manager"}
 {"package":"dsh-settings-nav-order"}
 {"package":"dsh-settings-nav-organizer"}
 {"package":"dsh-sgme"}
+{"package":"dsh-shanqi-theme"}
 {"package":"dsh-share"}
 {"package":"dsh-share-room"}
 {"package":"dsh-shareone-plugin"}
@@ -2936,6 +3024,7 @@
 {"package":"dsh-simple-view"}
 {"package":"dsh-simple-wiki-memory"}
 {"package":"dsh-simplify"}
+{"package":"dsh-simplify-theme"}
 {"package":"dsh-simulated-life"}
 {"package":"dsh-site-log-check"}
 {"package":"dsh-siyuan-notes"}
@@ -3044,6 +3133,7 @@
 {"package":"dsh-suggest-ghost"}
 {"package":"dsh-super-code"}
 {"package":"dsh-survival-mode"}
+{"package":"dsh-suzu-memory"}
 {"package":"dsh-swarm-orchestrator"}
 {"package":"dsh-swarmdrop"}
 {"package":"dsh-switch"}
@@ -3068,6 +3158,8 @@
 {"package":"dsh-task-effort"}
 {"package":"dsh-task-feedback"}
 {"package":"dsh-task-graph"}
+{"package":"dsh-task-mascot"}
+{"package":"dsh-task-plugin-scout"}
 {"package":"dsh-task-progress"}
 {"package":"dsh-task-reliability"}
 {"package":"dsh-task-runner"}
@@ -3145,6 +3237,7 @@
 {"package":"dsh-todo-float-ball"}
 {"package":"dsh-todo-guard"}
 {"package":"dsh-todo-inbox"}
+{"package":"dsh-todo-ledger"}
 {"package":"dsh-todo-reminder"}
 {"package":"dsh-todos"}
 {"package":"dsh-token-bar"}
@@ -3207,6 +3300,7 @@
 {"package":"dsh-toolbox-web"}
 {"package":"dsh-toolfold"}
 {"package":"dsh-tools"}
+{"package":"dsh-toomuch-plugins"}
 {"package":"dsh-totp"}
 {"package":"dsh-tps"}
 {"package":"dsh-training-lens"}
@@ -3263,6 +3357,7 @@
 {"package":"dsh-undo-savepoint"}
 {"package":"dsh-unified-agent-memory"}
 {"package":"dsh-unified-market"}
+{"package":"dsh-union-search"}
 {"package":"dsh-union-workspace"}
 {"package":"dsh-unitverse"}
 {"package":"dsh-univer-office"}
@@ -3307,6 +3402,7 @@
 {"package":"dsh-vertical-layout"}
 {"package":"dsh-vibe-math"}
 {"package":"dsh-video-pipeline"}
+{"package":"dsh-video-skin"}
 {"package":"dsh-video-to-notes"}
 {"package":"dsh-video-understand"}
 {"package":"dsh-view-manager"}
@@ -3352,6 +3448,7 @@
 {"package":"dsh-wallpaper-skin"}
 {"package":"dsh-wallpaper_share"}
 {"package":"dsh-warden"}
+{"package":"dsh-warm-theme"}
 {"package":"dsh-watcher"}
 {"package":"dsh-weather-panel"}
 {"package":"dsh-weave"}
@@ -3391,6 +3488,7 @@
 {"package":"dsh-webask"}
 {"package":"dsh-webdav-sync"}
 {"package":"dsh-webgis"}
+{"package":"dsh-websift"}
 {"package":"dsh-webui-mobile"}
 {"package":"dsh-webui-studio"}
 {"package":"dsh-wechat"}
@@ -3432,7 +3530,9 @@
 {"package":"dsh-windows-mcp"}
 {"package":"dsh-windows-mcp-lite"}
 {"package":"dsh-winrm"}
+{"package":"dsh-wm-toolkit"}
 {"package":"dsh-word-vault"}
+{"package":"dsh-work-assistant"}
 {"package":"dsh-work-list"}
 {"package":"dsh-workbench"}
 {"package":"dsh-workbuddy-bridge"}
