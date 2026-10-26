@@ -168,6 +168,7 @@
 {"package":"@dnalec/dsh-auto-approve"}
 {"package":"@domitor-syh/dsh-rollback"}
 {"package":"@domitor-syh/dsh-ui-skin-switcher"}
+{"package":"@dongasai/dsh-editor"}
 {"package":"@dotdance/dsh-skill-scope"}
 {"package":"@dougen/dsh-cdp"}
 {"package":"@dougen/dsh-deepseek-usage"}
@@ -1051,6 +1052,7 @@
 {"package":"dsh-ai4scholar"}
 {"package":"dsh-aicc-zhunao"}
 {"package":"dsh-aigc-radar"}
+{"package":"dsh-aimy"}
 {"package":"dsh-air"}
 {"package":"dsh-airpod-control"}
 {"package":"dsh-akn-plugin"}
@@ -1080,6 +1082,7 @@
 {"package":"dsh-api-client"}
 {"package":"dsh-api-dashboard"}
 {"package":"dsh-api-ledger"}
+{"package":"dsh-api-relay-audit"}
 {"package":"dsh-api-thinking"}
 {"package":"dsh-apirevise"}
 {"package":"dsh-apis-plugin"}
@@ -1683,6 +1686,7 @@
 {"package":"dsh-f1-skin"}
 {"package":"dsh-fact-check"}
 {"package":"dsh-fail-logger"}
+{"package":"dsh-fairy-zzz"}
 {"package":"dsh-farm"}
 {"package":"dsh-fast"}
 {"package":"dsh-faster-compress"}
@@ -1820,6 +1824,7 @@
 {"package":"dsh-graph"}
 {"package":"dsh-graphlint"}
 {"package":"dsh-graphmemory"}
+{"package":"dsh-grill-first"}
 {"package":"dsh-grok-acp"}
 {"package":"dsh-grok-byapi"}
 {"package":"dsh-grok-kit"}
@@ -2118,6 +2123,7 @@
 {"package":"dsh-md-notes"}
 {"package":"dsh-md-render"}
 {"package":"dsh-md-studio"}
+{"package":"dsh-mech-workbench"}
 {"package":"dsh-media-card"}
 {"package":"dsh-media-lens"}
 {"package":"dsh-media-web-preview"}
@@ -2142,6 +2148,7 @@
 {"package":"dsh-memory-spaces"}
 {"package":"dsh-memory-triage"}
 {"package":"dsh-memory-vault"}
+{"package":"dsh-memvault"}
 {"package":"dsh-menu"}
 {"package":"dsh-mermaid"}
 {"package":"dsh-mermaid-comm"}
@@ -2450,6 +2457,7 @@
 {"package":"dsh-pinned-sessions"}
 {"package":"dsh-pins"}
 {"package":"dsh-pixel-skin"}
+{"package":"dsh-pixel-ui"}
 {"package":"dsh-pixmart"}
 {"package":"dsh-plan-and-execute"}
 {"package":"dsh-plan-checkup"}
@@ -2904,6 +2912,7 @@
 {"package":"dsh-scratchpad-plus"}
 {"package":"dsh-screenshot-capture"}
 {"package":"dsh-screenshot-feedback-hook-mcp"}
+{"package":"dsh-scroll-boost"}
 {"package":"dsh-scroll-piano"}
 {"package":"dsh-sdd-progress-xc"}
 {"package":"dsh-search-enhance"}
@@ -3023,6 +3032,7 @@
 {"package":"dsh-sidebar-panel-fold"}
 {"package":"dsh-sidebar-plus"}
 {"package":"dsh-sidebar-session-provider-icon"}
+{"package":"dsh-sidebar-status"}
 {"package":"dsh-sidecard-ask"}
 {"package":"dsh-sidenote"}
 {"package":"dsh-simple-restart"}
@@ -3424,6 +3434,7 @@
 {"package":"dsh-vision-subagent"}
 {"package":"dsh-vision-tools"}
 {"package":"dsh-vision-web"}
+{"package":"dsh-visual-interactive-engine"}
 {"package":"dsh-vitals"}
 {"package":"dsh-vocab-study"}
 {"package":"dsh-voice"}
@@ -3667,6 +3678,7 @@
 {"package":"dshmarket"}
 {"package":"dshmarket-update-helper"}
 {"package":"dshmarketplace-plugin"}
+{"package":"envoy-dsh"}
 {"package":"euthyna"}
 {"package":"evo-subagent"}
 {"package":"feiyu-memory"}
@@ -3773,6 +3785,7 @@
 {"package":"toto-the-cat"}
 {"package":"tripo-dsh"}
 {"package":"uagent-sync-dsh"}
+{"package":"universal-plugin-hub"}
 {"package":"upstream-radar"}
 {"package":"visual-review"}
 {"package":"voyager"}
