@@ -456,6 +456,7 @@
 {"package":"@lingfengmow/dsh-vault"}
 {"package":"@linxin666/dsh-client-ui-activity-heatmap"}
 {"package":"@linxin666/dsh-client-ui-git-graph"}
+{"package":"@linxin666/dsh-client-ui-plugin-manager"}
 {"package":"@linxin666/dsh-client-ui-skill-explorer"}
 {"package":"@linxin666/dsh-client-ui-task-board"}
 {"package":"@linxin666/dsh-pet"}
@@ -703,6 +704,7 @@
 {"package":"@timestatic/dsh-session-notebook"}
 {"package":"@tindalosko/dsh-cheatengine"}
 {"package":"@tiphareth/dsh-hardssh"}
+{"package":"@titanwings/distilly"}
 {"package":"@tma1-ai/dsh-plugin-greptimedb"}
 {"package":"@tnnevol/dsh-codex-auth"}
 {"package":"@tnnevol/dsh-failover-search"}
@@ -937,6 +939,7 @@
 {"package":"air-pixel-liquid-glass"}
 {"package":"attention-plugins"}
 {"package":"aura-vision"}
+{"package":"awesome-dsh-plugin"}
 {"package":"balance-dsh"}
 {"package":"beauticode-dsh"}
 {"package":"beav-creator-dsh"}
@@ -953,6 +956,7 @@
 {"package":"chicheng-push"}
 {"package":"chicheng-stats"}
 {"package":"chicheng-vault"}
+{"package":"claude-flow"}
 {"package":"claude-style-skin"}
 {"package":"claude2dsh"}
 {"package":"clearai-dsh"}
@@ -1919,6 +1923,7 @@
 {"package":"dsh-inspiration-deck-workshop"}
 {"package":"dsh-instance-manager"}
 {"package":"dsh-instruction-memory"}
+{"package":"dsh-integration-settings"}
 {"package":"dsh-interim-narration"}
 {"package":"dsh-interrupted-resume"}
 {"package":"dsh-interview"}
@@ -3743,6 +3748,7 @@
 {"package":"qmd-autosearch"}
 {"package":"qp-exa-dynamic"}
 {"package":"rainskills"}
+{"package":"rea-agents"}
 {"package":"reasoning-slider"}
 {"package":"recowork-dsh"}
 {"package":"request-frame-preview"}
@@ -3769,6 +3775,7 @@
 {"package":"uagent-sync-dsh"}
 {"package":"upstream-radar"}
 {"package":"visual-review"}
+{"package":"voyager"}
 {"package":"weread-export"}
 {"package":"weshop-dsh-plugin"}
 {"package":"whale-girl"}
