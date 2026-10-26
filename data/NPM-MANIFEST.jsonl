@@ -938,6 +938,7 @@
 {"package":"ai-look-up"}
 {"package":"ai-residue-cleaner"}
 {"package":"air-pixel-liquid-glass"}
+{"package":"answer-me-with-html"}
 {"package":"attention-plugins"}
 {"package":"aura-vision"}
 {"package":"awesome-dsh-plugin"}
@@ -1909,6 +1910,7 @@
 {"package":"dsh-in-hand"}
 {"package":"dsh-incognito"}
 {"package":"dsh-industry-research"}
+{"package":"dsh-infinite-gen-5"}
 {"package":"dsh-inimerse"}
 {"package":"dsh-init"}
 {"package":"dsh-ink-whale-leap"}
@@ -2067,6 +2069,7 @@
 {"package":"dsh-look"}
 {"package":"dsh-loop-continue"}
 {"package":"dsh-loop-engine"}
+{"package":"dsh-loopx-plugin"}
 {"package":"dsh-lorebooklike-prompt-tool"}
 {"package":"dsh-lorebookmd"}
 {"package":"dsh-lost-and-found"}
@@ -2385,6 +2388,7 @@
 {"package":"dsh-orchestrator2"}
 {"package":"dsh-origin-bridge"}
 {"package":"dsh-origin-plugin"}
+{"package":"dsh-ouroboros"}
 {"package":"dsh-outcomes"}
 {"package":"dsh-outer-brain"}
 {"package":"dsh-outerwilds-theme"}
@@ -3783,6 +3787,7 @@
 {"package":"tdsh-emoji"}
 {"package":"toolfolk-for-dsh"}
 {"package":"toto-the-cat"}
+{"package":"treg-dsh"}
 {"package":"tripo-dsh"}
 {"package":"uagent-sync-dsh"}
 {"package":"universal-plugin-hub"}
