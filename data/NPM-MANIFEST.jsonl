@@ -191,6 +191,7 @@
 {"package":"@dsh-electron/dsh-plugin-multi-root-workspace"}
 {"package":"@dsh-electron/dsh-theme-studio"}
 {"package":"@dsh-error-tell/client-tell"}
+{"package":"@dsh-external/dsh-blender-plugin"}
 {"package":"@dsh-external/dsh-session-turn-eta"}
 {"package":"@dsh-external/dsh-zero-residence"}
 {"package":"@dsh-fly/dsh-plugin-fly-skins"}
@@ -527,6 +528,7 @@
 {"package":"@memef1f1y/dsh-plugin-tavily"}
 {"package":"@memef1f1y/dsh-plugin-tts"}
 {"package":"@memorylake/dsh-plugin"}
+{"package":"@memtensor/memos-local-plugin"}
 {"package":"@mengyuly/dsh-ponytail"}
 {"package":"@mhxy13867806343/dsh-desktop-extra"}
 {"package":"@michengai/dsh-agency-agents"}
@@ -988,6 +990,8 @@
 {"package":"deepseek-harness-zh-cn"}
 {"package":"deepseek-harness-zh_pro"}
 {"package":"deepseek-harness-zhipu_plan_tools"}
+{"package":"deepseek-idesign"}
+{"package":"deepseek-ivideo"}
 {"package":"deepseek-web-import"}
 {"package":"dock-base"}
 {"package":"dock-editor"}
@@ -2568,6 +2572,7 @@
 {"package":"dsh-plugin-notify-sound"}
 {"package":"dsh-plugin-notify-sounds"}
 {"package":"dsh-plugin-office-markdown"}
+{"package":"dsh-plugin-oma"}
 {"package":"dsh-plugin-open-with"}
 {"package":"dsh-plugin-opencode-usage"}
 {"package":"dsh-plugin-ops-bundle"}
@@ -2694,6 +2699,7 @@
 {"package":"dsh-proactive"}
 {"package":"dsh-profile-multica"}
 {"package":"dsh-profile-stylist"}
+{"package":"dsh-profile-tavern"}
 {"package":"dsh-progress-caption"}
 {"package":"dsh-progress-viz-plugin"}
 {"package":"dsh-project-based-learning"}
@@ -3682,6 +3688,7 @@
 {"package":"dshmarket"}
 {"package":"dshmarket-update-helper"}
 {"package":"dshmarketplace-plugin"}
+{"package":"echobird"}
 {"package":"envoy-dsh"}
 {"package":"euthyna"}
 {"package":"evo-subagent"}
@@ -3793,6 +3800,7 @@
 {"package":"universal-plugin-hub"}
 {"package":"upstream-radar"}
 {"package":"visual-review"}
+{"package":"vox-director"}
 {"package":"voyager"}
 {"package":"weread-export"}
 {"package":"weshop-dsh-plugin"}

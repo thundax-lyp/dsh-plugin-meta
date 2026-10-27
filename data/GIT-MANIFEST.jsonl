@@ -16,7 +16,7 @@
 {"repository_id":988892963,"node_id":"R_kgDOOvFPIw","repository":"TencentCloudBase/CloudBase-AI-Toolkit","npm_packages":["@cloudbase/dsh-plugin"],"source_repositories":["tencentcloudbase/cloudbase-ai-toolkit"]}
 {"repository_id":995029641,"node_id":"R_kgDOO07yiQ","repository":"ruvnet/ruflo","npm_packages":["claude-flow"],"source_repositories":["ruvnet/ruflo"]}
 {"repository_id":1005356138,"node_id":"R_kgDOO-yEag","repository":"kuangre123/iosdev","npm_packages":[],"source_repositories":["kuangre123/iosdev"]}
-{"repository_id":1014729376,"node_id":"R_kgDOPHuKoA","repository":"MemTensor/MemOS","npm_packages":[],"source_repositories":["memtensor/memos"]}
+{"repository_id":1014729376,"node_id":"R_kgDOPHuKoA","repository":"MemTensor/MemOS","npm_packages":["@memtensor/memos-local-plugin"],"source_repositories":["memtensor/memos"]}
 {"repository_id":1024118326,"node_id":"R_kgDOPQrONg","repository":"Tencent/WeKnora","npm_packages":["@wxg-prc-cpg/dsh-weknora"],"source_repositories":["tencent/weknora"]}
 {"repository_id":1044010907,"node_id":"R_kgDOPjpXmw","repository":"Devin-AXIS/iPolloWork","npm_packages":[],"source_repositories":["devin-axis/ipollowork"]}
 {"repository_id":1064776002,"node_id":"R_kgDOP3cxQg","repository":"hellowind777/helloagents","npm_packages":[],"source_repositories":["hellowind777/helloagents"]}
@@ -38,7 +38,7 @@
 {"repository_id":1139329853,"node_id":"R_kgDOQ-jLPQ","repository":"superdesigndev/superdesign-skill","npm_packages":[],"source_repositories":["superdesigndev/superdesign-skill"]}
 {"repository_id":1139909532,"node_id":"R_kgDOQ_GjnA","repository":"iamaanahmad/everything-kiro","npm_packages":[],"source_repositories":["iamaanahmad/everything-kiro"]}
 {"repository_id":1142234916,"node_id":"R_kgDORBUfJA","repository":"ma-pony/deepspider","npm_packages":[],"source_repositories":["ma-pony/deepspider"]}
-{"repository_id":1145914675,"node_id":"R_kgDORE1FMw","repository":"first-fluke/oh-my-agent","npm_packages":[],"source_repositories":["first-fluke/oh-my-agent"]}
+{"repository_id":1145914675,"node_id":"R_kgDORE1FMw","repository":"first-fluke/oh-my-agent","npm_packages":["dsh-plugin-oma"],"source_repositories":["first-fluke/oh-my-agent"]}
 {"repository_id":1146519069,"node_id":"R_kgDORFZ-HQ","repository":"Leslie-SSS/seeWxapkg","npm_packages":[],"source_repositories":["leslie-sss/seewxapkg"]}
 {"repository_id":1147277275,"node_id":"R_kgDORGIP2w","repository":"yuukiLike/zeromd","npm_packages":[],"source_repositories":["yuukilike/zeromd"]}
 {"repository_id":1147866277,"node_id":"R_kgDORGsMpQ","repository":"GCWing/OpenBitFun","npm_packages":[],"source_repositories":["gcwing/openbitfun"]}
@@ -52,7 +52,7 @@
 {"repository_id":1156210476,"node_id":"R_kgDOROpfLA","repository":"wxkingstar/SpecFusion","npm_packages":[],"source_repositories":["wxkingstar/specfusion"]}
 {"repository_id":1156882085,"node_id":"R_kgDORPSepQ","repository":"vivekchand/clawmetry","npm_packages":[],"source_repositories":["vivekchand/clawmetry"]}
 {"repository_id":1157659618,"node_id":"R_kgDORQB74g","repository":"gitroomhq/postiz-agent","npm_packages":["dsh-postiz"],"source_repositories":["gitroomhq/postiz-agent"]}
-{"repository_id":1158472225,"node_id":"R_kgDORQziIQ","repository":"edison7009/EchoBird","npm_packages":[],"source_repositories":["edison7009/echobird"]}
+{"repository_id":1158472225,"node_id":"R_kgDORQziIQ","repository":"edison7009/EchoBird","npm_packages":["echobird"],"source_repositories":["edison7009/echobird"]}
 {"repository_id":1159938129,"node_id":"R_kgDORSNAUQ","repository":"ZSeven-W/openpencil","npm_packages":[],"source_repositories":["zseven-w/openpencil"]}
 {"repository_id":1160354976,"node_id":"R_kgDORSmcoA","repository":"chenxiachan/thoughtdag","npm_packages":["dsh-thoughtdag"],"source_repositories":["chenxiachan/thoughtdag"]}
 {"repository_id":1162230313,"node_id":"R_kgDORUY6KQ","repository":"mnemon-dev/mnemon","npm_packages":[],"source_repositories":["mnemon-dev/mnemon"]}
@@ -217,7 +217,7 @@
 {"repository_id":1294942686,"node_id":"R_kgDOTS9B3g","repository":"MiaoQichuan/new-litigation-visualization","npm_packages":[],"source_repositories":["miaoqichuan/new-litigation-visualization"]}
 {"repository_id":1295322882,"node_id":"R_kgDOTTUPAg","repository":"Unclecheng-li/DeepSec","npm_packages":[],"source_repositories":["unclecheng-li/deepsec"]}
 {"repository_id":1296059141,"node_id":"R_kgDOTUBLBQ","repository":"ifrankwang/openspec-agents","npm_packages":["@ifrankwang/openspec-agents"],"source_repositories":["ifrankwang/openspec-agents"]}
-{"repository_id":1296647613,"node_id":"R_kgDOTUlFvQ","repository":"Alisa0808/vox-director","npm_packages":[],"source_repositories":["alisa0808/vox-director"]}
+{"repository_id":1296647613,"node_id":"R_kgDOTUlFvQ","repository":"Alisa0808/vox-director","npm_packages":["vox-director"],"source_repositories":["alisa0808/vox-director"]}
 {"repository_id":1296792947,"node_id":"R_kgDOTUt9cw","repository":"AgentDebugX/AgentDebugX","npm_packages":["dsh-agentdebugx"],"source_repositories":["agentdebugx/agentdebugx"]}
 {"repository_id":1297278222,"node_id":"R_kgDOTVLlDg","repository":"sandbaseai/sandbase-harness","npm_packages":[],"source_repositories":["sandbaseai/sandbase-harness"]}
 {"repository_id":1297415093,"node_id":"R_kgDOTVT7tQ","repository":"zjsthmjialin/inspiration-deck-workshop","npm_packages":["dsh-inspiration-deck-workshop"],"source_repositories":["zjsthmjialin/inspiration-deck-workshop"]}
@@ -1630,7 +1630,7 @@
 {"repository_id":1335091727,"node_id":"R_kgDOT5PiDw","repository":"weisiren000/dsh-remote-ssh-ops","npm_packages":[],"source_repositories":["weisiren000/dsh-remote-ssh-ops"]}
 {"repository_id":1335094171,"node_id":"R_kgDOT5Prmw","repository":"jmcc-guo/dsh-ssh","npm_packages":[],"source_repositories":["jmcc-guo/dsh-ssh"]}
 {"repository_id":1335094351,"node_id":"R_kgDOT5PsTw","repository":"Fayelin12/dsh-office","npm_packages":["dsh-office"],"source_repositories":["fayelin12/dsh-office"]}
-{"repository_id":1335095892,"node_id":"R_kgDOT5PyVA","repository":"Devin-AXIS/deepseek-design","npm_packages":[],"source_repositories":["devin-axis/deepseek-design"]}
+{"repository_id":1335095892,"node_id":"R_kgDOT5PyVA","repository":"Devin-AXIS/deepseek-design","npm_packages":["deepseek-idesign","deepseek-ivideo"],"source_repositories":["devin-axis/deepseek-design"]}
 {"repository_id":1335097661,"node_id":"R_kgDOT5P5PQ","repository":"txy-ucas/dsh-workspace-snapshot","npm_packages":[],"source_repositories":["txy-ucas/dsh-workspace-snapshot"]}
 {"repository_id":1335098475,"node_id":"R_kgDOT5P8aw","repository":"1e0zj/dsh-plugin-mall","npm_packages":["@1e0zj/dsh-plugin-mall"],"source_repositories":["1e0zj/dsh-plugin-mall"]}
 {"repository_id":1335099081,"node_id":"R_kgDOT5P-yQ","repository":"garrisonz/dsh-sidebar-width","npm_packages":[],"source_repositories":["garrisonz/dsh-sidebar-width"]}
@@ -2075,7 +2075,7 @@
 {"repository_id":1335928912,"node_id":"R_kgDOT6CoUA","repository":"AndyYang12345/dsh-butler-memory","npm_packages":["dsh-butler-memory"],"source_repositories":["andyyang12345/dsh-butler-memory"]}
 {"repository_id":1335930276,"node_id":"R_kgDOT6CtpA","repository":"bx33661/dsh-omv","npm_packages":[],"source_repositories":["bx33661/dsh-omv"]}
 {"repository_id":1335938149,"node_id":"R_kgDOT6DMZQ","repository":"dhicoc/dsh-codex-web-search-mcp","npm_packages":["@dhicoc/dsh-codex-web-search-mcp"],"source_repositories":["dhicoc/dsh-codex-web-search-mcp"]}
-{"repository_id":1335944000,"node_id":"R_kgDOT6DjQA","repository":"flizzywine/dsh-tavern","npm_packages":[],"source_repositories":["flizzywine/dsh-tavern"]}
+{"repository_id":1335944000,"node_id":"R_kgDOT6DjQA","repository":"flizzywine/dsh-tavern","npm_packages":["dsh-profile-tavern"],"source_repositories":["flizzywine/dsh-tavern"]}
 {"repository_id":1335945062,"node_id":"R_kgDOT6DnZg","repository":"tokentopo-ai/dsh-octo","npm_packages":[],"source_repositories":["tokentopo-ai/dsh-octo"]}
 {"repository_id":1335949833,"node_id":"R_kgDOT6D6CQ","repository":"Chael-Chael/dsh-reference-anything","npm_packages":["dsh-reference-anything"],"source_repositories":["chael-chael/dsh-reference-anything"]}
 {"repository_id":1335950944,"node_id":"R_kgDOT6D-YA","repository":"Jannchie/dsh-artifact","npm_packages":[],"source_repositories":["jannchie/dsh-artifact"]}
@@ -4940,7 +4940,7 @@
 {"repository_id":1368528375,"node_id":"R_kgDOUZIV9w","repository":"kinderao/dsh-pocket-relay","npm_packages":["dsh-pocket-relay"],"source_repositories":["kinderao/dsh-pocket-relay"]}
 {"repository_id":1368561370,"node_id":"R_kgDOUZKW2g","repository":"webkubor/dsh-llm-hub","npm_packages":["@dsh-plugins/dsh-llm-hub"],"source_repositories":["webkubor/dsh-llm-hub"]}
 {"repository_id":1368562731,"node_id":"R_kgDOUZKcKw","repository":"Hugo16/dsh-session-rotate-on-compact","npm_packages":[],"source_repositories":["hugo16/dsh-session-rotate-on-compact"]}
-{"repository_id":1368569221,"node_id":"R_kgDOUZK1hQ","repository":"sixtysevenlf/dsh-blender-plugin","npm_packages":[],"source_repositories":["sixtysevenlf/dsh-blender-plugin"]}
+{"repository_id":1368569221,"node_id":"R_kgDOUZK1hQ","repository":"sixtysevenlf/dsh-blender-plugin","npm_packages":["@dsh-external/dsh-blender-plugin"],"source_repositories":["sixtysevenlf/dsh-blender-plugin"]}
 {"repository_id":1368581082,"node_id":"R_kgDOUZLj2g","repository":"778672151/dsh-session-turn-eta","npm_packages":["@dsh-external/dsh-session-turn-eta"],"source_repositories":["778672151/dsh-session-turn-eta"]}
 {"repository_id":1368589157,"node_id":"R_kgDOUZMDZQ","repository":"idoall/dsh-notify","npm_packages":["@idoall/dsh-notify"],"source_repositories":["idoall/dsh-notify"]}
 {"repository_id":1368593278,"node_id":"R_kgDOUZMTfg","repository":"tabilet/tabilet-skills","npm_packages":[],"source_repositories":["tabilet/tabilet-skills"]}
