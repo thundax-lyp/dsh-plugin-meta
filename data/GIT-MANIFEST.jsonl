@@ -1,6 +1,6 @@
 {"repository_id":113965016,"node_id":"MDEwOlJlcG9zaXRvcnkxMTM5NjUwMTY=","repository":"Molunerfinn/PicGo","npm_packages":[],"source_repositories":["molunerfinn/picgo"]}
 {"repository_id":124882400,"node_id":"MDEwOlJlcG9zaXRvcnkxMjQ4ODI0MDA=","repository":"platonai/Browser4","npm_packages":[],"source_repositories":["platonai/browser4"]}
-{"repository_id":149085734,"node_id":"MDEwOlJlcG9zaXRvcnkxNDkwODU3MzQ=","repository":"PicGo/PicGo-Core","npm_packages":[],"source_repositories":["picgo/picgo-core"]}
+{"repository_id":149085734,"node_id":"MDEwOlJlcG9zaXRvcnkxNDkwODU3MzQ=","repository":"PicGo/PicGo-Core","npm_packages":["picgo"],"source_repositories":["picgo/picgo-core"]}
 {"repository_id":249995750,"node_id":"MDEwOlJlcG9zaXRvcnkyNDk5OTU3NTA=","repository":"reactive-resume/reactive-resume","npm_packages":[],"source_repositories":["reactive-resume/reactive-resume"]}
 {"repository_id":275996835,"node_id":"MDEwOlJlcG9zaXRvcnkyNzU5OTY4MzU=","repository":"MYanhui/DSH-plug-in","npm_packages":[],"source_repositories":["myanhui/dsh-plug-in"]}
 {"repository_id":292529340,"node_id":"MDEwOlJlcG9zaXRvcnkyOTI1MjkzNDA=","repository":"xiaods/k8e","npm_packages":[],"source_repositories":["xiaods/k8e"]}
@@ -13,13 +13,13 @@
 {"repository_id":849121458,"node_id":"R_kgDOMpyQsg","repository":"agentscope-ai/ReMe","npm_packages":["@agentscope-ai/reme-dsh-plugin"],"source_repositories":["agentscope-ai/reme"]}
 {"repository_id":956330003,"node_id":"R_kgDOOQBwEw","repository":"SepineTam/mcp-for-stata","npm_packages":[],"source_repositories":["sepinetam/mcp-for-stata"]}
 {"repository_id":959005755,"node_id":"R_kgDOOSlEOw","repository":"tiwe0/GeoChat","npm_packages":[],"source_repositories":["tiwe0/geochat"]}
-{"repository_id":988892963,"node_id":"R_kgDOOvFPIw","repository":"TencentCloudBase/CloudBase-AI-Toolkit","npm_packages":["@cloudbase/dsh-plugin"],"source_repositories":["tencentcloudbase/cloudbase-ai-toolkit"]}
+{"repository_id":988892963,"node_id":"R_kgDOOvFPIw","repository":"TencentCloudBase/CloudBase-AI-Toolkit","npm_packages":["@cloudbase/dsh-plugin","cloudbase-ai-toolkit"],"source_repositories":["tencentcloudbase/cloudbase-ai-toolkit"]}
 {"repository_id":995029641,"node_id":"R_kgDOO07yiQ","repository":"ruvnet/ruflo","npm_packages":["claude-flow"],"source_repositories":["ruvnet/ruflo"]}
 {"repository_id":1005356138,"node_id":"R_kgDOO-yEag","repository":"kuangre123/iosdev","npm_packages":[],"source_repositories":["kuangre123/iosdev"]}
 {"repository_id":1014729376,"node_id":"R_kgDOPHuKoA","repository":"MemTensor/MemOS","npm_packages":["@memtensor/memos-local-plugin"],"source_repositories":["memtensor/memos"]}
 {"repository_id":1024118326,"node_id":"R_kgDOPQrONg","repository":"Tencent/WeKnora","npm_packages":["@wxg-prc-cpg/dsh-weknora"],"source_repositories":["tencent/weknora"]}
 {"repository_id":1044010907,"node_id":"R_kgDOPjpXmw","repository":"Devin-AXIS/iPolloWork","npm_packages":[],"source_repositories":["devin-axis/ipollowork"]}
-{"repository_id":1064776002,"node_id":"R_kgDOP3cxQg","repository":"hellowind777/helloagents","npm_packages":[],"source_repositories":["hellowind777/helloagents"]}
+{"repository_id":1064776002,"node_id":"R_kgDOP3cxQg","repository":"hellowind777/helloagents","npm_packages":["helloagents"],"source_repositories":["hellowind777/helloagents"]}
 {"repository_id":1069943001,"node_id":"R_kgDOP8YI2Q","repository":"voyager-crew/voyager","npm_packages":["voyager"],"source_repositories":["voyager-crew/voyager"]}
 {"repository_id":1074165057,"node_id":"R_kgDOQAZ1QQ","repository":"taptap/instant-games-open-mcp","npm_packages":["@taptap/dsh-maker"],"source_repositories":["taptap/instant-games-open-mcp"]}
 {"repository_id":1074296776,"node_id":"R_kgDOQAh3yA","repository":"houyanchao/chatgpt-gemini-timeline","npm_packages":[],"source_repositories":["houyanchao/chatgpt-gemini-timeline"]}
@@ -35,7 +35,7 @@
 {"repository_id":1133901637,"node_id":"R_kgDOQ5X3RQ","repository":"Q00/ouroboros","npm_packages":["dsh-ouroboros"],"source_repositories":["q00/ouroboros"]}
 {"repository_id":1137545389,"node_id":"R_kgDOQ82QrQ","repository":"isomoes/ikanban","npm_packages":[],"source_repositories":["isomoes/ikanban"]}
 {"repository_id":1139128402,"node_id":"R_kgDOQ-W4Ug","repository":"Vladimir-Human/humanizer-ru","npm_packages":[],"source_repositories":["vladimir-human/humanizer-ru"]}
-{"repository_id":1139329853,"node_id":"R_kgDOQ-jLPQ","repository":"superdesigndev/superdesign-skill","npm_packages":[],"source_repositories":["superdesigndev/superdesign-skill"]}
+{"repository_id":1139329853,"node_id":"R_kgDOQ-jLPQ","repository":"superdesigndev/superdesign-skill","npm_packages":["superdesign-dsh"],"source_repositories":["superdesigndev/superdesign-skill"]}
 {"repository_id":1139909532,"node_id":"R_kgDOQ_GjnA","repository":"iamaanahmad/everything-kiro","npm_packages":[],"source_repositories":["iamaanahmad/everything-kiro"]}
 {"repository_id":1142234916,"node_id":"R_kgDORBUfJA","repository":"ma-pony/deepspider","npm_packages":[],"source_repositories":["ma-pony/deepspider"]}
 {"repository_id":1145914675,"node_id":"R_kgDORE1FMw","repository":"first-fluke/oh-my-agent","npm_packages":["dsh-plugin-oma"],"source_repositories":["first-fluke/oh-my-agent"]}
@@ -126,7 +126,7 @@
 {"repository_id":1229168545,"node_id":"R_kgDOSUOfoQ","repository":"OpenPetsHQ/openpets","npm_packages":["@open-pets/dsh"],"source_repositories":["openpetshq/openpets"]}
 {"repository_id":1229298801,"node_id":"R_kgDOSUWccQ","repository":"alxshelepenok/grove","npm_packages":[],"source_repositories":["alxshelepenok/grove"]}
 {"repository_id":1230059993,"node_id":"R_kgDOSVE52Q","repository":"yuc16/PatentRadar","npm_packages":[],"source_repositories":["yuc16/patentradar"]}
-{"repository_id":1230068255,"node_id":"R_kgDOSVFaHw","repository":"paean-ai/deeptide","npm_packages":[],"source_repositories":["paean-ai/deeptide"]}
+{"repository_id":1230068255,"node_id":"R_kgDOSVFaHw","repository":"paean-ai/deeptide","npm_packages":["deeptide"],"source_repositories":["paean-ai/deeptide"]}
 {"repository_id":1230123793,"node_id":"R_kgDOSVIzEQ","repository":"WeirdSky924/agent-handoff-skill","npm_packages":[],"source_repositories":["weirdsky924/agent-handoff-skill"]}
 {"repository_id":1231135337,"node_id":"R_kgDOSWGiaQ","repository":"strukto-ai/mirage","npm_packages":["@struktoai/mirage-dsh"],"source_repositories":["strukto-ai/mirage"]}
 {"repository_id":1232030145,"node_id":"R_kgDOSW9JwQ","repository":"freestylefly/wesight","npm_packages":[],"source_repositories":["freestylefly/wesight"]}
@@ -2335,7 +2335,7 @@
 {"repository_id":1336849011,"node_id":"R_kgDOT66ycw","repository":"Totoro-qaq/dsh-plugin-bridge","npm_packages":["dsh-plugin-bridge"],"source_repositories":["totoro-qaq/dsh-plugin-bridge"]}
 {"repository_id":1336849561,"node_id":"R_kgDOT660mQ","repository":"MingoZhou/dsh-replay","npm_packages":["@mingozhou/dsh-replay"],"source_repositories":["mingozhou/dsh-replay"]}
 {"repository_id":1336850842,"node_id":"R_kgDOT665mg","repository":"T-Auto/dsh-ecosystem-spec","npm_packages":[],"source_repositories":["t-auto/dsh-ecosystem-spec"]}
-{"repository_id":1336856993,"node_id":"R_kgDOT67RoQ","repository":"SeaOf0/dsh-redteam-model","npm_packages":[],"source_repositories":["seaof0/dsh-redteam-model"]}
+{"repository_id":1336856993,"node_id":"R_kgDOT67RoQ","repository":"SeaOf0/dsh-redteam-model","npm_packages":["@dsh-external/dsh-redteam-model"],"source_repositories":["seaof0/dsh-redteam-model"]}
 {"repository_id":1336864904,"node_id":"R_kgDOT67wiA","repository":"Bob-Bo1/dsh-deepseek-balance","npm_packages":[],"source_repositories":["bob-bo1/dsh-deepseek-balance"]}
 {"repository_id":1336864972,"node_id":"R_kgDOT67wzA","repository":"islibaodong/dsh-login","npm_packages":["@islibaodong/dsh-login"],"source_repositories":["islibaodong/dsh-login"]}
 {"repository_id":1336867202,"node_id":"R_kgDOT675gg","repository":"changlianxiya-139/dsh-ambiguity-handling","npm_packages":[],"source_repositories":["changlianxiya-139/dsh-ambiguity-handling"]}

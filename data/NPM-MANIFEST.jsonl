@@ -192,6 +192,7 @@
 {"package":"@dsh-electron/dsh-theme-studio"}
 {"package":"@dsh-error-tell/client-tell"}
 {"package":"@dsh-external/dsh-blender-plugin"}
+{"package":"@dsh-external/dsh-redteam-model"}
 {"package":"@dsh-external/dsh-session-turn-eta"}
 {"package":"@dsh-external/dsh-zero-residence"}
 {"package":"@dsh-fly/dsh-plugin-fly-skins"}
@@ -965,6 +966,7 @@
 {"package":"claude2dsh"}
 {"package":"clearai-dsh"}
 {"package":"client-resume-button"}
+{"package":"cloudbase-ai-toolkit"}
 {"package":"cn-intel-mcp-dsh"}
 {"package":"cn-linebreak"}
 {"package":"codex2dsh"}
@@ -993,6 +995,7 @@
 {"package":"deepseek-idesign"}
 {"package":"deepseek-ivideo"}
 {"package":"deepseek-web-import"}
+{"package":"deeptide"}
 {"package":"dock-base"}
 {"package":"dock-editor"}
 {"package":"dock-files"}
@@ -3707,6 +3710,7 @@
 {"package":"harness-github"}
 {"package":"harness-memory"}
 {"package":"harness-relay-mcp"}
+{"package":"helloagents"}
 {"package":"hermes-dsh-bridge"}
 {"package":"hover-glossary"}
 {"package":"huaweicloud-devkit"}
@@ -3758,6 +3762,7 @@
 {"package":"pet-whale"}
 {"package":"phone-lens"}
 {"package":"pi2dsh"}
+{"package":"picgo"}
 {"package":"picturereader"}
 {"package":"plugin-effort-slider"}
 {"package":"pmp-dsh-tavern"}
@@ -3788,6 +3793,7 @@
 {"package":"spec-wave"}
 {"package":"specworkflow"}
 {"package":"stratagate-dsh"}
+{"package":"superdesign-dsh"}
 {"package":"superpowers-dsh"}
 {"package":"task-complete-notify-for-dsh"}
 {"package":"task-passport"}
