@@ -55,7 +55,7 @@
 {"repository_id":1158472225,"node_id":"R_kgDORQziIQ","repository":"edison7009/EchoBird","npm_packages":["echobird"],"source_repositories":["edison7009/echobird"]}
 {"repository_id":1159938129,"node_id":"R_kgDORSNAUQ","repository":"ZSeven-W/openpencil","npm_packages":[],"source_repositories":["zseven-w/openpencil"]}
 {"repository_id":1160354976,"node_id":"R_kgDORSmcoA","repository":"chenxiachan/thoughtdag","npm_packages":["dsh-thoughtdag"],"source_repositories":["chenxiachan/thoughtdag"]}
-{"repository_id":1162230313,"node_id":"R_kgDORUY6KQ","repository":"mnemon-dev/mnemon","npm_packages":[],"source_repositories":["mnemon-dev/mnemon"]}
+{"repository_id":1162230313,"node_id":"R_kgDORUY6KQ","repository":"mnemon-dev/mnemon","npm_packages":["@mnemon-dev/dsh-mnemon"],"source_repositories":["mnemon-dev/mnemon"]}
 {"repository_id":1163808211,"node_id":"R_kgDORV5N0w","repository":"liustack/modlens","npm_packages":["@liustack/modlens"],"source_repositories":["liustack/modlens"]}
 {"repository_id":1163808542,"node_id":"R_kgDORV5PHg","repository":"liustack/modsearch","npm_packages":["@liustack/modsearch"],"source_repositories":["liustack/modsearch"]}
 {"repository_id":1164005541,"node_id":"R_kgDORWFQpQ","repository":"foryourhealth111-pixel/Vibe-Skills","npm_packages":[],"source_repositories":["foryourhealth111-pixel/vibe-skills"]}
@@ -69,7 +69,7 @@
 {"repository_id":1175716983,"node_id":"R_kgDORhQEdw","repository":"AtlasCloudAI/atlas-cloud-skills","npm_packages":[],"source_repositories":["atlascloudai/atlas-cloud-skills"]}
 {"repository_id":1175756746,"node_id":"R_kgDORhSfyg","repository":"mem9-ai/mem9","npm_packages":[],"source_repositories":["mem9-ai/mem9"]}
 {"repository_id":1177055450,"node_id":"R_kgDORihw2g","repository":"PM-Shawn/Abu-Cowork","npm_packages":[],"source_repositories":["pm-shawn/abu-cowork"]}
-{"repository_id":1178312395,"node_id":"R_kgDORjueyw","repository":"adoresever/graph-memory","npm_packages":[],"source_repositories":["adoresever/graph-memory"]}
+{"repository_id":1178312395,"node_id":"R_kgDORjueyw","repository":"adoresever/graph-memory","npm_packages":["graph-memory"],"source_repositories":["adoresever/graph-memory"]}
 {"repository_id":1178833585,"node_id":"R_kgDORkOSsQ","repository":"iflytek/skillhub","npm_packages":["@astron-team/skillhub-dsh"],"source_repositories":["iflytek/skillhub"]}
 {"repository_id":1179817049,"node_id":"R_kgDORlKUWQ","repository":"MarioZZJ/cc-notify-hooks","npm_packages":[],"source_repositories":["mariozzj/cc-notify-hooks"]}
 {"repository_id":1179983747,"node_id":"R_kgDORlUfgw","repository":"linhay/harmony-next.skills","npm_packages":[],"source_repositories":["linhay/harmony-next.skills"]}
@@ -242,7 +242,7 @@
 {"repository_id":1308599537,"node_id":"R_kgDOTf-k8Q","repository":"LiarMTTT/TavernWeave","npm_packages":[],"source_repositories":["liarmttt/tavernweave"]}
 {"repository_id":1309135706,"node_id":"R_kgDOTgfTWg","repository":"ZJU-REAL/Polaris","npm_packages":[],"source_repositories":["zju-real/polaris"]}
 {"repository_id":1309745037,"node_id":"R_kgDOThEfjQ","repository":"morluto/jacobian","npm_packages":[],"source_repositories":["morluto/jacobian"]}
-{"repository_id":1309769324,"node_id":"R_kgDOThF-bA","repository":"ccch1mneyyy/working-activity","npm_packages":[],"source_repositories":["ccch1mneyyy/working-activity"]}
+{"repository_id":1309769324,"node_id":"R_kgDOThF-bA","repository":"ccch1mneyyy/working-activity","npm_packages":["pi-working-activity"],"source_repositories":["ccch1mneyyy/working-activity"]}
 {"repository_id":1309815702,"node_id":"R_kgDOThIzlg","repository":"fxylabs/superself","npm_packages":["dsh-plugin-superself"],"source_repositories":["fxylabs/superself"]}
 {"repository_id":1310112680,"node_id":"R_kgDOTha7qA","repository":"bauerelizabeth07139/plan-guardian-skill","npm_packages":[],"source_repositories":["bauerelizabeth07139/plan-guardian-skill"]}
 {"repository_id":1311057273,"node_id":"R_kgDOTiUleQ","repository":"FuRongJun-1999/CommonTrustProtocol","npm_packages":[],"source_repositories":["furongjun-1999/commontrustprotocol"]}
@@ -441,7 +441,7 @@
 {"repository_id":1333068254,"node_id":"R_kgDOT3UB3g","repository":"omdsh-dev/dsh-notification","npm_packages":[],"source_repositories":["omdsh-dev/dsh-notification"]}
 {"repository_id":1333068322,"node_id":"R_kgDOT3UCIg","repository":"omdsh-dev/dsh-open-in-vscode","npm_packages":[],"source_repositories":["omdsh-dev/dsh-open-in-vscode"]}
 {"repository_id":1333068379,"node_id":"R_kgDOT3UCWw","repository":"omdsh-dev/dsh-custom-tool","npm_packages":[],"source_repositories":["omdsh-dev/dsh-custom-tool"]}
-{"repository_id":1333068434,"node_id":"R_kgDOT3UCkg","repository":"FSMargoo/dsh-at-file","npm_packages":[],"source_repositories":["fsmargoo/dsh-at-file"]}
+{"repository_id":1333068434,"node_id":"R_kgDOT3UCkg","repository":"FSMargoo/dsh-at-file","npm_packages":["dsh-at-file"],"source_repositories":["fsmargoo/dsh-at-file"]}
 {"repository_id":1333082908,"node_id":"R_kgDOT3U7HA","repository":"hikariming/dshfind","npm_packages":[],"source_repositories":["hikariming/dshfind"]}
 {"repository_id":1333084899,"node_id":"R_kgDOT3VC4w","repository":"Chinesezjc/dsh-interconnect","npm_packages":[],"source_repositories":["chinesezjc/dsh-interconnect"]}
 {"repository_id":1333100071,"node_id":"R_kgDOT3V-Jw","repository":"Anionex/dsh-vision-toolkit","npm_packages":["@anionex/dsh-vision-toolkit"],"source_repositories":["anionex/dsh-vision-toolkit"]}
@@ -2180,7 +2180,7 @@
 {"repository_id":1336221213,"node_id":"R_kgDOT6UeHQ","repository":"PerryLink/dsh-draw","npm_packages":["dsh-draw"],"source_repositories":["perrylink/dsh-draw"]}
 {"repository_id":1336223158,"node_id":"R_kgDOT6Ultg","repository":"863683348/dsh-plugin-audit","npm_packages":["dsh-audit"],"source_repositories":["863683348/dsh-plugin-audit"]}
 {"repository_id":1336226574,"node_id":"R_kgDOT6UzDg","repository":"Mooling0602/dsh-web-file-uploader","npm_packages":[],"source_repositories":["mooling0602/dsh-web-file-uploader"]}
-{"repository_id":1336228384,"node_id":"R_kgDOT6U6IA","repository":"liangmianya/dsh-synapse","npm_packages":[],"source_repositories":["liangmianya/dsh-synapse"]}
+{"repository_id":1336228384,"node_id":"R_kgDOT6U6IA","repository":"liangmianya/dsh-synapse","npm_packages":["dsh-synapse"],"source_repositories":["liangmianya/dsh-synapse"]}
 {"repository_id":1336229928,"node_id":"R_kgDOT6VAKA","repository":"PerryLink/dsh-talk","npm_packages":["dsh-talk"],"source_repositories":["perrylink/dsh-talk"]}
 {"repository_id":1336231065,"node_id":"R_kgDOT6VEmQ","repository":"Semidia/dsh-settings-tuner","npm_packages":[],"source_repositories":["semidia/dsh-settings-tuner"]}
 {"repository_id":1336239744,"node_id":"R_kgDOT6VmgA","repository":"enchangcui340-cloud/dsh-whale-balance","npm_packages":[],"source_repositories":["enchangcui340-cloud/dsh-whale-balance"]}

@@ -572,6 +572,7 @@
 {"package":"@mimateinn/dsh-i18n"}
 {"package":"@mingozhou/dsh-replay"}
 {"package":"@mixian/dsh-desktop-plugin"}
+{"package":"@mnemon-dev/dsh-mnemon"}
 {"package":"@modusensus/dsh-mneme"}
 {"package":"@moguiyu/dsh-tavily"}
 {"package":"@mokuyoaxis/agent-guard"}
@@ -1174,6 +1175,7 @@
 {"package":"dsh-assembly.resume"}
 {"package":"dsh-astock-research"}
 {"package":"dsh-astrbot-ingress"}
+{"package":"dsh-at-file"}
 {"package":"dsh-at-file-everything"}
 {"package":"dsh-at-sider"}
 {"package":"dsh-at-skill"}
@@ -3311,6 +3313,7 @@
 {"package":"dsh-swarmdrop"}
 {"package":"dsh-switch"}
 {"package":"dsh-switchman"}
+{"package":"dsh-synapse"}
 {"package":"dsh-sync"}
 {"package":"dsh-system-monitor-plugin"}
 {"package":"dsh-system1"}
@@ -3880,6 +3883,7 @@
 {"package":"github-explore"}
 {"package":"gongwen-skill"}
 {"package":"gord-dsh-worktree"}
+{"package":"graph-memory"}
 {"package":"gzhflow"}
 {"package":"harmonyos-dev-mcp-for-dsh"}
 {"package":"harness-github"}
@@ -3938,6 +3942,7 @@
 {"package":"owndsh-plugin"}
 {"package":"pet-whale"}
 {"package":"phone-lens"}
+{"package":"pi-working-activity"}
 {"package":"pi2dsh"}
 {"package":"picgo"}
 {"package":"picturereader"}
