@@ -144,7 +144,7 @@
 {"repository_id":1240554500,"node_id":"R_kgDOSfFcBA","repository":"KCNyu/clawock","npm_packages":[],"source_repositories":["kcnyu/clawock"]}
 {"repository_id":1244140731,"node_id":"R_kgDOSigUuw","repository":"sensedeal/cue-skills","npm_packages":[],"source_repositories":["sensedeal/cue-skills"]}
 {"repository_id":1245329241,"node_id":"R_kgDOSjo3WQ","repository":"xyTom/coding-tools-mcp","npm_packages":[],"source_repositories":["xytom/coding-tools-mcp"]}
-{"repository_id":1248774202,"node_id":"R_kgDOSm7IOg","repository":"text2future/flowix","npm_packages":[],"source_repositories":["text2future/flowix"]}
+{"repository_id":1248774202,"node_id":"R_kgDOSm7IOg","repository":"text2future/flowix","npm_packages":["dsh-flowix-memory"],"source_repositories":["text2future/flowix"]}
 {"repository_id":1249040497,"node_id":"R_kgDOSnLYcQ","repository":"fwerkor/local-shell-mcp","npm_packages":[],"source_repositories":["fwerkor/local-shell-mcp"]}
 {"repository_id":1249325080,"node_id":"R_kgDOSncwGA","repository":"AX1202/ax-feishu-bridge","npm_packages":[],"source_repositories":["ax1202/ax-feishu-bridge"]}
 {"repository_id":1249788655,"node_id":"R_kgDOSn5C7w","repository":"sanqiPanax/jieyaTool","npm_packages":[],"source_repositories":["sanqipanax/jieyatool"]}
@@ -276,7 +276,7 @@
 {"repository_id":1320245804,"node_id":"R_kgDOTrFaLA","repository":"windyslime/DeepSee","npm_packages":[],"source_repositories":["windyslime/deepsee"]}
 {"repository_id":1320255652,"node_id":"R_kgDOTrGApA","repository":"jcaiagent7143-ui/sendpage-mcp","npm_packages":[],"source_repositories":["jcaiagent7143-ui/sendpage-mcp"]}
 {"repository_id":1321152436,"node_id":"R_kgDOTr8vtA","repository":"pulseaiclub/phi","npm_packages":[],"source_repositories":["pulseaiclub/phi"]}
-{"repository_id":1321280738,"node_id":"R_kgDOTsEk4g","repository":"Awesome-AI-Pedia/Awesome-AI-Pedia","npm_packages":[],"source_repositories":["awesome-ai-pedia/awesome-ai-pedia"]}
+{"repository_id":1321280738,"node_id":"R_kgDOTsEk4g","repository":"Awesome-AI-Pedia/Awesome-AI-Pedia","npm_packages":["awesome-ai-pedia"],"source_repositories":["awesome-ai-pedia/awesome-ai-pedia"]}
 {"repository_id":1321408361,"node_id":"R_kgDOTsMXaQ","repository":"zenx0x/allinluna","npm_packages":[],"source_repositories":["zenx0x/allinluna"]}
 {"repository_id":1321492978,"node_id":"R_kgDOTsRh8g","repository":"IcyCreamDAS/shidi-skill","npm_packages":["shidi-dsh-plugin"],"source_repositories":["icycreamdas/shidi-skill"]}
 {"repository_id":1321859557,"node_id":"R_kgDOTsn55Q","repository":"bauerelizabeth07139/mcp-simple-image","npm_packages":[],"source_repositories":["bauerelizabeth07139/mcp-simple-image"]}
@@ -766,7 +766,7 @@
 {"repository_id":1333751043,"node_id":"R_kgDOT39tAw","repository":"Ox0400/dsh-vault","npm_packages":["dsh-vault"],"source_repositories":["ox0400/dsh-vault"]}
 {"repository_id":1333753289,"node_id":"R_kgDOT391yQ","repository":"xlennart/dsh-side-chat","npm_packages":[],"source_repositories":["xlennart/dsh-side-chat"]}
 {"repository_id":1333754646,"node_id":"R_kgDOT397Fg","repository":"PerryLink/dsh-doublecheck","npm_packages":["dsh-doublecheck"],"source_repositories":["perrylink/dsh-doublecheck"]}
-{"repository_id":1333755311,"node_id":"R_kgDOT399rw","repository":"QCYTSN/dsh-dafeiyu","npm_packages":[],"source_repositories":["qcytsn/dsh-dafeiyu"]}
+{"repository_id":1333755311,"node_id":"R_kgDOT399rw","repository":"QCYTSN/dsh-dafeiyu","npm_packages":["dsh-dafeiyu"],"source_repositories":["qcytsn/dsh-dafeiyu"]}
 {"repository_id":1333755444,"node_id":"R_kgDOT39-NA","repository":"oil-oil/dsh-vision","npm_packages":[],"source_repositories":["oil-oil/dsh-vision"]}
 {"repository_id":1333755538,"node_id":"R_kgDOT39-kg","repository":"MysaDC/dsh-plugin-description","npm_packages":[],"source_repositories":["mysadc/dsh-plugin-description"]}
 {"repository_id":1333756482,"node_id":"R_kgDOT3-CQg","repository":"wanderer-yk/dsh-xueqiu","npm_packages":["dsh-xueqiu"],"source_repositories":["wanderer-yk/dsh-xueqiu"]}
@@ -6301,7 +6301,7 @@
 {"repository_id":1409666578,"node_id":"R_kgDOVAXOEg","repository":"dsh-remote/plugin","npm_packages":["@dsh-remote/plugin"],"source_repositories":["dsh-remote/plugin"]}
 {"repository_id":1409695168,"node_id":"R_kgDOVAY9wA","repository":"Gaudi-XIX/dsh-pocket-glide","npm_packages":[],"source_repositories":["gaudi-xix/dsh-pocket-glide"]}
 {"repository_id":1409696359,"node_id":"R_kgDOVAZCZw","repository":"StarterMonk/dsh-adhd-session-mode","npm_packages":[],"source_repositories":["startermonk/dsh-adhd-session-mode"]}
-{"repository_id":1409724830,"node_id":"R_kgDOVAaxng","repository":"12we21/cute-fat-fish-pet","npm_packages":[],"source_repositories":["12we21/cute-fat-fish-pet"]}
+{"repository_id":1409724830,"node_id":"R_kgDOVAaxng","repository":"12we21/cute-fat-fish-pet","npm_packages":["cute-fat-fish-pet"],"source_repositories":["12we21/cute-fat-fish-pet"]}
 {"repository_id":1409730650,"node_id":"R_kgDOVAbIWg","repository":"wjvalue/dsh-answer-me-with-html","npm_packages":["dsh-answer-me-with-html"],"source_repositories":["wjvalue/dsh-answer-me-with-html"]}
 {"repository_id":1409750113,"node_id":"R_kgDOVAcUYQ","repository":"zongyanbai/dsh-context-continuum","npm_packages":[],"source_repositories":["zongyanbai/dsh-context-continuum"]}
 {"repository_id":1409763050,"node_id":"R_kgDOVAdG6g","repository":"PerryLink/dsh-phocinae","npm_packages":[],"source_repositories":["perrylink/dsh-phocinae"]}
@@ -6867,7 +6867,7 @@
 {"repository_id":1421814613,"node_id":"R_kgDOVL8rVQ","repository":"zhongyichang1998/dsh-open-meadow","npm_packages":[],"source_repositories":["zhongyichang1998/dsh-open-meadow"]}
 {"repository_id":1421817292,"node_id":"R_kgDOVL81zA","repository":"NingYuanLee/dsh-grok-byapi","npm_packages":["dsh-grok-byapi"],"source_repositories":["ningyuanlee/dsh-grok-byapi"]}
 {"repository_id":1421821290,"node_id":"R_kgDOVL9Fag","repository":"nightosong/gord-dsh-saber-theme","npm_packages":[],"source_repositories":["nightosong/gord-dsh-saber-theme"]}
-{"repository_id":1421822085,"node_id":"R_kgDOVL9IhQ","repository":"kingcharleslzy-ai/dsh-purge","npm_packages":[],"source_repositories":["kingcharleslzy-ai/dsh-purge"]}
+{"repository_id":1421822085,"node_id":"R_kgDOVL9IhQ","repository":"kingcharleslzy-ai/dsh-purge","npm_packages":["dsh-purge-community"],"source_repositories":["kingcharleslzy-ai/dsh-purge"]}
 {"repository_id":1421822595,"node_id":"R_kgDOVL9Kgw","repository":"zzbkl/dsh-cold-boot","npm_packages":[],"source_repositories":["zzbkl/dsh-cold-boot"]}
 {"repository_id":1421856880,"node_id":"R_kgDOVL_QcA","repository":"cyrusgogogo/dsh-git","npm_packages":[],"source_repositories":["cyrusgogogo/dsh-git"]}
 {"repository_id":1421873022,"node_id":"R_kgDOVMAPfg","repository":"zuiyouli/dsh-workflow-ui","npm_packages":[],"source_repositories":["zuiyouli/dsh-workflow-ui"]}
@@ -7016,7 +7016,7 @@
 {"repository_id":1423534006,"node_id":"R_kgDOVNlntg","repository":"Wanderingss/dsh-ws-deflate","npm_packages":["dsh-ws-deflate"],"source_repositories":["wanderingss/dsh-ws-deflate"]}
 {"repository_id":1423550179,"node_id":"R_kgDOVNmm4w","repository":"Anlerway/dsh-session-navigator","npm_packages":["dsh-session-navigator"],"source_repositories":["anlerway/dsh-session-navigator"]}
 {"repository_id":1423550706,"node_id":"R_kgDOVNmo8g","repository":"zenghang25/dsh-session-delete","npm_packages":[],"source_repositories":["zenghang25/dsh-session-delete"]}
-{"repository_id":1423566397,"node_id":"R_kgDOVNnmPQ","repository":"Alterssss/dsh-bili-whale","npm_packages":[],"source_repositories":["alterssss/dsh-bili-whale"]}
+{"repository_id":1423566397,"node_id":"R_kgDOVNnmPQ","repository":"Alterssss/dsh-bili-whale","npm_packages":["dsh-bili-whale"],"source_repositories":["alterssss/dsh-bili-whale"]}
 {"repository_id":1423573106,"node_id":"R_kgDOVNoAcg","repository":"Aliboder/dsh-expert-hub","npm_packages":["dsh-expert-hub"],"source_repositories":["aliboder/dsh-expert-hub"]}
 {"repository_id":1423574101,"node_id":"R_kgDOVNoEVQ","repository":"sakikoTGW/dsh-plugin-resolver","npm_packages":["dsh-plugin-resolver"],"source_repositories":["sakikotgw/dsh-plugin-resolver"]}
 {"repository_id":1423579712,"node_id":"R_kgDOVNoaQA","repository":"xiean676/dsh-freemodels-opencode","npm_packages":[],"source_repositories":["xiean676/dsh-freemodels-opencode"]}

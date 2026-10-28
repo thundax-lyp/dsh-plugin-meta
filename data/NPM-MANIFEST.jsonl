@@ -978,6 +978,7 @@
 {"package":"answer-me-with-html"}
 {"package":"attention-plugins"}
 {"package":"aura-vision"}
+{"package":"awesome-ai-pedia"}
 {"package":"awesome-dsh-plugin"}
 {"package":"babeldoc-on-dsh"}
 {"package":"balance-dsh"}
@@ -1011,6 +1012,7 @@
 {"package":"context-vista"}
 {"package":"cot-lint"}
 {"package":"cua-computer-use"}
+{"package":"cute-fat-fish-pet"}
 {"package":"dafy-whale-theme"}
 {"package":"dao-zang-skill"}
 {"package":"deep-read-summarize"}
@@ -1259,6 +1261,7 @@
 {"package":"dsh-bili-pond"}
 {"package":"dsh-bili-scroll"}
 {"package":"dsh-bili-watch"}
+{"package":"dsh-bili-whale"}
 {"package":"dsh-bilibili-video-summary"}
 {"package":"dsh-bill"}
 {"package":"dsh-billing-badge"}
@@ -1595,6 +1598,7 @@
 {"package":"dsh-cutout-pet"}
 {"package":"dsh-cyrene-theme"}
 {"package":"dsh-d1"}
+{"package":"dsh-dafeiyu"}
 {"package":"dsh-damage-pulse"}
 {"package":"dsh-dania-voice"}
 {"package":"dsh-daoyi-yijing"}
@@ -1818,6 +1822,7 @@
 {"package":"dsh-flomo"}
 {"package":"dsh-flomo-report"}
 {"package":"dsh-flowglass"}
+{"package":"dsh-flowix-memory"}
 {"package":"dsh-flymemory"}
 {"package":"dsh-flyout-sidebar"}
 {"package":"dsh-fmea-table-check"}
@@ -2868,6 +2873,7 @@
 {"package":"dsh-pulse"}
 {"package":"dsh-pulse-rail"}
 {"package":"dsh-punky-swarm"}
+{"package":"dsh-purge-community"}
 {"package":"dsh-pve-vm"}
 {"package":"dsh-pwa-icon"}
 {"package":"dsh-pwsh-rtk-rewrite"}
