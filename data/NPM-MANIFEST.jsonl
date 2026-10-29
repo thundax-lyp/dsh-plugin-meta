@@ -162,6 +162,7 @@
 {"package":"@daweifu/capability-menu"}
 {"package":"@decodo/dsh-web-fetch"}
 {"package":"@deepblend/dsh-blender-bundle"}
+{"package":"@deepseek-ai/dsh-client-ui-aqua"}
 {"package":"@deepseek-harness-tui/dsh-tui"}
 {"package":"@deeptrial/dsh-bash-rtk"}
 {"package":"@dely0/dsh-personal-workbench"}
@@ -761,6 +762,7 @@
 {"package":"@taptap/dsh-maker"}
 {"package":"@tecfancy/dsh-mobile"}
 {"package":"@telosmaylx/dsh-session-notify"}
+{"package":"@tencent-connect/dsh-qqbot"}
 {"package":"@thestreamcode/dsh-muse-code"}
 {"package":"@tianbuyu-wwx/dsh-formatforge"}
 {"package":"@tianbuyu-wwx/dsh-hermes-link"}
@@ -977,6 +979,7 @@
 {"package":"@zilliz/dsh-milvus"}
 {"package":"@zilliz/memsearch-dsh"}
 {"package":"@zljr/dsh-share"}
+{"package":"@zlzliqing/claude-paper"}
 {"package":"@zmainer/dsh-wx-bridge"}
 {"package":"@zoria-lind/dsh-behavior-enhancer"}
 {"package":"@zoria-lind/dsh-ecolink-adapter"}
@@ -995,6 +998,7 @@
 {"package":"@zzerx/dsh-plugin-memory"}
 {"package":"@zzerx/dsh-plugin-notes"}
 {"package":"@zzerx/dsh-plugin-usage-billing"}
+{"package":"abu"}
 {"package":"adhdgofly-dsh-ext"}
 {"package":"agent-clinic"}
 {"package":"agent-development-constraints"}
@@ -1780,6 +1784,7 @@
 {"package":"dsh-editor-link"}
 {"package":"dsh-educoder"}
 {"package":"dsh-effort-dial"}
+{"package":"dsh-ego-browser"}
 {"package":"dsh-egress-gate"}
 {"package":"dsh-electro-lab"}
 {"package":"dsh-eli-mode"}
@@ -2378,6 +2383,7 @@
 {"package":"dsh-mode-skills"}
 {"package":"dsh-model"}
 {"package":"dsh-model-accordion"}
+{"package":"dsh-model-auto-enricher"}
 {"package":"dsh-model-billing"}
 {"package":"dsh-model-block-picker"}
 {"package":"dsh-model-capability"}
@@ -2674,6 +2680,7 @@
 {"package":"dsh-plan-lattice"}
 {"package":"dsh-plan-mode-plus"}
 {"package":"dsh-plannotator"}
+{"package":"dsh-plugin"}
 {"package":"dsh-plugin-academic-writing"}
 {"package":"dsh-plugin-adwhispr"}
 {"package":"dsh-plugin-agent-collaboration"}
@@ -3111,6 +3118,7 @@
 {"package":"dsh-router-ext-rtk"}
 {"package":"dsh-router-laya"}
 {"package":"dsh-router-loomy"}
+{"package":"dsh-router-standard"}
 {"package":"dsh-router-traework"}
 {"package":"dsh-rss"}
 {"package":"dsh-rss-daily"}
