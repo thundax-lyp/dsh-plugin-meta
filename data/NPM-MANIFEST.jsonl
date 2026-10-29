@@ -717,6 +717,7 @@
 {"package":"@sharewiner/dsh-model-management"}
 {"package":"@shawnkung/dsh-balance-monitor"}
 {"package":"@shendeguize/dsh-agent-sidecar"}
+{"package":"@shengsheng/dsh-taskboard"}
 {"package":"@shiqyka/dsh-ssh-workspace"}
 {"package":"@shuind/dsh-codex-harness"}
 {"package":"@sidequest-007/dsh-atlas"}
@@ -1109,6 +1110,7 @@
 {"package":"dsh-agent-relay"}
 {"package":"dsh-agent-skills"}
 {"package":"dsh-agent-studio"}
+{"package":"dsh-agent-team-gui"}
 {"package":"dsh-agent-team-presets"}
 {"package":"dsh-agentdebugx"}
 {"package":"dsh-agentmail"}
@@ -1322,6 +1324,7 @@
 {"package":"dsh-blue-whale"}
 {"package":"dsh-bookkeeping"}
 {"package":"dsh-bookmarks"}
+{"package":"dsh-boot-animation"}
 {"package":"dsh-boot-compass"}
 {"package":"dsh-boot-guard"}
 {"package":"dsh-boot-video"}
@@ -1863,6 +1866,7 @@
 {"package":"dsh-firecrawl"}
 {"package":"dsh-first-principles"}
 {"package":"dsh-first-prompt-bar"}
+{"package":"dsh-fish-memory"}
 {"package":"dsh-fish-tts"}
 {"package":"dsh-fishpai"}
 {"package":"dsh-flakefinder"}
@@ -1987,6 +1991,7 @@
 {"package":"dsh-happy"}
 {"package":"dsh-happycode"}
 {"package":"dsh-harmony"}
+{"package":"dsh-harmony-next"}
 {"package":"dsh-harmonyos-hiboard"}
 {"package":"dsh-harness-chat-control"}
 {"package":"dsh-harness-one"}
