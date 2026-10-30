@@ -30,7 +30,7 @@
 {"repository_id":1100971867,"node_id":"R_kgDOQZ9_Ww","repository":"tingly-dev/tingly-box","npm_packages":[],"source_repositories":["tingly-dev/tingly-box"]}
 {"repository_id":1122873619,"node_id":"R_kgDOQu2xEw","repository":"kenryu42/cc-safety-net","npm_packages":["cc-safety-net"],"source_repositories":["kenryu42/cc-safety-net"]}
 {"repository_id":1128123594,"node_id":"R_kgDOQz3Myg","repository":"volcengine/OpenViking","npm_packages":["@openviking/dsh-memory-plugin"],"source_repositories":["volcengine/openviking"]}
-{"repository_id":1128708803,"node_id":"R_kgDOQ0a6ww","repository":"ericshang98/Perfect-Web-Clone","npm_packages":[],"source_repositories":["ericshang98/perfect-web-clone"]}
+{"repository_id":1128708803,"node_id":"R_kgDOQ0a6ww","repository":"ericshang98/Perfect-Web-Clone","npm_packages":["perfect-web-clone"],"source_repositories":["ericshang98/perfect-web-clone"]}
 {"repository_id":1129378320,"node_id":"R_kgDOQ1DyEA","repository":"yzlnew/infra-skills","npm_packages":[],"source_repositories":["yzlnew/infra-skills"]}
 {"repository_id":1133901637,"node_id":"R_kgDOQ5X3RQ","repository":"Q00/ouroboros","npm_packages":["dsh-ouroboros"],"source_repositories":["q00/ouroboros"]}
 {"repository_id":1137545389,"node_id":"R_kgDOQ82QrQ","repository":"isomoes/ikanban","npm_packages":[],"source_repositories":["isomoes/ikanban"]}
@@ -6754,7 +6754,7 @@
 {"repository_id":1418740670,"node_id":"R_kgDOVJBDvg","repository":"linshufan21/dsh-boot-compass","npm_packages":["dsh-boot-compass"],"source_repositories":["linshufan21/dsh-boot-compass"]}
 {"repository_id":1418747058,"node_id":"R_kgDOVJBcsg","repository":"lishuo4096/artifact-center","npm_packages":[],"source_repositories":["lishuo4096/artifact-center"]}
 {"repository_id":1418755588,"node_id":"R_kgDOVJB-BA","repository":"imtwa/dsh-recall-sessions","npm_packages":[],"source_repositories":["imtwa/dsh-recall-sessions"]}
-{"repository_id":1418769012,"node_id":"R_kgDOVJCydA","repository":"5V1A-afk/dsh-sticker-pack","npm_packages":[],"source_repositories":["5v1a-afk/dsh-sticker-pack"]}
+{"repository_id":1418769012,"node_id":"R_kgDOVJCydA","repository":"5V1A-afk/dsh-sticker-pack","npm_packages":["dsh-sticker-pack"],"source_repositories":["5v1a-afk/dsh-sticker-pack"]}
 {"repository_id":1418775337,"node_id":"R_kgDOVJDLKQ","repository":"MuyuYanran/dsh-rea-mcp-lite","npm_packages":[],"source_repositories":["muyuyanran/dsh-rea-mcp-lite"]}
 {"repository_id":1418817912,"node_id":"R_kgDOVJFxeA","repository":"yffo/dsh-engramory-recall","npm_packages":["dsh-engramory-recall"],"source_repositories":["yffo/dsh-engramory-recall"]}
 {"repository_id":1418823157,"node_id":"R_kgDOVJGF9Q","repository":"SereneJi/dsh-host-paths","npm_packages":[],"source_repositories":["sereneji/dsh-host-paths"]}
