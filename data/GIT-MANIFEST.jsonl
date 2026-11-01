@@ -8154,7 +8154,7 @@
 {"repository_id":1432989200,"node_id":"R_kgDOVWmuEA","repository":"duyanta123/dsh-change-impact","npm_packages":["dsh-change-impact"],"source_repositories":["duyanta123/dsh-change-impact"]}
 {"repository_id":1432989898,"node_id":"R_kgDOVWmwyg","repository":"erty3244/dsh-feishu-bridge","npm_packages":[],"source_repositories":["erty3244/dsh-feishu-bridge"]}
 {"repository_id":1433001660,"node_id":"R_kgDOVWnevA","repository":"Kadima-code/dsh-session-mirror","npm_packages":["@kadima-code/dsh-session-mirror"],"source_repositories":["kadima-code/dsh-session-mirror"]}
-{"repository_id":1433009668,"node_id":"R_kgDOVWn-BA","repository":"regrevia/dsh-pet-voice","npm_packages":["dsh-pet-voice"],"source_repositories":["regrevia/dsh-pet-voice"]}
+{"repository_id":1433009668,"node_id":"R_kgDOVWn-BA","repository":"regrevia/dsh-pet-voice","npm_packages":["dsh-pet-voice"],"source_repositories":["regrevia/dsh-pet-voice","regrevia/pocket-harness"]}
 {"repository_id":1433015267,"node_id":"R_kgDOVWoT4w","repository":"lightporta/dsh-knowledge-center","npm_packages":[],"source_repositories":["lightporta/dsh-knowledge-center"]}
 {"repository_id":1433015662,"node_id":"R_kgDOVWoVbg","repository":"Dclef/dsh-agent-foreman","npm_packages":["dsh-agent-foreman"],"source_repositories":["dclef/dsh-agent-foreman"]}
 {"repository_id":1433022118,"node_id":"R_kgDOVWoupg","repository":"wangtheme-coder/dsh-greeting","npm_packages":[],"source_repositories":["wangtheme-coder/dsh-greeting"]}
@@ -8608,7 +8608,7 @@
 {"repository_id":1437140668,"node_id":"R_kgDOVakGvA","repository":"y258dd/dsh-hormone","npm_packages":["dsh-hormone"],"source_repositories":["y258dd/dsh-hormone"]}
 {"repository_id":1437143638,"node_id":"R_kgDOVakSVg","repository":"QDNBD/dsh-panel-pins","npm_packages":["@qdnbd/dsh-panel-pins"],"source_repositories":["qdnbd/dsh-panel-pins"]}
 {"repository_id":1437148960,"node_id":"R_kgDOVaknIA","repository":"binbin-QAQ/BiliMemory","npm_packages":[],"source_repositories":["binbin-qaq/bilimemory"]}
-{"repository_id":1437162983,"node_id":"R_kgDOVald5w","repository":"taoziliyouchong/dafeiyu_dsh_pdf_jump","npm_packages":[],"source_repositories":["taoziliyouchong/dafeiyu_dsh_pdf_jump"]}
+{"repository_id":1437162983,"node_id":"R_kgDOVald5w","repository":"taoziliyouchong/dafeiyu_dsh_pdf_jump","npm_packages":[],"source_repositories":["taoziliyouchong/dafeiyu_dsh_pdf_jump","taoziliyouchong/dsh-pdf-jump"]}
 {"repository_id":1437165238,"node_id":"R_kgDOValmtg","repository":"LIU118117/dsh-love","npm_packages":[],"source_repositories":["liu118117/dsh-love"]}
 {"repository_id":1437181818,"node_id":"R_kgDOVamneg","repository":"flhy666/dsh-chatting-pet","npm_packages":["dsh-chatting-pet"],"source_repositories":["flhy666/dsh-chatting-pet"]}
 {"repository_id":1437191368,"node_id":"R_kgDOVanMyA","repository":"JianhangLy/dsh-prompt-library","npm_packages":[],"source_repositories":["jianhangly/dsh-prompt-library"]}
@@ -8794,6 +8794,8 @@
 {"repository_id":1439241263,"node_id":"R_kgDOVckULw","repository":"Xian-JL/Mouse-Keyboard-Plugin","npm_packages":[],"source_repositories":["xian-jl/mouse-keyboard-plugin"]}
 {"repository_id":1439256063,"node_id":"R_kgDOVclN_w","repository":"running-grass/dsh-nix-dev-shell","npm_packages":[],"source_repositories":["running-grass/dsh-nix-dev-shell"]}
 {"repository_id":1439257579,"node_id":"R_kgDOVclT6w","repository":"yunfengnobug/dsh-qq-bot","npm_packages":["@fengye_nobug/dsh-qq-bot"],"source_repositories":["yunfengnobug/dsh-qq-bot"]}
+{"repository_id":1439264425,"node_id":"R_kgDOVcluqQ","repository":"Shaky77/weiwen-law-dsh","npm_packages":[],"source_repositories":["shaky77/weiwen-law-dsh"]}
+{"repository_id":1439264470,"node_id":"R_kgDOVclu1g","repository":"Shaky77/KISS_Law-DSH","npm_packages":[],"source_repositories":["shaky77/kiss_law-dsh"]}
 {"repository_id":1439278972,"node_id":"R_kgDOVcmnfA","repository":"Deiael/dsh-live-farben","npm_packages":[],"source_repositories":["deiael/dsh-live-farben"]}
 {"repository_id":1439283560,"node_id":"R_kgDOVcm5aA","repository":"Lionad-Morotar/dsh-jump","npm_packages":["dsh-jump"],"source_repositories":["lionad-morotar/dsh-jump"]}
 {"repository_id":1439284676,"node_id":"R_kgDOVcm9xA","repository":"Larliers/dsh-skill-prompt-injector","npm_packages":["dsh-skill-prompt-injector"],"source_repositories":["larliers/dsh-skill-prompt-injector"]}
