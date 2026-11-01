@@ -3691,6 +3691,7 @@
 {"package":"dsh-start"}
 {"package":"dsh-starter-zh"}
 {"package":"dsh-startup-guard"}
+{"package":"dsh-startup-screen"}
 {"package":"dsh-state-notifier"}
 {"package":"dsh-status-bar-plugin"}
 {"package":"dsh-status-rotator"}

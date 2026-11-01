@@ -23,6 +23,7 @@
 {"repository_id":1069943001,"node_id":"R_kgDOP8YI2Q","repository":"voyager-crew/voyager","npm_packages":["voyager"],"source_repositories":["voyager-crew/voyager"]}
 {"repository_id":1074165057,"node_id":"R_kgDOQAZ1QQ","repository":"taptap/instant-games-open-mcp","npm_packages":["@taptap/dsh-maker"],"source_repositories":["taptap/instant-games-open-mcp"]}
 {"repository_id":1074296776,"node_id":"R_kgDOQAh3yA","repository":"houyanchao/chatgpt-gemini-timeline","npm_packages":[],"source_repositories":["houyanchao/chatgpt-gemini-timeline"]}
+{"repository_id":1081166515,"node_id":"R_kgDOQHFKsw","repository":"openguardrails/openguardrails","npm_packages":[],"source_repositories":["openguardrails/openguardrails"]}
 {"repository_id":1085086903,"node_id":"R_kgDOQK0ctw","repository":"EverMind-AI/EverOS","npm_packages":[],"source_repositories":["evermind-ai/everos"]}
 {"repository_id":1086419061,"node_id":"R_kgDOQMFwdQ","repository":"vectorize-io/hindsight","npm_packages":["@vectorize-io/hindsight-coding-agents"],"source_repositories":["vectorize-io/hindsight"]}
 {"repository_id":1089365685,"node_id":"R_kgDOQO5mtQ","repository":"hyqibot/A-share-Ai","npm_packages":[],"source_repositories":["hyqibot/a-share-ai"]}
@@ -5388,7 +5389,7 @@
 {"repository_id":1380718937,"node_id":"R_kgDOUkwZWQ","repository":"xueccci/dsh-prompt-lab","npm_packages":[],"source_repositories":["xueccci/dsh-prompt-lab"]}
 {"repository_id":1380719927,"node_id":"R_kgDOUkwdNw","repository":"idoall/dsh-session-colors","npm_packages":["@idoall/dsh-session-colors"],"source_repositories":["idoall/dsh-session-colors"]}
 {"repository_id":1380758125,"node_id":"R_kgDOUkyybQ","repository":"skyzhao1223/dsh-agent-token-stats","npm_packages":[],"source_repositories":["skyzhao1223/dsh-agent-token-stats"]}
-{"repository_id":1380798383,"node_id":"R_kgDOUk1Prw","repository":"6shenhonghong9/dsh-startup-screen","npm_packages":[],"source_repositories":["6shenhonghong9/dsh-startup-screen"]}
+{"repository_id":1380798383,"node_id":"R_kgDOUk1Prw","repository":"6shenhonghong9/dsh-startup-screen","npm_packages":["dsh-startup-screen"],"source_repositories":["6shenhonghong9/dsh-startup-screen"]}
 {"repository_id":1380805742,"node_id":"R_kgDOUk1sbg","repository":"webkubor/dsh-env-inspector","npm_packages":["@dsh-plugins/dsh-env-inspector"],"source_repositories":["webkubor/dsh-env-inspector"]}
 {"repository_id":1380812459,"node_id":"R_kgDOUk2Gqw","repository":"gordan-code/dsh-jev-advisor","npm_packages":["dsh-jev-advisor"],"source_repositories":["gordan-code/dsh-jev-advisor"]}
 {"repository_id":1380813847,"node_id":"R_kgDOUk2MFw","repository":"konglong87/dsh-skills-input","npm_packages":[],"source_repositories":["konglong87/dsh-skills-input"]}
