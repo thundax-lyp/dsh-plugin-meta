@@ -6987,7 +6987,7 @@
 {"repository_id":1422842086,"node_id":"R_kgDOVM7Y5g","repository":"Fleey/dsh-workspace-folders","npm_packages":[],"source_repositories":["fleey/dsh-workspace-folders"]}
 {"repository_id":1422865439,"node_id":"R_kgDOVM80Hw","repository":"EIGHTfs/dsh-useful-tools","npm_packages":["dsh-useful-tools"],"source_repositories":["eightfs/dsh-useful-tools"]}
 {"repository_id":1422886907,"node_id":"R_kgDOVM-H-w","repository":"wweir/dsh-advisor","npm_packages":["@wweir/dsh-advisor"],"source_repositories":["wweir/dsh-advisor"]}
-{"repository_id":1422902365,"node_id":"R_kgDOVM_EXQ","repository":"zsenpro/creating","npm_packages":[],"source_repositories":["zsenpro/creating","zsenpro/dsh-feature-enhancement"]}
+{"repository_id":1422902365,"node_id":"R_kgDOVM_EXQ","repository":"zsenpro/creating","npm_packages":[],"source_repositories":["zsenpro/creating","zsenpro/dsh-feature-enhancement","zsenpro/dsh-voice-output"]}
 {"repository_id":1422902432,"node_id":"R_kgDOVM_EoA","repository":"fomalhaut1998/dsh-ai-research","npm_packages":["dsh-ai-research"],"source_repositories":["fomalhaut1998/dsh-ai-research"]}
 {"repository_id":1422910686,"node_id":"R_kgDOVM_k3g","repository":"Archaofan/dsh-source-deck","npm_packages":["dsh-source-deck"],"source_repositories":["archaofan/dsh-source-deck"]}
 {"repository_id":1422923772,"node_id":"R_kgDOVNAX_A","repository":"TwinsEarth/DSH-GPW2","npm_packages":["@twinsearth/dsh-gpw2"],"source_repositories":["twinsearth/dsh-gpw2"]}
@@ -7992,7 +7992,7 @@
 {"repository_id":1431887681,"node_id":"R_kgDOVVjfQQ","repository":"whybebabo/dsh-recent-sessions","npm_packages":["@whybebabo/dsh-recent-sessions"],"source_repositories":["whybebabo/dsh-recent-sessions"]}
 {"repository_id":1431893243,"node_id":"R_kgDOVVj0-w","repository":"HimA6652/dsh-workbuddy2api-hub","npm_packages":["dsh-workbuddy2api-hub"],"source_repositories":["hima6652/dsh-workbuddy2api-hub"]}
 {"repository_id":1431896928,"node_id":"R_kgDOVVkDYA","repository":"Dongze502/dsh-session-to-doc","npm_packages":[],"source_repositories":["dongze502/dsh-session-to-doc"]}
-{"repository_id":1431897471,"node_id":"R_kgDOVVkFfw","repository":"accomplish07zrh-eng/dsh-aurabot-qq","npm_packages":[],"source_repositories":["accomplish07zrh-eng/dsh-aurabot-qq"]}
+{"repository_id":1431897471,"node_id":"R_kgDOVVkFfw","repository":"accomplish07zrh-eng/dsh-aurabot-qq","npm_packages":[],"source_repositories":["accomplish07zrh-eng/dsh-aurabot-qq","aureth-labs/dsh-aurabot-qq"]}
 {"repository_id":1431898483,"node_id":"R_kgDOVVkJcw","repository":"YokosWY/dsh-guard","npm_packages":[],"source_repositories":["yokoswy/dsh-guard"]}
 {"repository_id":1431915902,"node_id":"R_kgDOVVlNfg","repository":"ztan4706/dsh-whale-waker","npm_packages":["dsh-whale-waker"],"source_repositories":["ztan4706/dsh-whale-waker"]}
 {"repository_id":1431916339,"node_id":"R_kgDOVVlPMw","repository":"ztan4706/dsh-sensorium","npm_packages":["dsh-sensorium"],"source_repositories":["ztan4706/dsh-sensorium"]}
