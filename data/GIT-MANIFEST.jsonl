@@ -4267,7 +4267,7 @@
 {"repository_id":1351853812,"node_id":"R_kgDOUJOm9A","repository":"173787247/dsh-wsl-workspace","npm_packages":["dsh-wsl-workspace-check"],"source_repositories":["173787247/dsh-wsl-workspace"]}
 {"repository_id":1351853863,"node_id":"R_kgDOUJOnJw","repository":"173787247/dsh-wsl-picker","npm_packages":["dsh-wsl-picker"],"source_repositories":["173787247/dsh-wsl-picker"]}
 {"repository_id":1351853903,"node_id":"R_kgDOUJOnTw","repository":"173787247/dsh-wsl-tray","npm_packages":["dsh-wsl-tray-launcher"],"source_repositories":["173787247/dsh-wsl-tray"]}
-{"repository_id":1351853956,"node_id":"R_kgDOUJOnhA","repository":"173787247/dsh-wsl-expose","npm_packages":["dsh-wsl-expose"],"source_repositories":["173787247/dsh-wsl-expose"]}
+{"repository_id":1351853956,"node_id":"R_kgDOUJOnhA","repository":"173787247/dsh-wsl-expose","npm_packages":["dsh-wsl-expose","dsh-wsl-portproxy"],"source_repositories":["173787247/dsh-wsl-expose"]}
 {"repository_id":1351854010,"node_id":"R_kgDOUJOnug","repository":"173787247/dsh-wsl-hostsvc","npm_packages":["dsh-wsl-hostsvc"],"source_repositories":["173787247/dsh-wsl-hostsvc"]}
 {"repository_id":1351854066,"node_id":"R_kgDOUJOn8g","repository":"173787247/dsh-wsl-clock","npm_packages":[],"source_repositories":["173787247/dsh-wsl-clock"]}
 {"repository_id":1351854118,"node_id":"R_kgDOUJOoJg","repository":"173787247/dsh-wsl-dns","npm_packages":["dsh-wsl-dns"],"source_repositories":["173787247/dsh-wsl-dns"]}
@@ -4406,7 +4406,7 @@
 {"repository_id":1354259593,"node_id":"R_kgDOULhciQ","repository":"MyPanda-Hash/CHENGXIAO","npm_packages":[],"source_repositories":["mypanda-hash/chengxiao"]}
 {"repository_id":1354275502,"node_id":"R_kgDOULiarg","repository":"BitDG/dsh-plugins","npm_packages":[],"source_repositories":["bitdg/dsh-plugins"]}
 {"repository_id":1354281309,"node_id":"R_kgDOULixXQ","repository":"MannixHu/dsh-statusbar-config","npm_packages":["dsh-statusbar-config"],"source_repositories":["mannixhu/dsh-statusbar-config"]}
-{"repository_id":1354283280,"node_id":"R_kgDOULi5EA","repository":"1010n111/dsh-about","npm_packages":[],"source_repositories":["1010n111/dsh-about"]}
+{"repository_id":1354283280,"node_id":"R_kgDOULi5EA","repository":"1010n111/dsh-about","npm_packages":["dsh-about"],"source_repositories":["1010n111/dsh-about"]}
 {"repository_id":1354298210,"node_id":"R_kgDOULjzYg","repository":"gbeta/dsh-token-speed","npm_packages":[],"source_repositories":["gbeta/dsh-token-speed"]}
 {"repository_id":1354300950,"node_id":"R_kgDOULj-Fg","repository":"gejiaju/dsh-balance","npm_packages":[],"source_repositories":["gejiaju/dsh-balance"]}
 {"repository_id":1354307141,"node_id":"R_kgDOULkWRQ","repository":"wjj-8283/dsh-temp-workspace","npm_packages":["@wjj-8283/dsh-temp-workspace"],"source_repositories":["wjj-8283/dsh-temp-workspace"]}
@@ -5326,7 +5326,7 @@
 {"repository_id":1378551163,"node_id":"R_kgDOUisFew","repository":"HorusJiang/dsh-jev-tools","npm_packages":["dsh-jev-tools"],"source_repositories":["horusjiang/dsh-jev-tools"]}
 {"repository_id":1378567433,"node_id":"R_kgDOUitFCQ","repository":"seventeenlyc/agent-relay","npm_packages":[],"source_repositories":["seventeenlyc/agent-relay"]}
 {"repository_id":1378718063,"node_id":"R_kgDOUi2Rbw","repository":"Saretheya/dsh-tick","npm_packages":["dsh-tick"],"source_repositories":["saretheya/dsh-tick"]}
-{"repository_id":1378742722,"node_id":"R_kgDOUi3xwg","repository":"Aliww2468/dsh-client-ui-aqua-patched","npm_packages":[],"source_repositories":["aliww2468/dsh-client-ui-aqua-patched"]}
+{"repository_id":1378742722,"node_id":"R_kgDOUi3xwg","repository":"Aliww2468/dsh-client-ui-aqua-patched","npm_packages":["dsh-client-ui-aqua"],"source_repositories":["aliww2468/dsh-client-ui-aqua-patched"]}
 {"repository_id":1378767195,"node_id":"R_kgDOUi5RWw","repository":"lijiawei255/dsh-status-chime","npm_packages":[],"source_repositories":["lijiawei255/dsh-status-chime"]}
 {"repository_id":1378862279,"node_id":"R_kgDOUi_Exw","repository":"cq-guojia/dsh-task-dispatch-table","npm_packages":["dsh-task-dispatch-table"],"source_repositories":["cq-guojia/dsh-task-dispatch-table"]}
 {"repository_id":1378903547,"node_id":"R_kgDOUjBl-w","repository":"corlinniu/dsh-daily-chat","npm_packages":[],"source_repositories":["corlinniu/dsh-daily-chat"]}

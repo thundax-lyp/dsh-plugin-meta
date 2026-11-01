@@ -1166,6 +1166,7 @@
 {"package":"dsh-550c-boot"}
 {"package":"dsh-a11y-scan"}
 {"package":"dsh-abba-secret-chat"}
+{"package":"dsh-about"}
 {"package":"dsh-academic-web-proxy"}
 {"package":"dsh-accountdisplayname-edit"}
 {"package":"dsh-achievement-helper"}
@@ -1570,6 +1571,7 @@
 {"package":"dsh-click"}
 {"package":"dsh-client-auto-continue"}
 {"package":"dsh-client-deep-sneak"}
+{"package":"dsh-client-ui-aqua"}
 {"package":"dsh-client-ui-cpa-quota"}
 {"package":"dsh-client-ui-dracula"}
 {"package":"dsh-client-ui-font-scale"}
@@ -4286,6 +4288,7 @@
 {"package":"dsh-wsl-picker"}
 {"package":"dsh-wsl-pkg"}
 {"package":"dsh-wsl-port"}
+{"package":"dsh-wsl-portproxy"}
 {"package":"dsh-wsl-power"}
 {"package":"dsh-wsl-rclone"}
 {"package":"dsh-wsl-search"}
