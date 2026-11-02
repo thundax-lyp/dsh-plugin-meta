@@ -249,3 +249,63 @@ test("fatal request failures checkpoint errors and retain successful previous da
     "HTTP_403",
   );
 });
+
+test("explicit pruning removes orphan metrics and errors, preserves retained failures and is idempotent", async (t) => {
+  const { pruneGithub } = await import("../scripts/prune-git.mjs");
+  const { rm } = await import("node:fs/promises");
+  const { directory } = await fixture();
+  t.after(() => rm(directory, { recursive: true, force: true }));
+  const kept = {
+    repository_id: 1,
+    repository: "org/kept",
+    stars: 0,
+    archived: false,
+    checked_at: time.toISOString(),
+  };
+  const failure = (id) => ({
+    repository_id: id,
+    error: {
+      code: "NOT_FOUND_OR_INACCESSIBLE",
+      checked_at: time.toISOString(),
+    },
+  });
+  const files = {
+    "manifest.jsonl": [row(1, "org/kept")],
+    "meta.jsonl": [
+      kept,
+      { ...kept, repository_id: 2, repository: "org/removed" },
+    ],
+    "errors.jsonl": [failure(1), failure(2), failure(3)],
+    "pending.jsonl": [{ repository: "org/unresolved" }],
+  };
+  for (const [file, rows] of Object.entries(files))
+    await writeFile(
+      join(directory, file),
+      rows.map(JSON.stringify).join("\n") + "\n",
+    );
+  assert.deepEqual(await pruneGithub({ directory }), {
+    removed_metrics: 1,
+    removed_errors: 2,
+  });
+  assert.deepEqual(await read(directory, "meta.jsonl"), [kept]);
+  assert.deepEqual(await read(directory, "errors.jsonl"), [failure(1)]);
+  assert.deepEqual(
+    await read(directory, "manifest.jsonl"),
+    files["manifest.jsonl"],
+  );
+  assert.deepEqual(
+    await read(directory, "pending.jsonl"),
+    files["pending.jsonl"],
+  );
+  assert.deepEqual(await pruneGithub({ directory }), {
+    removed_metrics: 0,
+    removed_errors: 0,
+  });
+  await writeFile(join(directory, "manifest.jsonl"), "");
+  assert.deepEqual(await pruneGithub({ directory }), {
+    removed_metrics: 1,
+    removed_errors: 1,
+  });
+  assert.deepEqual(await read(directory, "meta.jsonl"), []);
+  assert.deepEqual(await read(directory, "errors.jsonl"), []);
+});

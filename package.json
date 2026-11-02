@@ -17,6 +17,7 @@
     "import:git": "node scripts/import-git.mjs",
     "refresh:git": "node scripts/refresh-git.mjs",
     "validate:git": "node scripts/validate-git.mjs",
+    "prune:git": "node scripts/prune-git.mjs",
     "import:npm": "node scripts/import-npm.mjs",
     "check:npm": "node --test test/refresh-npm.test.mjs test/import-npm.test.mjs",
     "check:git": "node --test test/refresh-git.test.mjs && npm run validate:git"

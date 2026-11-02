@@ -95,6 +95,15 @@ npm 更新使用 `scripts/refresh-npm.mjs`，GitHub 更新使用 `scripts/refres
 只有 Git 工作流向采集步骤提供内置 `github.token`；非公开仓库可能无法访问，必须保留待解析或失败记录，不假定 token 有组织访问权限。
 工作流只有提交并进入默认分支后才会按计划执行。消费者应固定完整 commit SHA 或内容摘要，在同次运行中读取同一个版本。
 
+手动确认失效仓库并从 `GIT-MANIFEST.jsonl` 删除身份后，必须在同次变更中运行：
+
+```bash
+npm run prune:git
+npm run check
+```
+
+`prune:git` 以当前清单为准，同步移除不再关联清单的 `GIT-META.jsonl` 指标和 `GIT-ERRORS.jsonl` 错误记录，保留其余记录及原有时间。它不访问网络、不修改清单或待解析地址，不依据访问失败自动判定仓库失效。清单与关联记录应一起交付；校验仍拒绝孤立记录。
+
 ## 开发
 
 ```bash
