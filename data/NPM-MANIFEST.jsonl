@@ -685,6 +685,7 @@
 {"package":"@nelsonlongxiang/dsh-open-a2a-net"}
 {"package":"@neomei/dsh-client-ui-roundtable"}
 {"package":"@neptune810/dsh-model-router"}
+{"package":"@next-ai-drawio/dsh"}
 {"package":"@nianchu/dsh-rollback"}
 {"package":"@nilesh32236/dsh-squad"}
 {"package":"@nlflora/dsh-empty-turn-guard"}
@@ -747,6 +748,7 @@
 {"package":"@quill507/dsh-auto-approval-llm"}
 {"package":"@ragnoryok1/dsh-client-locale-ru"}
 {"package":"@ragnoryok1/dsh-plugin-doctor"}
+{"package":"@rain-kl/dsh-preset-plus"}
 {"package":"@raphelutumn/dsh-change-budget"}
 {"package":"@ratel-works/dsh-lumina"}
 {"package":"@rayadesu/dsh-billing"}
@@ -832,6 +834,7 @@
 {"package":"@tecfancy/dsh-mobile"}
 {"package":"@telosmaylx/dsh-session-notify"}
 {"package":"@tencent-connect/dsh-qqbot"}
+{"package":"@tencentcloud/tmeet"}
 {"package":"@thestreamcode/dsh-muse-code"}
 {"package":"@tianbuyu-wwx/dsh-formatforge"}
 {"package":"@tianbuyu-wwx/dsh-hermes-link"}
@@ -1092,6 +1095,7 @@
 {"package":"agentschat-mcp"}
 {"package":"ai-look-up"}
 {"package":"ai-residue-cleaner"}
+{"package":"aibox-control-center"}
 {"package":"air-pixel-liquid-glass"}
 {"package":"answer-me-with-html"}
 {"package":"argo-search"}
@@ -2773,6 +2777,7 @@
 {"package":"dsh-offpeak"}
 {"package":"dsh-oh-my-claude"}
 {"package":"dsh-oh-my-theme"}
+{"package":"dsh-oil-creator"}
 {"package":"dsh-olivia-bridge"}
 {"package":"dsh-ollama-cloud"}
 {"package":"dsh-ollama-tool-guard"}
@@ -4257,6 +4262,7 @@
 {"package":"dsh-wsl-browser"}
 {"package":"dsh-wsl-cal"}
 {"package":"dsh-wsl-clipboard"}
+{"package":"dsh-wsl-clock"}
 {"package":"dsh-wsl-compose"}
 {"package":"dsh-wsl-cred"}
 {"package":"dsh-wsl-db"}
@@ -4282,6 +4288,7 @@
 {"package":"dsh-wsl-llamacpp"}
 {"package":"dsh-wsl-mail"}
 {"package":"dsh-wsl-media"}
+{"package":"dsh-wsl-mnt"}
 {"package":"dsh-wsl-net"}
 {"package":"dsh-wsl-notify"}
 {"package":"dsh-wsl-obscura"}
