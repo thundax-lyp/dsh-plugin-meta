@@ -110,7 +110,7 @@
 {"repository_id":1207705027,"node_id":"R_kgDOR_wdww","repository":"SummerSec/SumSec-Skills","npm_packages":[],"source_repositories":["summersec/sumsec-skills"]}
 {"repository_id":1207780921,"node_id":"R_kgDOR_1GOQ","repository":"syncable-dev/memtrace-public","npm_packages":[],"source_repositories":["syncable-dev/memtrace-public"]}
 {"repository_id":1207803853,"node_id":"R_kgDOR_2fzQ","repository":"SummerSec/AI-Inner-Os","npm_packages":[],"source_repositories":["summersec/ai-inner-os"]}
-{"repository_id":1208725464,"node_id":"R_kgDOSAuv2A","repository":"shanliuling/skills-link","npm_packages":[],"source_repositories":["shanliuling/skills-link"]}
+{"repository_id":1208725464,"node_id":"R_kgDOSAuv2A","repository":"shanliuling/skills-link","npm_packages":["skills-link"],"source_repositories":["shanliuling/skills-link"]}
 {"repository_id":1209966933,"node_id":"R_kgDOSB6hVQ","repository":"morluto/rea","npm_packages":["rea-agents"],"source_repositories":["morluto/rea"]}
 {"repository_id":1211139949,"node_id":"R_kgDOSDCHbQ","repository":"tt-a1i/archify","npm_packages":["@tt-a1i/archify-dsh"],"source_repositories":["tt-a1i/archify"]}
 {"repository_id":1211255316,"node_id":"R_kgDOSDJKFA","repository":"heartleo/hn-cli","npm_packages":["dsh-hacker-news"],"source_repositories":["heartleo/hn-cli"]}
@@ -544,7 +544,7 @@
 {"repository_id":1333290303,"node_id":"R_kgDOT3hlPw","repository":"LiangYin233/dsh-provider-model-configurator","npm_packages":[],"source_repositories":["liangyin233/dsh-provider-model-configurator"]}
 {"repository_id":1333291251,"node_id":"R_kgDOT3ho8w","repository":"SeverusZh/dsh-notify-windows","npm_packages":[],"source_repositories":["severuszh/dsh-notify-windows"]}
 {"repository_id":1333292573,"node_id":"R_kgDOT3huHQ","repository":"HarcoChen/dsh-vsc-integration","npm_packages":[],"source_repositories":["harcochen/dsh-vsc-integration"]}
-{"repository_id":1333295863,"node_id":"R_kgDOT3h69w","repository":"bradeGithub/DSH-Plugins-Marketplace","npm_packages":[],"source_repositories":["bradegithub/dsh-plugins-marketplace"]}
+{"repository_id":1333295863,"node_id":"R_kgDOT3h69w","repository":"bradeGithub/DSH-Plugins-Marketplace","npm_packages":["dsh-plugin-marketplace"],"source_repositories":["bradegithub/dsh-plugins-marketplace"]}
 {"repository_id":1333296107,"node_id":"R_kgDOT3h76w","repository":"SakalioLabs/dsh-code-ide","npm_packages":[],"source_repositories":["sakaliolabs/dsh-code-ide"]}
 {"repository_id":1333296783,"node_id":"R_kgDOT3h-jw","repository":"guguthecoder/dsh-tool-see-image","npm_packages":["dsh-tool-see-image"],"source_repositories":["gugu123a/dsh-tool-see-image","guguthecoder/dsh-tool-see-image"]}
 {"repository_id":1333296793,"node_id":"R_kgDOT3h-mQ","repository":"foolgry/dsh-desktop","npm_packages":[],"source_repositories":["foolgry/dsh-desktop"]}
@@ -2070,7 +2070,7 @@
 {"repository_id":1335872009,"node_id":"R_kgDOT5_KCQ","repository":"andregoncalves/dsh-balance","npm_packages":["@andrecgoncalves/dsh-balance"],"source_repositories":["andregoncalves/dsh-balance"]}
 {"repository_id":1335876660,"node_id":"R_kgDOT5_cNA","repository":"SummerSec/dsh-web-auth","npm_packages":["@summersec/dsh-web-auth"],"source_repositories":["summersec/dsh-web-auth"]}
 {"repository_id":1335876833,"node_id":"R_kgDOT5_c4Q","repository":"nyantused-cpun/gewu-tools","npm_packages":["gewu-tools"],"source_repositories":["nyantused-cpun/gewu-tools"]}
-{"repository_id":1335877752,"node_id":"R_kgDOT5_geA","repository":"GraySilver/dsh-evolve-modes","npm_packages":[],"source_repositories":["graysilver/dsh-evolve-modes"]}
+{"repository_id":1335877752,"node_id":"R_kgDOT5_geA","repository":"GraySilver/dsh-evolve-modes","npm_packages":["@graysilver/dsh-evolve-modes"],"source_repositories":["graysilver/dsh-evolve-modes"]}
 {"repository_id":1335881873,"node_id":"R_kgDOT5_wkQ","repository":"xulelenlp/dsh-web-artifact-designer","npm_packages":["dsh-web-artifact-designer"],"source_repositories":["xulelenlp/dsh-web-artifact-designer"]}
 {"repository_id":1335892186,"node_id":"R_kgDOT6AY2g","repository":"yoiizesdev-crypto/DSH-Balance-display","npm_packages":["dsh-quota-badge"],"source_repositories":["yoiizesdev-crypto/dsh-balance-display"]}
 {"repository_id":1335896405,"node_id":"R_kgDOT6ApVQ","repository":"ChengxiuCDP/dsh-plugin-advisor","npm_packages":[],"source_repositories":["chengxiucdp/dsh-plugin-advisor"]}

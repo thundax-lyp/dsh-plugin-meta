@@ -354,6 +354,7 @@
 {"package":"@goodandready/dsh-vision-bridge"}
 {"package":"@goodandready/dsh-voice"}
 {"package":"@gorban/dsh-job-stop"}
+{"package":"@graysilver/dsh-evolve-modes"}
 {"package":"@guojinpeng/dsh-cost-meter"}
 {"package":"@guojinpeng/dsh-git4idea"}
 {"package":"@guowenzhang/dsh-mcp-manager"}
@@ -4479,6 +4480,7 @@
 {"package":"shared-handoff-dsh"}
 {"package":"shidi-dsh-plugin"}
 {"package":"skill-bartender"}
+{"package":"skills-link"}
 {"package":"smart-compaction"}
 {"package":"smart-session-title"}
 {"package":"spec-wave"}
