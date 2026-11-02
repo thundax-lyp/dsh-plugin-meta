@@ -243,7 +243,7 @@
 {"repository_id":1303848201,"node_id":"R_kgDOTbclCQ","repository":"theBigGavin/marketingdashboard","npm_packages":[],"source_repositories":["thebiggavin/marketingdashboard"]}
 {"repository_id":1304163962,"node_id":"R_kgDOTbv2eg","repository":"leechen298/Code2Skill","npm_packages":[],"source_repositories":["leechen298/code2skill"]}
 {"repository_id":1304583136,"node_id":"R_kgDOTcJb4A","repository":"shuguang1994/project-blueprint","npm_packages":[],"source_repositories":["shuguang1994/project-blueprint"]}
-{"repository_id":1304997851,"node_id":"R_kgDOTciv2w","repository":"taxueseek/argo","npm_packages":[],"source_repositories":["taxueseek/argo"]}
+{"repository_id":1304997851,"node_id":"R_kgDOTciv2w","repository":"taxueseek/argo","npm_packages":["@taxueseek/argo-dsh","argo-search"],"source_repositories":["taxueseek/argo"]}
 {"repository_id":1305588644,"node_id":"R_kgDOTdGzpA","repository":"N0zoM1z0/vocaloid-mcp","npm_packages":[],"source_repositories":["n0zom1z0/vocaloid-mcp"]}
 {"repository_id":1306275915,"node_id":"R_kgDOTdwwSw","repository":"Piccolo123/url-manager-mcp","npm_packages":[],"source_repositories":["piccolo123/url-manager-mcp"]}
 {"repository_id":1306637593,"node_id":"R_kgDOTeG1GQ","repository":"linhut/gongwen-skill","npm_packages":["gongwen-skill"],"source_repositories":["linhut/gongwen-skill"]}
@@ -268,7 +268,7 @@
 {"repository_id":1314502072,"node_id":"R_kgDOTlm1uA","repository":"huaweicloud/huaweicloud-devkit","npm_packages":["huaweicloud-devkit"],"source_repositories":["huaweicloud/huaweicloud-devkit"]}
 {"repository_id":1314587317,"node_id":"R_kgDOTlsCtQ","repository":"cofy-x/axern","npm_packages":[],"source_repositories":["cofy-x/axern"]}
 {"repository_id":1314807642,"node_id":"R_kgDOTl5fWg","repository":"starsstreaming/beautiCode","npm_packages":["beauticode-dsh"],"source_repositories":["starsstreaming/beauticode"]}
-{"repository_id":1315919904,"node_id":"R_kgDOTm9YIA","repository":"sandbaseai/sandbase-skills","npm_packages":[],"source_repositories":["sandbaseai/sandbase-skills"]}
+{"repository_id":1315919904,"node_id":"R_kgDOTm9YIA","repository":"sandbaseai/sandbase-skills","npm_packages":["@sandbaseai/dsh-skills"],"source_repositories":["sandbaseai/sandbase-skills"]}
 {"repository_id":1316202030,"node_id":"R_kgDOTnOmLg","repository":"mudden2380078550-creator/write-chinese-long-screenplay","npm_packages":[],"source_repositories":["mudden2380078550-creator/write-chinese-long-screenplay"]}
 {"repository_id":1318330553,"node_id":"R_kgDOTpQguQ","repository":"Lyn-77/ProMentor","npm_packages":[],"source_repositories":["lyn-77/promentor"]}
 {"repository_id":1318562243,"node_id":"R_kgDOTpepww","repository":"h4dex/opc-nexus","npm_packages":[],"source_repositories":["h4dex/opc-nexus"]}
@@ -2898,7 +2898,7 @@
 {"repository_id":1339795822,"node_id":"R_kgDOT9upbg","repository":"Octo-o-o-o/dsh-plugin-deploy","npm_packages":["dsh-plugin-deploy"],"source_repositories":["octo-o-o-o/dsh-plugin-deploy"]}
 {"repository_id":1339798643,"node_id":"R_kgDOT9u0cw","repository":"balue8246-maker/dsDragPasteALL","npm_packages":[],"source_repositories":["balue8246-maker/dsdragpasteall"]}
 {"repository_id":1339800682,"node_id":"R_kgDOT9u8ag","repository":"memorax-ai/the-binding-of-dsh","npm_packages":[],"source_repositories":["ch4acko3/the-binding-of-dsh","memorax-ai/the-binding-of-dsh"]}
-{"repository_id":1339803365,"node_id":"R_kgDOT9vG5Q","repository":"0imzero/dsh-workspace-menu","npm_packages":[],"source_repositories":["0imzero/dsh-workspace-menu"]}
+{"repository_id":1339803365,"node_id":"R_kgDOT9vG5Q","repository":"0imzero/dsh-workspace-menu","npm_packages":["@dsh-external/dsh-workspace-menu"],"source_repositories":["0imzero/dsh-workspace-menu"]}
 {"repository_id":1339806290,"node_id":"R_kgDOT9vSUg","repository":"young-tim/dsh-llm-governor","npm_packages":[],"source_repositories":["young-tim/dsh-llm-governor"]}
 {"repository_id":1339806686,"node_id":"R_kgDOT9vT3g","repository":"Wayne036/dsh-plugin-login-gate","npm_packages":[],"source_repositories":["wayne036/dsh-plugin-login-gate"]}
 {"repository_id":1339810245,"node_id":"R_kgDOT9vhxQ","repository":"a1113622001/dsh-auto-update","npm_packages":[],"source_repositories":["a1113622001/dsh-auto-update"]}
@@ -9029,3 +9029,5 @@
 {"repository_id":1441121992,"node_id":"R_kgDOVeXGyA","repository":"Lovenndme/dsh-command-context","npm_packages":[],"source_repositories":["lovenndme/dsh-command-context"]}
 {"repository_id":1441275690,"node_id":"R_kgDOVegfKg","repository":"ozanstn1-stack/dsh-drive-backup","npm_packages":[],"source_repositories":["ozanstn1-stack/dsh-drive-backup"]}
 {"repository_id":1441277041,"node_id":"R_kgDOVegkcQ","repository":"lisihao/dsh-intelligent-UI","npm_packages":[],"source_repositories":["lisihao/dsh-intelligent-ui"]}
+{"repository_id":1441950246,"node_id":"R_kgDOVfJqJg","repository":"bigfatorangecatjohn/opening-free-0.21.0","npm_packages":[],"source_repositories":["bigfatorangecatjohn/opening-free-0.21.0"]}
+{"repository_id":1442126357,"node_id":"R_kgDOVfUaFQ","repository":"naili0712/dsh-gsv-local","npm_packages":[],"source_repositories":["naili0712/dsh-gsv-local"]}

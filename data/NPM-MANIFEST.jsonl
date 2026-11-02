@@ -222,6 +222,7 @@
 {"package":"@dsh-external/dsh-blender-plugin"}
 {"package":"@dsh-external/dsh-redteam-model"}
 {"package":"@dsh-external/dsh-session-turn-eta"}
+{"package":"@dsh-external/dsh-workspace-menu"}
 {"package":"@dsh-external/dsh-zero-residence"}
 {"package":"@dsh-fly/dsh-plugin-fly-skins"}
 {"package":"@dsh-ft/dsh-fft-paper-trading"}
@@ -772,6 +773,7 @@
 {"package":"@s1lencewill/dsh-markdown-reader"}
 {"package":"@sakikotgw/pack-agent"}
 {"package":"@sakura12/oh-my-deepseekharness"}
+{"package":"@sandbaseai/dsh-skills"}
 {"package":"@sanqi-normal/dsh-webui-market-plugin"}
 {"package":"@sduwall/dsh-wall-mcp-manager"}
 {"package":"@sfunction/dsh-screenshot"}
@@ -826,6 +828,7 @@
 {"package":"@tangzai/dsh-ui-archive-manager"}
 {"package":"@taosee258/dsh-client-ui-skin-qingxiao"}
 {"package":"@taptap/dsh-maker"}
+{"package":"@taxueseek/argo-dsh"}
 {"package":"@tecfancy/dsh-mobile"}
 {"package":"@telosmaylx/dsh-session-notify"}
 {"package":"@tencent-connect/dsh-qqbot"}
@@ -1091,6 +1094,7 @@
 {"package":"ai-residue-cleaner"}
 {"package":"air-pixel-liquid-glass"}
 {"package":"answer-me-with-html"}
+{"package":"argo-search"}
 {"package":"attention-plugins"}
 {"package":"aura-vision"}
 {"package":"awesome-ai-pedia"}
