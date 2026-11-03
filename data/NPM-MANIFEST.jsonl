@@ -841,6 +841,7 @@
 {"package":"@tangzai/dsh-ui-archive-manager"}
 {"package":"@taosee258/dsh-client-ui-skin-qingxiao"}
 {"package":"@taptap/dsh-maker"}
+{"package":"@taptap/instant-games-open-mcp"}
 {"package":"@taxueseek/argo-dsh"}
 {"package":"@tecfancy/dsh-mobile"}
 {"package":"@telosmaylx/dsh-session-notify"}
@@ -1929,6 +1930,7 @@
 {"package":"dsh-doc-review"}
 {"package":"dsh-doc-router"}
 {"package":"dsh-doc-routing-guard"}
+{"package":"dsh-dock"}
 {"package":"dsh-dock-vitals"}
 {"package":"dsh-docx-format"}
 {"package":"dsh-docx-sidebar"}
@@ -2036,6 +2038,7 @@
 {"package":"dsh-fail-guard"}
 {"package":"dsh-fail-logger"}
 {"package":"dsh-fairy-zzz"}
+{"package":"dsh-fanqie-reader"}
 {"package":"dsh-faremeter"}
 {"package":"dsh-farm"}
 {"package":"dsh-fast"}
