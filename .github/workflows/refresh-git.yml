@@ -35,6 +35,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Prune records for removed GitHub repositories
+        run: npm run prune:git
+
       - name: Check GitHub collector
         run: npm run check:git
 
