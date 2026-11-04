@@ -1200,6 +1200,7 @@
 {"package":"deepseek-plastic-memory"}
 {"package":"deepseek-usage"}
 {"package":"deepseek-web-import"}
+{"package":"deepspider"}
 {"package":"deeptide"}
 {"package":"dock-base"}
 {"package":"dock-editor"}
@@ -3305,6 +3306,7 @@
 {"package":"dsh-port-inspector"}
 {"package":"dsh-port-map"}
 {"package":"dsh-portable"}
+{"package":"dsh-portfolio-os"}
 {"package":"dsh-postiz"}
 {"package":"dsh-power-ticket-check"}
 {"package":"dsh-power-type"}
@@ -4675,6 +4677,7 @@
 {"package":"rulemux-dsh"}
 {"package":"sage-mem"}
 {"package":"sage-reminder"}
+{"package":"sealos"}
 {"package":"seektty"}
 {"package":"shared-handoff-dsh"}
 {"package":"shidi-dsh-plugin"}
