@@ -149,6 +149,8 @@
 {"package":"@cloudplugin/scenes-skill-creator"}
 {"package":"@co-engram/dsh"}
 {"package":"@codefisher798/dsh-file-link-menu"}
+{"package":"@coderrdd/dsh-rdd-explore"}
+{"package":"@coderrdd/dsh-rdd-goal-tree"}
 {"package":"@codewei823/dsh-model-picker-2level"}
 {"package":"@cold777/dsh-opencli"}
 {"package":"@cold777/dsh-takeover"}
@@ -2270,6 +2272,7 @@
 {"package":"dsh-hacker-news"}
 {"package":"dsh-handoff-button"}
 {"package":"dsh-handoff-compaction"}
+{"package":"dsh-hao-import"}
 {"package":"dsh-haoba-mode"}
 {"package":"dsh-happy"}
 {"package":"dsh-happycode"}
@@ -2500,6 +2503,7 @@
 {"package":"dsh-lifeline"}
 {"package":"dsh-light-tool"}
 {"package":"dsh-lighthouse"}
+{"package":"dsh-lightroom-py"}
 {"package":"dsh-limit-break"}
 {"package":"dsh-line-bot"}
 {"package":"dsh-linghun"}
@@ -2785,6 +2789,7 @@
 {"package":"dsh-movein"}
 {"package":"dsh-movein-permissions"}
 {"package":"dsh-mpkg-wallpaper"}
+{"package":"dsh-msds-chain"}
 {"package":"dsh-msg-hub"}
 {"package":"dsh-multi-candidate"}
 {"package":"dsh-multi-chat"}
@@ -4361,6 +4366,7 @@
 {"package":"dsh-webui-studio"}
 {"package":"dsh-wechat"}
 {"package":"dsh-wechat-mp"}
+{"package":"dsh-wechat-ocr"}
 {"package":"dsh-weiwen-law"}
 {"package":"dsh-weknora-archive"}
 {"package":"dsh-welcome-greeting"}
@@ -4397,6 +4403,7 @@
 {"package":"dsh-win-notify"}
 {"package":"dsh-win-pwsh7"}
 {"package":"dsh-win-toolkit"}
+{"package":"dsh-win11-oneocr"}
 {"package":"dsh-win32"}
 {"package":"dsh-window-control"}
 {"package":"dsh-window-size"}
@@ -4612,6 +4619,7 @@
 {"package":"kimi-webbridge-dsh"}
 {"package":"kkj-luna-dsh-image-bridge"}
 {"package":"kunpet-dsh"}
+{"package":"last30days-skill-cn"}
 {"package":"liarmttt-tavernweave-dsh"}
 {"package":"lin-answer-now"}
 {"package":"lume-dsh-plugin"}
@@ -4695,6 +4703,7 @@
 {"package":"spec-wave"}
 {"package":"specworkflow"}
 {"package":"stratagate-dsh"}
+{"package":"sumsec-skills"}
 {"package":"superdesign-dsh"}
 {"package":"superpowers-dsh"}
 {"package":"task-complete-notify-for-dsh"}
@@ -4726,3 +4735,4 @@
 {"package":"yihe-packs-dsh"}
 {"package":"yuezhiye-dsh-closet"}
 {"package":"zcode-usage-stats"}
+{"package":"zerotoken-skill"}
