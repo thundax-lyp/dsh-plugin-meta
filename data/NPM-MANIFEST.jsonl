@@ -1146,6 +1146,7 @@
 {"package":"babeldoc-on-dsh"}
 {"package":"baifanyu-ofm"}
 {"package":"balance-dsh"}
+{"package":"baro-dsh"}
 {"package":"beauticode-dsh"}
 {"package":"beav-creator-dsh"}
 {"package":"better-dsh-session-deletetool"}
@@ -2571,6 +2572,8 @@
 {"package":"dsh-macos-restart"}
 {"package":"dsh-macos-settings-shortcut"}
 {"package":"dsh-macos-share"}
+{"package":"dsh-madara-pixel-pet"}
+{"package":"dsh-madara-pixel-theme"}
 {"package":"dsh-magpie-connect"}
 {"package":"dsh-magpie-connector"}
 {"package":"dsh-magpie-quota"}
@@ -2793,6 +2796,7 @@
 {"package":"dsh-multiline-input"}
 {"package":"dsh-multiplatform-balance"}
 {"package":"dsh-multitask"}
+{"package":"dsh-multivibe"}
 {"package":"dsh-muse-code"}
 {"package":"dsh-music-player"}
 {"package":"dsh-muv-engine"}
@@ -3468,6 +3472,7 @@
 {"package":"dsh-reasoning-options"}
 {"package":"dsh-reasoning-slider"}
 {"package":"dsh-reasoning-tiers"}
+{"package":"dsh-reaudit"}
 {"package":"dsh-recall"}
 {"package":"dsh-recall-plugin"}
 {"package":"dsh-recall-unread"}
@@ -4642,6 +4647,7 @@
 {"package":"odai-dsh-plugin"}
 {"package":"ofttold-memory"}
 {"package":"oh-my-dsh-slim"}
+{"package":"oh-my-knowledge"}
 {"package":"oil-dsh-title"}
 {"package":"onebox-dsh-bridge"}
 {"package":"onekey-models"}
