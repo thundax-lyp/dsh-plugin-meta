@@ -174,6 +174,9 @@
 {"package":"@creait/dsh-web-fetch"}
 {"package":"@creait/dsh-web-search-searxng"}
 {"package":"@crosery/dsh-viewer"}
+{"package":"@cueai/dsh-cue-data-mcp"}
+{"package":"@cueai/dsh-omni-reader"}
+{"package":"@cueai/dsh-omni-reader-guard"}
 {"package":"@cyrusdoyle/dsh-sessions-insight"}
 {"package":"@czf1995/dsh-waste-market"}
 {"package":"@czy1326/dsh-restart-button"}
@@ -512,6 +515,7 @@
 {"package":"@klarkxy/dsh-dev-index"}
 {"package":"@knopki/dsh-prompt-profiles"}
 {"package":"@knyazevai/dsh-provider"}
+{"package":"@kobenfang/dsh-biga"}
 {"package":"@kober-basket/dsh-cachescope"}
 {"package":"@konnga/dsh-hud"}
 {"package":"@kyf-eng/dsh-threads"}
@@ -529,6 +533,7 @@
 {"package":"@leaf233/dsh-model-gateway"}
 {"package":"@leetoners/dsh-ui-subagent-monitor"}
 {"package":"@leisureyu/dsh-smart-dl"}
+{"package":"@lelogin/dsh-plugin"}
 {"package":"@lemcae/dsh-balance"}
 {"package":"@lemoncat7/dsh-knowledge"}
 {"package":"@lemoncat7/dsh-partner"}
@@ -922,6 +927,7 @@
 {"package":"@volcengine/ark-managed-agents"}
 {"package":"@volcengine/ark-plan-api"}
 {"package":"@wayneyu430227/dsh-voice-agent"}
+{"package":"@weaxs/stock-analysis-plugin"}
 {"package":"@weibaohui/context-razor"}
 {"package":"@weibaohui/dsh-ambient"}
 {"package":"@weibaohui/dsh-continue"}
@@ -1145,6 +1151,7 @@
 {"package":"aura-vision"}
 {"package":"awesome-ai-pedia"}
 {"package":"awesome-dsh-plugin"}
+{"package":"ax-feishu-bridge"}
 {"package":"babeldoc-on-dsh"}
 {"package":"baifanyu-ofm"}
 {"package":"balance-dsh"}
@@ -1586,6 +1593,7 @@
 {"package":"dsh-cd"}
 {"package":"dsh-cert-mcp"}
 {"package":"dsh-cet-vocab"}
+{"package":"dsh-cgss-idol-theme"}
 {"package":"dsh-change-impact"}
 {"package":"dsh-channel-qq"}
 {"package":"dsh-channel-view"}
@@ -4492,6 +4500,8 @@
 {"package":"dsh-wsl-gpu"}
 {"package":"dsh-wsl-helm"}
 {"package":"dsh-wsl-hostsvc"}
+{"package":"dsh-wsl-im"}
+{"package":"dsh-wsl-jev"}
 {"package":"dsh-wsl-launch"}
 {"package":"dsh-wsl-llamacpp"}
 {"package":"dsh-wsl-mail"}
@@ -4622,6 +4632,7 @@
 {"package":"last30days-skill-cn"}
 {"package":"liarmttt-tavernweave-dsh"}
 {"package":"lin-answer-now"}
+{"package":"local-shell-mcp-dsh"}
 {"package":"lume-dsh-plugin"}
 {"package":"lumina-dsh"}
 {"package":"lunheng-article-pipeline"}
@@ -4705,6 +4716,7 @@
 {"package":"stratagate-dsh"}
 {"package":"sumsec-skills"}
 {"package":"superdesign-dsh"}
+{"package":"supergraph"}
 {"package":"superpowers-dsh"}
 {"package":"task-complete-notify-for-dsh"}
 {"package":"task-passport"}
