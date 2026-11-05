@@ -238,6 +238,7 @@
 {"package":"@dsh-electron/dsh-plugin-multi-root-workspace"}
 {"package":"@dsh-electron/dsh-theme-studio"}
 {"package":"@dsh-error-tell/client-tell"}
+{"package":"@dsh-external/dsh-automation"}
 {"package":"@dsh-external/dsh-blender-plugin"}
 {"package":"@dsh-external/dsh-client-ui-skin-deep-whale-day-night"}
 {"package":"@dsh-external/dsh-novel-writer"}
@@ -1416,6 +1417,7 @@
 {"package":"dsh-auth-everying"}
 {"package":"dsh-auth-gate"}
 {"package":"dsh-auth-gateway"}
+{"package":"dsh-auth-in-one"}
 {"package":"dsh-auth-tunnel"}
 {"package":"dsh-auto-approval-frame"}
 {"package":"dsh-auto-approve"}
@@ -1708,6 +1710,7 @@
 {"package":"dsh-codefall"}
 {"package":"dsh-codegraph-project"}
 {"package":"dsh-codevault"}
+{"package":"dsh-codex"}
 {"package":"dsh-codex-auth"}
 {"package":"dsh-codex-bridge"}
 {"package":"dsh-codex-community"}
@@ -3282,6 +3285,7 @@
 {"package":"dsh-plugin-team-subagent-control"}
 {"package":"dsh-plugin-teamflow"}
 {"package":"dsh-plugin-tempguard"}
+{"package":"dsh-plugin-template"}
 {"package":"dsh-plugin-terminal"}
 {"package":"dsh-plugin-tether"}
 {"package":"dsh-plugin-thinking-api"}
