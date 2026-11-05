@@ -148,6 +148,7 @@
 {"package":"@cloudbase/dsh-plugin"}
 {"package":"@cloudplugin/scenes-skill-creator"}
 {"package":"@co-engram/dsh"}
+{"package":"@cocofhu/anime-find"}
 {"package":"@codefisher798/dsh-file-link-menu"}
 {"package":"@coderrdd/dsh-rdd-explore"}
 {"package":"@coderrdd/dsh-rdd-goal-tree"}
@@ -1162,6 +1163,7 @@
 {"package":"better-model-provider"}
 {"package":"bgjobs"}
 {"package":"billion-context"}
+{"package":"billion-context-dsh"}
 {"package":"brooks-lint"}
 {"package":"cc-safety-net"}
 {"package":"ccs-balance"}
@@ -1196,6 +1198,7 @@
 {"package":"deepseek-cost-meter"}
 {"package":"deepseek-desk-pet"}
 {"package":"deepseek-harness-background"}
+{"package":"deepseek-harness-for-vscode"}
 {"package":"deepseek-harness-intelligent-ui"}
 {"package":"deepseek-harness-novel-studio"}
 {"package":"deepseek-harness-sentinel"}
@@ -2577,6 +2580,7 @@
 {"package":"dsh-lsp-diagnostics"}
 {"package":"dsh-lumina-tarot"}
 {"package":"dsh-m"}
+{"package":"dsh-mac-companion"}
 {"package":"dsh-mac-computer-use"}
 {"package":"dsh-mac-keep-awake"}
 {"package":"dsh-macos-computer-use"}
@@ -4525,6 +4529,7 @@
 {"package":"dsh-wsl-portproxy"}
 {"package":"dsh-wsl-power"}
 {"package":"dsh-wsl-rclone"}
+{"package":"dsh-wsl-registry"}
 {"package":"dsh-wsl-search"}
 {"package":"dsh-wsl-secret"}
 {"package":"dsh-wsl-service"}
@@ -4642,6 +4647,7 @@
 {"package":"lunheng-article-pipeline"}
 {"package":"maa-dsh-skill"}
 {"package":"mackorn-cone-crusher"}
+{"package":"makocode"}
 {"package":"martty"}
 {"package":"mattpocock-skills-dsh"}
 {"package":"mattpocock-skills-dsh-zh"}
@@ -4703,6 +4709,7 @@
 {"package":"request-frame-preview"}
 {"package":"rotifer"}
 {"package":"routinekit"}
+{"package":"ru-marketplace-mcp-dsh"}
 {"package":"rulemux-dsh"}
 {"package":"sage-mem"}
 {"package":"sage-reminder"}
