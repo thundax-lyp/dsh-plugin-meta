@@ -243,6 +243,7 @@
 {"package":"@dsh-external/dsh-session-turn-eta"}
 {"package":"@dsh-external/dsh-workspace-menu"}
 {"package":"@dsh-external/dsh-zero-residence"}
+{"package":"@dsh-external/workflow"}
 {"package":"@dsh-fly/dsh-energy-orb"}
 {"package":"@dsh-fly/dsh-plugin-fly-skins"}
 {"package":"@dsh-ft/dsh-fft-paper-trading"}
@@ -1487,6 +1488,7 @@
 {"package":"dsh-better-stats"}
 {"package":"dsh-better-ux"}
 {"package":"dsh-better-workspace"}
+{"package":"dsh-better-workspace-file-manager"}
 {"package":"dsh-bid-health-check"}
 {"package":"dsh-bili-danmaku-lite"}
 {"package":"dsh-bili-jar"}
@@ -3765,6 +3767,7 @@
 {"package":"dsh-settings-nav-manager"}
 {"package":"dsh-settings-nav-order"}
 {"package":"dsh-settings-nav-organizer"}
+{"package":"dsh-sev"}
 {"package":"dsh-sgme"}
 {"package":"dsh-shadertoy-skin"}
 {"package":"dsh-shanqi-theme"}
@@ -4680,6 +4683,7 @@
 {"package":"oil-dsh-title"}
 {"package":"onebox-dsh-bridge"}
 {"package":"onekey-models"}
+{"package":"open-record-replay"}
 {"package":"open-sea-skin"}
 {"package":"oss-prompt-optimizer"}
 {"package":"owndsh-plugin"}

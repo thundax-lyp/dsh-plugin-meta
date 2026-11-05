@@ -201,7 +201,7 @@
 {"repository_id":1273950731,"node_id":"R_kgDOS-7yCw","repository":"yinnho/aginxbrowser","npm_packages":["dsh-aginxbrowser"],"source_repositories":["yinnho/aginxbrowser"]}
 {"repository_id":1274335260,"node_id":"R_kgDOS_TQHA","repository":"zuorn/Tydora","npm_packages":[],"source_repositories":["zuorn/tydora"]}
 {"repository_id":1275436512,"node_id":"R_kgDOTAWd4A","repository":"EthanYoQ/AI-Novel-Writer","npm_packages":["@ethanyoq/dsh-ai-novel-writer"],"source_repositories":["ethanyoq/ai-novel-writer"]}
-{"repository_id":1276135867,"node_id":"R_kgDOTBBJuw","repository":"humblebanana/open-record-replay","npm_packages":[],"source_repositories":["humblebanana/open-record-replay"]}
+{"repository_id":1276135867,"node_id":"R_kgDOTBBJuw","repository":"humblebanana/open-record-replay","npm_packages":["open-record-replay"],"source_repositories":["humblebanana/open-record-replay"]}
 {"repository_id":1276665883,"node_id":"R_kgDOTBhgGw","repository":"Tencent/BrowserSkill","npm_packages":["@wxg-prc-cpg/browser-skill-dsh-plugin"],"source_repositories":["tencent/browserskill"]}
 {"repository_id":1276714299,"node_id":"R_kgDOTBkdOw","repository":"AmethystLuna/embedded-workbench","npm_packages":["dsh-embedded-workbench"],"source_repositories":["amethystluna/embedded-workbench"]}
 {"repository_id":1277694349,"node_id":"R_kgDOTCgRjQ","repository":"huawolf/news-agent","npm_packages":[],"source_repositories":["huawolf/news-agent"]}
@@ -441,7 +441,7 @@
 {"repository_id":1332215698,"node_id":"R_kgDOT2f_kg","repository":"shenjackyuanjie/dsh-cot-summary","npm_packages":[],"source_repositories":["shenjackyuanjie/dsh-cot-summary"]}
 {"repository_id":1332222725,"node_id":"R_kgDOT2gbBQ","repository":"hellodigua/dsh-emoji","npm_packages":["dsh-emoji"],"source_repositories":["hellodigua/dsh-emoji"]}
 {"repository_id":1332233946,"node_id":"R_kgDOT2hG2g","repository":"chen-001/dsh-grok-tui","npm_packages":[],"source_repositories":["chen-001/dsh-grok-tui"]}
-{"repository_id":1332243516,"node_id":"R_kgDOT2hsPA","repository":"omdsh-dev/dsh_workflow","npm_packages":[],"source_repositories":["omdsh-dev/dsh_workflow"]}
+{"repository_id":1332243516,"node_id":"R_kgDOT2hsPA","repository":"omdsh-dev/dsh_workflow","npm_packages":["@dsh-external/workflow"],"source_repositories":["omdsh-dev/dsh_workflow"]}
 {"repository_id":1332277078,"node_id":"R_kgDOT2jvVg","repository":"CanglongCl/dsh-web-review","npm_packages":[],"source_repositories":["canglongcl/dsh-web-review"]}
 {"repository_id":1332322629,"node_id":"R_kgDOT2mhRQ","repository":"bill9109/dsh-conversation-share","npm_packages":[],"source_repositories":["bill9109/dsh-conversation-share"]}
 {"repository_id":1332322835,"node_id":"R_kgDOT2miEw","repository":"renat3u/tonghuashun-webui","npm_packages":[],"source_repositories":["renat3u/tonghuashun-webui"]}
@@ -3806,7 +3806,7 @@
 {"repository_id":1346870986,"node_id":"R_kgDOUEeeyg","repository":"SuCriss/dsh-leekbox","npm_packages":["dsh-leekbox"],"source_repositories":["sucriss/dsh-leekbox"]}
 {"repository_id":1346872537,"node_id":"R_kgDOUEek2Q","repository":"yoshino-xiao7/dsh-grok-provider","npm_packages":["dsh-grok-provider"],"source_repositories":["yoshino-xiao7/dsh-grok-provider"]}
 {"repository_id":1346872592,"node_id":"R_kgDOUEelEA","repository":"AFAP/dsh-trajectory-traceview","npm_packages":[],"source_repositories":["afap/dsh-trajectory-traceview"]}
-{"repository_id":1346872712,"node_id":"R_kgDOUEeliA","repository":"Buzzso/dsh-sev","npm_packages":[],"source_repositories":["buzzso/dsh-sev"]}
+{"repository_id":1346872712,"node_id":"R_kgDOUEeliA","repository":"Buzzso/dsh-sev","npm_packages":["dsh-sev"],"source_repositories":["buzzso/dsh-sev"]}
 {"repository_id":1346880957,"node_id":"R_kgDOUEfFvQ","repository":"lengzhanbao/dsh-raiden-theme","npm_packages":[],"source_repositories":["lengzhanbao/dsh-raiden-theme"]}
 {"repository_id":1346881255,"node_id":"R_kgDOUEfG5w","repository":"lim12137/dsh-llm-extra-retry","npm_packages":[],"source_repositories":["lim12137/dsh-llm-extra-retry"]}
 {"repository_id":1346899441,"node_id":"R_kgDOUEgN8Q","repository":"TussalZeus18028/dsh-open-folder","npm_packages":[],"source_repositories":["tussalzeus18028/dsh-open-folder"]}
@@ -7316,7 +7316,7 @@
 {"repository_id":1425073734,"node_id":"R_kgDOVPDmRg","repository":"873360545/dsh-auto-shutdown","npm_packages":["@873360545/dsh-auto-shutdown"],"source_repositories":["873360545/dsh-auto-shutdown"]}
 {"repository_id":1425082493,"node_id":"R_kgDOVPEIfQ","repository":"Bai-Ziyi/dsh-proxy-control","npm_packages":[],"source_repositories":["bai-ziyi/dsh-proxy-control"]}
 {"repository_id":1425084684,"node_id":"R_kgDOVPERDA","repository":"ai-v5/LLMDSHPlugin_token-usage","npm_packages":[],"source_repositories":["ai-v5/llmdshplugin_token-usage"]}
-{"repository_id":1425087677,"node_id":"R_kgDOVPEcvQ","repository":"Arrosam/dsh-better-workspace-file-manager","npm_packages":[],"source_repositories":["arrosam/dsh-better-workspace-file-manager"]}
+{"repository_id":1425087677,"node_id":"R_kgDOVPEcvQ","repository":"Arrosam/dsh-better-workspace-file-manager","npm_packages":["dsh-better-workspace-file-manager"],"source_repositories":["arrosam/dsh-better-workspace-file-manager"]}
 {"repository_id":1425088937,"node_id":"R_kgDOVPEhqQ","repository":"ChendarCe/dsh-perf-hud","npm_packages":[],"source_repositories":["chendarce/dsh-perf-hud"]}
 {"repository_id":1425089446,"node_id":"R_kgDOVPEjpg","repository":"StarMoon-win/dsh-restart-plugin","npm_packages":["dsh-restart-desktop"],"source_repositories":["starmoon-win/dsh-restart-plugin"]}
 {"repository_id":1425108451,"node_id":"R_kgDOVPFt4w","repository":"vlln/dsh-pancha","npm_packages":["dsh-pancha"],"source_repositories":["vlln/dsh-pancha"]}
