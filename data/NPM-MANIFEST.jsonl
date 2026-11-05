@@ -3573,6 +3573,7 @@
 {"package":"dsh-provider-proxy"}
 {"package":"dsh-provider-qoder"}
 {"package":"dsh-provider-show"}
+{"package":"dsh-providers-hub"}
 {"package":"dsh-proxy-on-demand"}
 {"package":"dsh-proxy-routes"}
 {"package":"dsh-proxy-routing"}
@@ -3988,6 +3989,7 @@
 {"package":"dsh-sidebar-trim"}
 {"package":"dsh-sidecard-ask"}
 {"package":"dsh-sidenote"}
+{"package":"dsh-sieve"}
 {"package":"dsh-simple-restart"}
 {"package":"dsh-simple-view"}
 {"package":"dsh-simple-wiki-memory"}
@@ -4086,6 +4088,7 @@
 {"package":"dsh-starter-zh"}
 {"package":"dsh-startup-guard"}
 {"package":"dsh-startup-screen"}
+{"package":"dsh-startup-secret"}
 {"package":"dsh-state-notifier"}
 {"package":"dsh-status-bar-plugin"}
 {"package":"dsh-status-rotator"}
@@ -4556,6 +4559,7 @@
 {"package":"dsh-web-mobile"}
 {"package":"dsh-web-mobile-fix"}
 {"package":"dsh-web-network-optimizer"}
+{"package":"dsh-web-plugin-manager"}
 {"package":"dsh-web-preview"}
 {"package":"dsh-web-recorder"}
 {"package":"dsh-web-restart"}
