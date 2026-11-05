@@ -239,6 +239,7 @@
 {"package":"@dsh-electron/dsh-theme-studio"}
 {"package":"@dsh-error-tell/client-tell"}
 {"package":"@dsh-external/dsh-blender-plugin"}
+{"package":"@dsh-external/dsh-client-ui-skin-deep-whale-day-night"}
 {"package":"@dsh-external/dsh-redteam-model"}
 {"package":"@dsh-external/dsh-session-turn-eta"}
 {"package":"@dsh-external/dsh-workspace-menu"}
@@ -421,6 +422,7 @@
 {"package":"@iasiv5/dsh-skins"}
 {"package":"@iasiv5/dsh-skip-browser-auth"}
 {"package":"@icedcola/dsh-provider-veark"}
+{"package":"@icelily/dsh-gitbash-preset"}
 {"package":"@idoall/dsh-notify"}
 {"package":"@idoall/dsh-session-colors"}
 {"package":"@ifrankwang/openspec-agents"}
@@ -1182,6 +1184,7 @@
 {"package":"cloudbase-ai-toolkit"}
 {"package":"cn-intel-mcp-dsh"}
 {"package":"cn-linebreak"}
+{"package":"codex-guard"}
 {"package":"codex2dsh"}
 {"package":"codsh-bundle"}
 {"package":"computer-user"}
@@ -2205,10 +2208,12 @@
 {"package":"dsh-gemini-kitten-widget"}
 {"package":"dsh-gemini-tool-schema"}
 {"package":"dsh-genbox-plugin"}
+{"package":"dsh-generative-ui"}
 {"package":"dsh-genshin-account"}
 {"package":"dsh-genshin-lisa-notice"}
 {"package":"dsh-genshin-pet"}
 {"package":"dsh-genui"}
+{"package":"dsh-geochat-plugin"}
 {"package":"dsh-geolibre"}
 {"package":"dsh-geoserver"}
 {"package":"dsh-get-memory"}
@@ -4311,6 +4316,7 @@
 {"package":"dsh-voice-control"}
 {"package":"dsh-voice-input-web"}
 {"package":"dsh-voice-mode"}
+{"package":"dsh-voice-prompt-enhancer"}
 {"package":"dsh-voice-realtime"}
 {"package":"dsh-voice-scribe"}
 {"package":"dsh-voice-talk"}
