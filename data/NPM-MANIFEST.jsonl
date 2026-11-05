@@ -218,6 +218,7 @@
 {"package":"@dingyi222666/dsh-wakatime"}
 {"package":"@dmh2002/dsh-connect-qoder"}
 {"package":"@dnalec/dsh-auto-approve"}
+{"package":"@dockyard-dsh/plugin"}
 {"package":"@domitor-syh/dsh-knowbase"}
 {"package":"@domitor-syh/dsh-rollback"}
 {"package":"@domitor-syh/dsh-ui-skin-switcher"}
@@ -776,6 +777,7 @@
 {"package":"@opdsh/unity-plugin"}
 {"package":"@open-agfs/dsh-agfs"}
 {"package":"@open-pets/dsh"}
+{"package":"@openbiliclaw/dsh-plugin"}
 {"package":"@openbkn/dsh-business-context"}
 {"package":"@opencode2dsh/dsh-plugin"}
 {"package":"@opencues/dsh"}
@@ -783,6 +785,7 @@
 {"package":"@opendsh/dsh-plugin-setting-mcp"}
 {"package":"@openma/deepseek-harness-acp"}
 {"package":"@openmaic/dsh-openmaic"}
+{"package":"@openquantum/harness-web-branding"}
 {"package":"@openviking/dsh-memory-plugin"}
 {"package":"@orbisapp/remote-dsh"}
 {"package":"@orderg-x/dsh-mobile"}
@@ -1722,6 +1725,7 @@
 {"package":"dsh-claude-plugin-loader"}
 {"package":"dsh-claude-slider"}
 {"package":"dsh-claude-style"}
+{"package":"dsh-claude-ux"}
 {"package":"dsh-clawtouch"}
 {"package":"dsh-clean-desktop-shell"}
 {"package":"dsh-clean-desktop-shell-pro"}
@@ -4340,6 +4344,7 @@
 {"package":"dsh-toomuch-plugins"}
 {"package":"dsh-topbar"}
 {"package":"dsh-totp"}
+{"package":"dsh-toy"}
 {"package":"dsh-tps"}
 {"package":"dsh-training-lens"}
 {"package":"dsh-translate"}
@@ -4816,6 +4821,7 @@
 {"package":"feiyu-memory"}
 {"package":"fitmeet-dsh-plugin"}
 {"package":"focus-guard"}
+{"package":"forkprobe-dsh"}
 {"package":"freecodego"}
 {"package":"get-fable"}
 {"package":"gewu-tools"}
@@ -4972,5 +4978,6 @@
 {"package":"xiao-ui-theme-ts"}
 {"package":"yihe-packs-dsh"}
 {"package":"yuezhiye-dsh-closet"}
+{"package":"zat-dsh-engine"}
 {"package":"zcode-usage-stats"}
 {"package":"zerotoken-skill"}
