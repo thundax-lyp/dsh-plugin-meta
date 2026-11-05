@@ -282,6 +282,8 @@
 {"package":"@dsh-self-evolving/core"}
 {"package":"@dsh-ssh/dsh-ssh"}
 {"package":"@dsh-suite/plugin-manager"}
+{"package":"@dsh-suite/plugin-notify"}
+{"package":"@dsh-suite/plugin-session-export"}
 {"package":"@dsh-suite/plugin-team-board"}
 {"package":"@dsh-use/wallpaper-engine"}
 {"package":"@dshline/dshline"}
@@ -825,6 +827,7 @@
 {"package":"@rain-kl/dsh-preset-plus"}
 {"package":"@raphelutumn/dsh-change-budget"}
 {"package":"@ratel-works/dsh-lumina"}
+{"package":"@raullenchai/dsh-provider"}
 {"package":"@rayadesu/dsh-billing"}
 {"package":"@rebornace/dsh-tracescope"}
 {"package":"@refkit/dsh-plugin"}
@@ -1231,6 +1234,7 @@
 {"package":"computer-user-vision"}
 {"package":"context-vista"}
 {"package":"cot-lint"}
+{"package":"create-dsh-plugin"}
 {"package":"cua-computer-use"}
 {"package":"cute-fat-fish-pet"}
 {"package":"dafy-whale-theme"}
@@ -1329,6 +1333,7 @@
 {"package":"dsh-agnes-media"}
 {"package":"dsh-agnes-studio"}
 {"package":"dsh-agnes-tools"}
+{"package":"dsh-agy"}
 {"package":"dsh-agy-cli"}
 {"package":"dsh-agy-link"}
 {"package":"dsh-agy-provider"}
@@ -4262,6 +4267,7 @@
 {"package":"dsh-timeline"}
 {"package":"dsh-tingdong"}
 {"package":"dsh-tinyfish-search"}
+{"package":"dsh-tinytitan"}
 {"package":"dsh-title-prefix"}
 {"package":"dsh-tm-guard"}
 {"package":"dsh-tmux-cc"}
@@ -4569,6 +4575,7 @@
 {"package":"dsh-web-search-zhipu"}
 {"package":"dsh-web-service"}
 {"package":"dsh-web-shell"}
+{"package":"dsh-web-startup-auth"}
 {"package":"dsh-web-tools"}
 {"package":"dsh-web-url-view"}
 {"package":"dsh-webannotate"}
