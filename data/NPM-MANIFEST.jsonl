@@ -85,6 +85,7 @@
 {"package":"@at-series/dsh-at-terminal"}
 {"package":"@avernet-plugin/deepseek-harness-channel-bcn"}
 {"package":"@awiki/dsh-plugin"}
+{"package":"@axiaohungry/dsh-llm-workbuddy"}
 {"package":"@ayanehana/dsh-reasoning-effort"}
 {"package":"@badai147/dsh-ocgo-usage"}
 {"package":"@banana-peeljj12/dsh-trellis"}
@@ -288,6 +289,7 @@
 {"package":"@duke-dsh-plugins/dsh-token-stats"}
 {"package":"@duke-dsh-plugins/dsh-whaleharbor-pet"}
 {"package":"@duke-dsh-plugins/whaleharbor-promo"}
+{"package":"@eddyskywalker/dsh-chatgpt-subscription"}
 {"package":"@edge-sky/dsh-oauth-adapter"}
 {"package":"@eduwork/dsh-annotation"}
 {"package":"@eduwork/dsh-knowledge-studio"}
@@ -749,6 +751,7 @@
 {"package":"@oh-agent/dsh-mcp-manager"}
 {"package":"@oh-my-dsh/stent-pack"}
 {"package":"@oihai/dsh-harness-trace"}
+{"package":"@oil-oil/dsh-vision"}
 {"package":"@omdsh-dev/dsh-drag-and-drop"}
 {"package":"@omicverse/dsh-omicos"}
 {"package":"@opdsh/unity-plugin"}
@@ -1204,6 +1207,7 @@
 {"package":"deepseek-computer-use"}
 {"package":"deepseek-cost-meter"}
 {"package":"deepseek-desk-pet"}
+{"package":"deepseek-flow"}
 {"package":"deepseek-harness-background"}
 {"package":"deepseek-harness-for-vscode"}
 {"package":"deepseek-harness-intelligent-ui"}
@@ -1258,6 +1262,7 @@
 {"package":"dsh-agent-blackbox"}
 {"package":"dsh-agent-board"}
 {"package":"dsh-agent-canvas"}
+{"package":"dsh-agent-compare"}
 {"package":"dsh-agent-conductor"}
 {"package":"dsh-agent-foreman"}
 {"package":"dsh-agent-frugality"}
@@ -1889,6 +1894,7 @@
 {"package":"dsh-custom-instructions"}
 {"package":"dsh-custom-js"}
 {"package":"dsh-custom-mode"}
+{"package":"dsh-custom-skin"}
 {"package":"dsh-custom-subagents"}
 {"package":"dsh-customs-doc-check"}
 {"package":"dsh-cutesnowgirl-background"}
@@ -2479,6 +2485,7 @@
 {"package":"dsh-knj-session-management"}
 {"package":"dsh-knj-version-control"}
 {"package":"dsh-knj-workflow"}
+{"package":"dsh-knowledge"}
 {"package":"dsh-knowledge-base"}
 {"package":"dsh-knowledge-canvas"}
 {"package":"dsh-koboldcpp-hands"}
@@ -3925,6 +3932,7 @@
 {"package":"dsh-stock-market"}
 {"package":"dsh-stock-mentions"}
 {"package":"dsh-stock-quotes"}
+{"package":"dsh-stock-watch"}
 {"package":"dsh-stop-service"}
 {"package":"dsh-store"}
 {"package":"dsh-story-mode"}
@@ -4637,6 +4645,7 @@
 {"package":"gongwen-skill"}
 {"package":"gord-dsh-worktree"}
 {"package":"graph-memory"}
+{"package":"green-dsh-desktop"}
 {"package":"gzhflow"}
 {"package":"hanai-investment-dsh"}
 {"package":"harmonyos-dev-mcp-for-dsh"}
