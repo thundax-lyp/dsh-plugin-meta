@@ -3093,6 +3093,7 @@
 {"package":"dsh-plugin-agent-tree"}
 {"package":"dsh-plugin-ai-switch"}
 {"package":"dsh-plugin-aitelier"}
+{"package":"dsh-plugin-animegarden"}
 {"package":"dsh-plugin-approval-alert"}
 {"package":"dsh-plugin-appshot"}
 {"package":"dsh-plugin-archive-manager"}
@@ -3651,6 +3652,7 @@
 {"package":"dsh-secure-audit"}
 {"package":"dsh-security-guard"}
 {"package":"dsh-security-judge"}
+{"package":"dsh-see-now"}
 {"package":"dsh-select-quote"}
 {"package":"dsh-select-translate"}
 {"package":"dsh-selection-quote"}
@@ -4502,6 +4504,7 @@
 {"package":"dsh-wsl-hostsvc"}
 {"package":"dsh-wsl-im"}
 {"package":"dsh-wsl-jev"}
+{"package":"dsh-wsl-k8s"}
 {"package":"dsh-wsl-launch"}
 {"package":"dsh-wsl-llamacpp"}
 {"package":"dsh-wsl-mail"}
@@ -4517,6 +4520,7 @@
 {"package":"dsh-wsl-perf"}
 {"package":"dsh-wsl-picker"}
 {"package":"dsh-wsl-pkg"}
+{"package":"dsh-wsl-playwright"}
 {"package":"dsh-wsl-port"}
 {"package":"dsh-wsl-portproxy"}
 {"package":"dsh-wsl-power"}
