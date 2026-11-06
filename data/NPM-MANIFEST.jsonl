@@ -101,6 +101,7 @@
 {"package":"@beatapi/dsh-media"}
 {"package":"@beatapi/dsh-social"}
 {"package":"@beforewave/dsh-with-chatgpt"}
+{"package":"@beiyege-01/dsh-voice-ai-girlfriend"}
 {"package":"@benrong/dsh-prompt-polish"}
 {"package":"@beyondandsharp/dsh-plugin-notoken"}
 {"package":"@beyondandsharp/dsh-plugin-scaling"}
@@ -423,6 +424,8 @@
 {"package":"@huanghai-lab/dsh-custom-instructions"}
 {"package":"@huanhuan123/dsh-prompt-optimizer"}
 {"package":"@huanlin/dsh-plugin-better-sidebar-plugin-office"}
+{"package":"@huanlin/dsh-plugin-mineru"}
+{"package":"@huanlin/dsh-plugin-session-delete"}
 {"package":"@hui-xu-ai/dsh-wensu"}
 {"package":"@huiliyi37/dsh-tianshu-tui"}
 {"package":"@huliux/dsh-asr-plugin"}
@@ -1113,6 +1116,7 @@
 {"package":"@yugasun/dsh-web-search"}
 {"package":"@yugoo-design/dsh-design-system-dsh"}
 {"package":"@yunmiao/studymate"}
+{"package":"@yunxii/dsh-client-ui-skin-maid-whale-webui"}
 {"package":"@yuquexianzhou/solarized-dsh-theme"}
 {"package":"@yushenghai/dsh-memory-plugin"}
 {"package":"@yxzpro/agent-acta"}
@@ -2088,6 +2092,7 @@
 {"package":"dsh-dingtalk-channel"}
 {"package":"dsh-dingtalk-self"}
 {"package":"dsh-diorama"}
+{"package":"dsh-directorx"}
 {"package":"dsh-disable-unofficial-plugins"}
 {"package":"dsh-disk-manager"}
 {"package":"dsh-dispatch"}
@@ -2562,6 +2567,7 @@
 {"package":"dsh-jev-ultrafast"}
 {"package":"dsh-jev-verify"}
 {"package":"dsh-jiey-browser"}
+{"package":"dsh-jingling"}
 {"package":"dsh-jira-tasks"}
 {"package":"dsh-jj-panel"}
 {"package":"dsh-job-progress"}
@@ -3090,6 +3096,7 @@
 {"package":"dsh-oomol"}
 {"package":"dsh-open-code-review"}
 {"package":"dsh-open-dream-rsi"}
+{"package":"dsh-open-in-vscode"}
 {"package":"dsh-open-in-x"}
 {"package":"dsh-open-native"}
 {"package":"dsh-open-with"}
@@ -3317,6 +3324,7 @@
 {"package":"dsh-plugin-finance-data"}
 {"package":"dsh-plugin-focus"}
 {"package":"dsh-plugin-folder-trust"}
+{"package":"dsh-plugin-garmin-connect"}
 {"package":"dsh-plugin-gate"}
 {"package":"dsh-plugin-genui"}
 {"package":"dsh-plugin-git-composer"}
@@ -4262,6 +4270,7 @@
 {"package":"dsh-think-bounce-pet"}
 {"package":"dsh-think-translate"}
 {"package":"dsh-think-ux"}
+{"package":"dsh-think-zh"}
 {"package":"dsh-thinking-bar"}
 {"package":"dsh-thinking-levels"}
 {"package":"dsh-thinking-slider"}
@@ -4292,6 +4301,7 @@
 {"package":"dsh-title-prefix"}
 {"package":"dsh-tm-guard"}
 {"package":"dsh-tmux-cc"}
+{"package":"dsh-to-figma"}
 {"package":"dsh-todo-board"}
 {"package":"dsh-todo-checklist"}
 {"package":"dsh-todo-float-ball"}
@@ -4428,6 +4438,7 @@
 {"package":"dsh-ui-scale"}
 {"package":"dsh-ui-settings-icons"}
 {"package":"dsh-ui-sound"}
+{"package":"dsh-ui-status-label"}
 {"package":"dsh-ui-three-body"}
 {"package":"dsh-ui-tweaks"}
 {"package":"dsh-ui-ux-pro-max"}
@@ -4860,6 +4871,7 @@
 {"package":"github-explore"}
 {"package":"github-release-accelerator"}
 {"package":"glm-coding-quota"}
+{"package":"godot-bridge"}
 {"package":"gongwen-skill"}
 {"package":"gord-dsh-worktree"}
 {"package":"graph-memory"}
