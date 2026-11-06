@@ -506,6 +506,7 @@
 {"package":"@kb1slnlabs/dsh-ponytail"}
 {"package":"@keenable/dsh-keenable"}
 {"package":"@kelearns/dsh-navigation-bar"}
+{"package":"@keleus/deepseek-pet"}
 {"package":"@kenz1117/dsh-engram"}
 {"package":"@kenz1117/dsh-ui-rainbowspeak"}
 {"package":"@kenz1117/dsh-ui-usage-billing"}
@@ -732,6 +733,7 @@
 {"package":"@moruteaven/dsh-key-panel"}
 {"package":"@moruteaven/dsh-model-quickslots"}
 {"package":"@moyu-good/dsh-lark-bridge"}
+{"package":"@mrrisega/dsh-remote"}
 {"package":"@mrweicodes/dsh-permgate"}
 {"package":"@mstar-harness/dsh"}
 {"package":"@mtl-academic/dsh-patent"}
@@ -1238,6 +1240,7 @@
 {"package":"computer-user-vision"}
 {"package":"context-editor-deepseek-harness"}
 {"package":"context-vista"}
+{"package":"cordis-plugin-sofagent-audit"}
 {"package":"cot-lint"}
 {"package":"create-dsh-plugin"}
 {"package":"cua-computer-use"}
@@ -1258,6 +1261,7 @@
 {"package":"deepseek-harness-novel-studio"}
 {"package":"deepseek-harness-sentinel"}
 {"package":"deepseek-harness-ultra-slash"}
+{"package":"deepseek-harness-vscode"}
 {"package":"deepseek-harness-wallet"}
 {"package":"deepseek-harness-wallet-patched"}
 {"package":"deepseek-harness-zh-cn"}
@@ -2368,12 +2372,14 @@
 {"package":"dsh-global-todo"}
 {"package":"dsh-gme-test-generator"}
 {"package":"dsh-go-balance"}
+{"package":"dsh-godot-skill"}
 {"package":"dsh-gokifu-compact"}
 {"package":"dsh-gongwen-word-check"}
 {"package":"dsh-goodies"}
 {"package":"dsh-gopeed-downloader"}
 {"package":"dsh-gotify-notify"}
 {"package":"dsh-gov"}
+{"package":"dsh-gov-portal"}
 {"package":"dsh-gpt-image-playground"}
 {"package":"dsh-gpt-link"}
 {"package":"dsh-gpt-niang-quota"}
@@ -2480,6 +2486,7 @@
 {"package":"dsh-ikun-pet"}
 {"package":"dsh-im-channel"}
 {"package":"dsh-im-companion"}
+{"package":"dsh-im-gateway"}
 {"package":"dsh-im-hub"}
 {"package":"dsh-im-qq"}
 {"package":"dsh-im-union"}
@@ -3592,6 +3599,7 @@
 {"package":"dsh-pulse"}
 {"package":"dsh-pulse-rail"}
 {"package":"dsh-punky-swarm"}
+{"package":"dsh-purge"}
 {"package":"dsh-purge-community"}
 {"package":"dsh-push-host"}
 {"package":"dsh-push-notify"}
@@ -3802,6 +3810,7 @@
 {"package":"dsh-safety-ledger-check"}
 {"package":"dsh-sakurafrp"}
 {"package":"dsh-salary-flap"}
+{"package":"dsh-sandbox-escalation-fix"}
 {"package":"dsh-sandbox-noop-escalation"}
 {"package":"dsh-save-button"}
 {"package":"dsh-save-chat"}
