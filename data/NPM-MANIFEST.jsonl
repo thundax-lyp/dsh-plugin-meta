@@ -899,6 +899,7 @@
 {"package":"@sieuno/dsh-native-collab"}
 {"package":"@signalight/dsh-codex-pet"}
 {"package":"@silentrainhero/dsh-memory-chain"}
+{"package":"@skyf0xx/hedgehog"}
 {"package":"@skylerfee/dsh-llm-opencode-go-live"}
 {"package":"@sleetdrop/dsh-plugin-topology"}
 {"package":"@sligqoer/dsh-usage-stats"}
@@ -1228,6 +1229,7 @@
 {"package":"ai-residue-cleaner"}
 {"package":"aibox-control-center"}
 {"package":"air-pixel-liquid-glass"}
+{"package":"amadeus-for-dsh"}
 {"package":"answer-me-with-html"}
 {"package":"argo-search"}
 {"package":"attention-plugins"}
@@ -1826,6 +1828,7 @@
 {"package":"dsh-cloudflare-access"}
 {"package":"dsh-cloudflare-media"}
 {"package":"dsh-cloudq"}
+{"package":"dsh-code"}
 {"package":"dsh-code-collector"}
 {"package":"dsh-code-coverage"}
 {"package":"dsh-code-graph-plugin"}
@@ -5137,6 +5140,7 @@
 {"package":"treg-dsh"}
 {"package":"tripo-dsh"}
 {"package":"uagent-sync-dsh"}
+{"package":"uiskin-theme"}
 {"package":"ultra-documents"}
 {"package":"universal-plugin-hub"}
 {"package":"upstream-radar"}
