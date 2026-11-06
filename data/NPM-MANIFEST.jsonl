@@ -100,6 +100,7 @@
 {"package":"@beatapi/dsh-geo"}
 {"package":"@beatapi/dsh-media"}
 {"package":"@beatapi/dsh-social"}
+{"package":"@beforewave/dsh-with-chatgpt"}
 {"package":"@benrong/dsh-prompt-polish"}
 {"package":"@beyondandsharp/dsh-plugin-notoken"}
 {"package":"@beyondandsharp/dsh-plugin-scaling"}
@@ -209,6 +210,7 @@
 {"package":"@dennisrongo/dsh-theme"}
 {"package":"@dennisrongo/dsh-weather"}
 {"package":"@device1999/dsh-session-archive-delete"}
+{"package":"@dhicoc/dsh-chinese-traditional-wisdom-skill"}
 {"package":"@dhicoc/dsh-codex-web-search-mcp"}
 {"package":"@dhicoc/dsh-reverse-skill"}
 {"package":"@dhicoc/dsh-wuyun-liuqi"}
@@ -407,6 +409,7 @@
 {"package":"@heeweelee/dsh-session-plugin"}
 {"package":"@hellosz/dsh-pets"}
 {"package":"@hhuangpanda/dsh-automation"}
+{"package":"@hiai-gg/dsh-docsmint"}
 {"package":"@hjbztlbr/dsh-client-ui-skin-verdandi"}
 {"package":"@hjdd14/dsh-toolong-warning"}
 {"package":"@hjj345345/dsh-sm-context-piano"}
@@ -419,6 +422,7 @@
 {"package":"@hr98w/dsh-memory"}
 {"package":"@huanghai-lab/dsh-custom-instructions"}
 {"package":"@huanhuan123/dsh-prompt-optimizer"}
+{"package":"@huanlin/dsh-plugin-better-sidebar-plugin-office"}
 {"package":"@hui-xu-ai/dsh-wensu"}
 {"package":"@huiliyi37/dsh-tianshu-tui"}
 {"package":"@huliux/dsh-asr-plugin"}
@@ -1232,6 +1236,7 @@
 {"package":"codsh-bundle"}
 {"package":"computer-user"}
 {"package":"computer-user-vision"}
+{"package":"context-editor-deepseek-harness"}
 {"package":"context-vista"}
 {"package":"cot-lint"}
 {"package":"create-dsh-plugin"}
@@ -1286,6 +1291,7 @@
 {"package":"dsh-achievement-helper"}
 {"package":"dsh-acp-door"}
 {"package":"dsh-acp-enhanced"}
+{"package":"dsh-action"}
 {"package":"dsh-action-hub"}
 {"package":"dsh-actions"}
 {"package":"dsh-activity-bell"}
@@ -2064,6 +2070,7 @@
 {"package":"dsh-devquest"}
 {"package":"dsh-devtoolbox"}
 {"package":"dsh-devtools"}
+{"package":"dsh-dfy"}
 {"package":"dsh-diagram"}
 {"package":"dsh-dialog-fence"}
 {"package":"dsh-dice-game"}
@@ -3610,6 +3617,7 @@
 {"package":"dsh-qqbot-muu"}
 {"package":"dsh-quality-lens"}
 {"package":"dsh-quality-score"}
+{"package":"dsh-quant"}
 {"package":"dsh-quberi"}
 {"package":"dsh-question-note"}
 {"package":"dsh-question-tree"}
@@ -3981,6 +3989,7 @@
 {"package":"dsh-sidebar-organizer"}
 {"package":"dsh-sidebar-panel-fold"}
 {"package":"dsh-sidebar-plus"}
+{"package":"dsh-sidebar-qa"}
 {"package":"dsh-sidebar-row-menu"}
 {"package":"dsh-sidebar-sections"}
 {"package":"dsh-sidebar-session-provider-icon"}
@@ -4595,6 +4604,7 @@
 {"package":"dsh-weiwen-law"}
 {"package":"dsh-weknora-archive"}
 {"package":"dsh-welcome-greeting"}
+{"package":"dsh-weread"}
 {"package":"dsh-werewolf-dealer"}
 {"package":"dsh-wewrite"}
 {"package":"dsh-whale-arcade"}
@@ -4652,6 +4662,7 @@
 {"package":"dsh-workbuddy-model"}
 {"package":"dsh-workbuddy-panel"}
 {"package":"dsh-workbuddy-ppt"}
+{"package":"dsh-workbuddy-trae-qoder-connect"}
 {"package":"dsh-workbuddy-websearch"}
 {"package":"dsh-workbuddy2api-hub"}
 {"package":"dsh-workbuddy2api-panel"}
