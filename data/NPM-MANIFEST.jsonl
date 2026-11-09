@@ -3883,6 +3883,7 @@
 {"package":"dsh-quote-annotate-pro"}
 {"package":"dsh-quote-followup"}
 {"package":"dsh-quote-reply"}
+{"package":"dsh-qwen-studio"}
 {"package":"dsh-qwen-token-plan-cn-responses"}
 {"package":"dsh-qwen38-ninfer-compaction-fix"}
 {"package":"dsh-qzone"}
@@ -4358,6 +4359,7 @@
 {"package":"dsh-speed-gauge"}
 {"package":"dsh-spend"}
 {"package":"dsh-splash"}
+{"package":"dsh-splash-animation"}
 {"package":"dsh-splash-launcher"}
 {"package":"dsh-split-screen"}
 {"package":"dsh-split-workspace"}
@@ -4850,6 +4852,7 @@
 {"package":"dsh-vscode-connect"}
 {"package":"dsh-vscode-ide"}
 {"package":"dsh-vscode-mode"}
+{"package":"dsh-vscode-panel"}
 {"package":"dsh-vscode-themes2"}
 {"package":"dsh-vscode-workbench"}
 {"package":"dsh-waaagh-ork"}
@@ -5111,6 +5114,7 @@
 {"package":"dsh-xiao-theme"}
 {"package":"dsh-xiaoai-bridge"}
 {"package":"dsh-xiaod-pet"}
+{"package":"dsh-xiaoke-widget"}
 {"package":"dsh-xiaomi-tts"}
 {"package":"dsh-xiaoqi-pet"}
 {"package":"dsh-xiaoyuzhou"}
