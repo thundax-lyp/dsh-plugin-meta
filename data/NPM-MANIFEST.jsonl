@@ -1843,6 +1843,7 @@
 {"package":"dsh-chatgpt-bridge"}
 {"package":"dsh-chatgpt-connect"}
 {"package":"dsh-chatgpt-oauth"}
+{"package":"dsh-chatgpt-sub"}
 {"package":"dsh-chatops-mcp"}
 {"package":"dsh-chatting-pet"}
 {"package":"dsh-chatvoice"}
@@ -2439,6 +2440,7 @@
 {"package":"dsh-file-review-tab"}
 {"package":"dsh-file-upload"}
 {"package":"dsh-file-viewer"}
+{"package":"dsh-files"}
 {"package":"dsh-files-menu"}
 {"package":"dsh-files-native"}
 {"package":"dsh-find-bar"}
@@ -5322,6 +5324,7 @@
 {"package":"jacky-creator"}
 {"package":"justskill-design"}
 {"package":"keep-reminder"}
+{"package":"kimi-plugin-cc"}
 {"package":"kimi-webbridge-dsh"}
 {"package":"kkj-luna-dsh-image-bridge"}
 {"package":"kunpet-dsh"}
