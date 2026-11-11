@@ -921,6 +921,7 @@
 {"package":"@rs-dsh/dsh-drafts"}
 {"package":"@rs-dsh/dsh-quote"}
 {"package":"@rs-dsh/dsh-threads"}
+{"package":"@runzhliu/dsh-welink"}
 {"package":"@ryubyte/dsh-a2a"}
 {"package":"@ryuu-64/dsh-find-all"}
 {"package":"@ryuu-64/dsh-session-tools"}
@@ -1709,6 +1710,7 @@
 {"package":"dsh-best-ponytail"}
 {"package":"dsh-better"}
 {"package":"dsh-better-choice"}
+{"package":"dsh-better-deepseek"}
 {"package":"dsh-better-display"}
 {"package":"dsh-better-edit"}
 {"package":"dsh-better-input"}
@@ -1798,6 +1800,7 @@
 {"package":"dsh-browser-service"}
 {"package":"dsh-browser-use"}
 {"package":"dsh-browser4"}
+{"package":"dsh-browserpaw"}
 {"package":"dsh-brutal-delete"}
 {"package":"dsh-btc-dashboard"}
 {"package":"dsh-btw-marginalia"}
@@ -2822,6 +2825,7 @@
 {"package":"dsh-integration-settings"}
 {"package":"dsh-intel-pulse"}
 {"package":"dsh-intent-recognition"}
+{"package":"dsh-interconnect"}
 {"package":"dsh-interim-narration"}
 {"package":"dsh-interrupted-resume"}
 {"package":"dsh-interview"}
@@ -3707,6 +3711,7 @@
 {"package":"dsh-plugin-goal-map"}
 {"package":"dsh-plugin-grok2api-media-tool"}
 {"package":"dsh-plugin-groups"}
+{"package":"dsh-plugin-guard"}
 {"package":"dsh-plugin-guard-tool"}
 {"package":"dsh-plugin-guide"}
 {"package":"dsh-plugin-gzh-studio"}
