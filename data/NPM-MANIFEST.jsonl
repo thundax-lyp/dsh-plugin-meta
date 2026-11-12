@@ -424,6 +424,7 @@
 {"package":"@gw/dsh-mimotts"}
 {"package":"@gw/dsh-text-inject"}
 {"package":"@gwsbhqt/dsh-insight"}
+{"package":"@ha-na-bi/dsh-client-ui-custom"}
 {"package":"@haitang-hub/dsh-3d-director-desk"}
 {"package":"@haitang-hub/dsh-infinite-canvas"}
 {"package":"@hanxuanliang/dsh-chaos"}
@@ -2424,6 +2425,7 @@
 {"package":"dsh-env-profile"}
 {"package":"dsh-environment-tray"}
 {"package":"dsh-error-atlas"}
+{"package":"dsh-esp32agent"}
 {"package":"dsh-essential-tools"}
 {"package":"dsh-eta-forecast"}
 {"package":"dsh-eteams"}
@@ -2530,6 +2532,7 @@
 {"package":"dsh-flomo-report"}
 {"package":"dsh-flowglass"}
 {"package":"dsh-flowix-memory"}
+{"package":"dsh-flowx-plugin"}
 {"package":"dsh-flymemory"}
 {"package":"dsh-flyout-sidebar"}
 {"package":"dsh-fmea-table-check"}
@@ -2731,6 +2734,7 @@
 {"package":"dsh-hooks-lite"}
 {"package":"dsh-hormone"}
 {"package":"dsh-host-fs"}
+{"package":"dsh-host-rsi"}
 {"package":"dsh-hot-reload"}
 {"package":"dsh-hot-reloader"}
 {"package":"dsh-hot-restart"}
@@ -4453,6 +4457,7 @@
 {"package":"dsh-shenshen-companion"}
 {"package":"dsh-sherlock"}
 {"package":"dsh-shop-assistant"}
+{"package":"dsh-short-video-studio"}
 {"package":"dsh-shortcut-extensions"}
 {"package":"dsh-shortcuts-prompt"}
 {"package":"dsh-shorts-wall"}
@@ -4761,6 +4766,7 @@
 {"package":"dsh-theme"}
 {"package":"dsh-theme-animal-island-ui"}
 {"package":"dsh-theme-customizer"}
+{"package":"dsh-theme-cyberpunk2077"}
 {"package":"dsh-theme-endfield"}
 {"package":"dsh-theme-escook"}
 {"package":"dsh-theme-eva"}
