@@ -121,6 +121,7 @@
 {"package":"@beyondandsharp/dsh-plugin-notoken"}
 {"package":"@beyondandsharp/dsh-plugin-scaling"}
 {"package":"@biggerboy123/dsh-conversation-anchors"}
+{"package":"@bihangchi9/lark-agent-bridge"}
 {"package":"@biliye/dsh-voice-call"}
 {"package":"@bill_nee/dwg-reader"}
 {"package":"@bitqyh/dsh-codex-bridge"}
@@ -302,6 +303,7 @@
 {"package":"@dsh-external/dsh-workspace-menu"}
 {"package":"@dsh-external/dsh-zero-residence"}
 {"package":"@dsh-external/workflow"}
+{"package":"@dsh-feishu/dsh-feishu"}
 {"package":"@dsh-fly/dsh-energy-orb"}
 {"package":"@dsh-fly/dsh-plugin-fly-skins"}
 {"package":"@dsh-ft/dsh-fft-paper-trading"}
@@ -379,6 +381,7 @@
 {"package":"@fanfan4589/dsh-annotation"}
 {"package":"@faxble/dsh-model-picker"}
 {"package":"@feahter/dsh-realtime-voice"}
+{"package":"@feiyang666/dsh-usage-plugin"}
 {"package":"@feng0531/dsh-code-report"}
 {"package":"@feng0531/dsh-code-review"}
 {"package":"@feng0531/dsh-execution-bus"}
@@ -679,10 +682,13 @@
 {"package":"@limuyang2/dsh-agent-team"}
 {"package":"@lingfengmow/dsh-vault"}
 {"package":"@linxin666/dsh-client-ui-activity-heatmap"}
+{"package":"@linxin666/dsh-client-ui-aionui-panel"}
 {"package":"@linxin666/dsh-client-ui-git-graph"}
 {"package":"@linxin666/dsh-client-ui-plugin-manager"}
 {"package":"@linxin666/dsh-client-ui-skill-explorer"}
 {"package":"@linxin666/dsh-client-ui-task-board"}
+{"package":"@linxin666/dsh-liangshen"}
+{"package":"@linxin666/dsh-live-stats"}
 {"package":"@linxin666/dsh-pet"}
 {"package":"@linxin666/dsh-remote-web-ui"}
 {"package":"@linxin666/dsh-ssh"}
@@ -846,6 +852,7 @@
 {"package":"@mnemon-dev/dsh-mnemon"}
 {"package":"@modusensus/dsh-artifacts"}
 {"package":"@modusensus/dsh-mneme"}
+{"package":"@mofeng2223/dsh-claude-provider"}
 {"package":"@mogragsigma/dsh-dual-host-plugin"}
 {"package":"@moguiyu/dsh-tavily"}
 {"package":"@mokuyoaxis/agent-guard"}
@@ -1048,6 +1055,7 @@
 {"package":"@sleetdrop/dsh-plugin-topology"}
 {"package":"@sligqoer/dsh-usage-stats"}
 {"package":"@smalltailqwq/dsh-client-ui-skin-maid-atelier"}
+{"package":"@smanx/dsh-proxy"}
 {"package":"@snowamberx/dsh-role-router"}
 {"package":"@soffits/dsh-cron-jobs"}
 {"package":"@solvashq/dsh-theme"}
@@ -1522,6 +1530,7 @@
 {"package":"dsh-a11y-scan"}
 {"package":"dsh-abba-secret-chat"}
 {"package":"dsh-about"}
+{"package":"dsh-academic-research-skills"}
 {"package":"dsh-academic-web-proxy"}
 {"package":"dsh-accountdisplayname-edit"}
 {"package":"dsh-achievement-helper"}
@@ -3378,6 +3387,7 @@
 {"package":"dsh-mc-server-ops"}
 {"package":"dsh-mcd-mcp"}
 {"package":"dsh-mcloud"}
+{"package":"dsh-mcp"}
 {"package":"dsh-mcp-autoload"}
 {"package":"dsh-mcp-bridge"}
 {"package":"dsh-mcp-btwy"}
@@ -3389,6 +3399,7 @@
 {"package":"dsh-mcp-host"}
 {"package":"dsh-mcp-lens"}
 {"package":"dsh-mcp-link"}
+{"package":"dsh-mcp-manager"}
 {"package":"dsh-mcp-manager-plus"}
 {"package":"dsh-mcp-market"}
 {"package":"dsh-mcp-mini-manager"}
@@ -5134,6 +5145,7 @@
 {"package":"dsh-suggest-ghost"}
 {"package":"dsh-super-cards"}
 {"package":"dsh-super-code"}
+{"package":"dsh-super-kanban"}
 {"package":"dsh-superagent-desktop"}
 {"package":"dsh-superagent-wechat-source"}
 {"package":"dsh-superinput"}
@@ -5523,6 +5535,7 @@
 {"package":"dsh-usage-peak"}
 {"package":"dsh-usage-state"}
 {"package":"dsh-usage-statistics-panel"}
+{"package":"dsh-usage-stats"}
 {"package":"dsh-usage-suite"}
 {"package":"dsh-usage-vendor-stats"}
 {"package":"dsh-use-codex"}
@@ -5668,6 +5681,7 @@
 {"package":"dsh-web-shell"}
 {"package":"dsh-web-startup-auth"}
 {"package":"dsh-web-tools"}
+{"package":"dsh-web-ui-notify"}
 {"package":"dsh-web-url-view"}
 {"package":"dsh-webannotate"}
 {"package":"dsh-webask"}
@@ -5714,6 +5728,7 @@
 {"package":"dsh-whale-waker"}
 {"package":"dsh-whale-whispers"}
 {"package":"dsh-whale-widget"}
+{"package":"dsh-whale-widget-bowl"}
 {"package":"dsh-whale-widget-dock"}
 {"package":"dsh-whats-up"}
 {"package":"dsh-where-did-my-tokens-go"}
@@ -5743,6 +5758,7 @@
 {"package":"dsh-work-list"}
 {"package":"dsh-workbench"}
 {"package":"dsh-workbench-host"}
+{"package":"dsh-workbench-plugin"}
 {"package":"dsh-workbench-sites"}
 {"package":"dsh-workbench-storage"}
 {"package":"dsh-workbench-tags"}
@@ -5975,6 +5991,7 @@
 {"package":"harness-github"}
 {"package":"harness-memory"}
 {"package":"harness-relay-mcp"}
+{"package":"hatoba-agent-plugin"}
 {"package":"helloagents"}
 {"package":"hermes-dsh-bridge"}
 {"package":"hover-glossary"}
