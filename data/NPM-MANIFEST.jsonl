@@ -1782,6 +1782,7 @@
 {"package":"dsh-advisor-group"}
 {"package":"dsh-advisor-plugin"}
 {"package":"dsh-affect"}
+{"package":"dsh-aftermath"}
 {"package":"dsh-agent-bench"}
 {"package":"dsh-agent-blackbox"}
 {"package":"dsh-agent-board"}
@@ -2312,6 +2313,7 @@
 {"package":"dsh-caption-bar"}
 {"package":"dsh-capyreporter"}
 {"package":"dsh-card-export"}
+{"package":"dsh-card-panel"}
 {"package":"dsh-card-tree"}
 {"package":"dsh-cat-pet"}
 {"package":"dsh-catdogtrace"}
@@ -2549,6 +2551,7 @@
 {"package":"dsh-compaction-sticky-window"}
 {"package":"dsh-compaction-tower"}
 {"package":"dsh-compaction-vcc"}
+{"package":"dsh-compaction-weave"}
 {"package":"dsh-companion-memory-core"}
 {"package":"dsh-company"}
 {"package":"dsh-compat-guardian"}
