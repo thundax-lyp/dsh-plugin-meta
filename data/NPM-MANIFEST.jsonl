@@ -562,6 +562,7 @@
 {"package":"@huanlin/dsh-plugin-session-delete"}
 {"package":"@huaweicloud-plugins/scenes-skill-creator"}
 {"package":"@hui-xu-ai/dsh-wensu"}
+{"package":"@huiliyi37/dsh-office"}
 {"package":"@huiliyi37/dsh-tianshu-tui"}
 {"package":"@huliux/dsh-asr-plugin"}
 {"package":"@huoweifang/dsh-mindmap"}
@@ -4437,6 +4438,7 @@
 {"package":"dsh-panellist"}
 {"package":"dsh-panes"}
 {"package":"dsh-paoding"}
+{"package":"dsh-paper-agent-skills"}
 {"package":"dsh-paper-board"}
 {"package":"dsh-paper-dual"}
 {"package":"dsh-paper-review-revision"}
@@ -4969,6 +4971,7 @@
 {"package":"dsh-preset-doctor"}
 {"package":"dsh-preset-editor"}
 {"package":"dsh-preset-scaffold"}
+{"package":"dsh-preset-studio"}
 {"package":"dsh-preset-workshop"}
 {"package":"dsh-presets-hidden"}
 {"package":"dsh-presets-plan-native-act-ptc"}
@@ -6587,6 +6590,7 @@
 {"package":"dsh-whale-pal"}
 {"package":"dsh-whale-particles"}
 {"package":"dsh-whale-particles-bg"}
+{"package":"dsh-whale-pet"}
 {"package":"dsh-whale-pet-plugin"}
 {"package":"dsh-whale-post-bus"}
 {"package":"dsh-whale-post-gate"}
@@ -6886,6 +6890,7 @@
 {"package":"feiyu-chat-companion"}
 {"package":"feiyu-memory"}
 {"package":"fitmeet-dsh-plugin"}
+{"package":"fiu-finance-mcp-dsh"}
 {"package":"focus-guard"}
 {"package":"forkprobe-dsh"}
 {"package":"freecodego"}
@@ -6915,6 +6920,7 @@
 {"package":"huaweicloud-devkit"}
 {"package":"i-am-yuike"}
 {"package":"iamchinese"}
+{"package":"idea2paper-dsh"}
 {"package":"ik-dsh-ima"}
 {"package":"imgpost"}
 {"package":"internal-skill-workshop"}
@@ -6933,6 +6939,7 @@
 {"package":"life-innovation"}
 {"package":"lin-answer-now"}
 {"package":"local-shell-mcp-dsh"}
+{"package":"love-companion"}
 {"package":"lume-dsh-plugin"}
 {"package":"lumina-dsh"}
 {"package":"lunheng-article-pipeline"}
