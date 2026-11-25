@@ -471,6 +471,7 @@
 {"package":"@gabrielbav/dsh-plugin-aws"}
 {"package":"@gabrielbav/dsh-plugin-session-delete"}
 {"package":"@game25011/dsh-remote-access"}
+{"package":"@gaor0605-kq/dsh-workspace-explorer"}
 {"package":"@gaoyinxin/dsh-mode-switcher"}
 {"package":"@gavinc-cn/touchstone-dsh"}
 {"package":"@gehennawu/dsh-service"}
@@ -1000,6 +1001,7 @@
 {"package":"@mirai27/dsh-provider-card"}
 {"package":"@mixian/dsh-desktop-plugin"}
 {"package":"@mnemon-dev/dsh-mnemon"}
+{"package":"@model-go/dsh-modelgo-provider"}
 {"package":"@modusensus/dsh-artifacts"}
 {"package":"@modusensus/dsh-mneme"}
 {"package":"@mofeng2223/dsh-claude-provider"}
@@ -1219,6 +1221,7 @@
 {"package":"@shengsheng/dsh-taskboard"}
 {"package":"@shi-yangyang/dsh-token-dashboard"}
 {"package":"@shiqyka/dsh-ssh-workspace"}
+{"package":"@shuf/dsh-sidebar-restore"}
 {"package":"@shuind/dsh-codex-harness"}
 {"package":"@shuxidemosheng/dsh-todolist"}
 {"package":"@shypie_privacy/dsh-privacy-gate"}
@@ -3071,6 +3074,7 @@
 {"package":"dsh-drawio-chat"}
 {"package":"dsh-dream-skin"}
 {"package":"dsh-dream-wander"}
+{"package":"dsh-dreams"}
 {"package":"dsh-driftwatch"}
 {"package":"dsh-drill-script-check"}
 {"package":"dsh-drillr"}
@@ -5252,6 +5256,7 @@
 {"package":"dsh-pulse-rail"}
 {"package":"dsh-punky-swarm"}
 {"package":"dsh-puppet-memory"}
+{"package":"dsh-pure-search"}
 {"package":"dsh-purge"}
 {"package":"dsh-purge-community"}
 {"package":"dsh-push-host"}
